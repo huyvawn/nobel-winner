@@ -1,0 +1,53 @@
+body {
+    font-family: "Alfred Sans Regular", "Helvetica Neue", "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.text {
+    color: rgb(0, 0, 0);
+    font-size: 2rem;
+    margin-top: 3rem;
+    margin: 0 auto; /* Căn giữa div */
+    width: 70%;
+}
+.divider {
+    height: 1px; /* Độ cao của đường kẻ */
+    background-color: rgb(2, 2, 2); /* Màu đường kẻ */
+    margin: 2rem auto; /* Khoảng cách trên và dưới */
+    width: 70%;
+}
+footer{
+    height: 30rem; /* Đặt chiều cao của div */
+    width: 70%; /* Đặt chiều rộng của div */
+    margin: 0 auto;
+}
+.footer-column {
+    width: 100%; /* Chiều rộng cột */
+    max-width: 70%; /* Tối đa bằng với width của .divider */
+    margin: 0 auto; /* Căn giữa */
+    text-align: left;
+}
+
+
+.row {
+    justify-content: center; /* Căn giữa hàng */
+}
+
+.abc{
+    margin-bottom: 2rem;
+}
+.social-icons {
+    margin-top: 10px; /* Khoảng cách giữa tiêu đề và biểu tượng */
+}
+
+.social-icons a {
+    font-size: 24px; /* Kích thước biểu tượng */
+    margin: 0 10px; /* Khoảng cách giữa các biểu tượng */
+    color: inherit; /* Kế thừa màu sắc từ văn bản cha */
+    transition: color 0.3s; /* Hiệu ứng chuyển màu */
+}
+
+.social-icons a:hover {
+    color: #007bff; /* Thay đổi màu khi hover */
+}

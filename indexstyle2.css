@@ -1,0 +1,292 @@
+.background-banner {
+    background-image: url('images/banner.jpg'); /* Đường dẫn đến ảnh */
+    background-size: cover;
+    height: 30rem; /* Chiều cao của banner */
+    width: 70%; /* Chiều rộng của banner */
+    margin: 2rem auto; /* Khoảng cách trên dưới */
+    position: relative; /* Đặt position để có thể căn chỉnh link-overlay */
+    
+}
+
+.banner-link {
+    position: absolute;
+    bottom: 1%; /* Cách đáy banner một khoảng 10% */
+    left: 0%; /* Cách bên trái banner một khoảng 5% */
+    transform: none; /* Bỏ căn giữa */
+    color: white;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 1.5rem 2rem;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 2rem;
+    text-align: left; /* Căn lề trái cho văn bản */
+    transition: background-color 0.3s, color 0.3s;
+    border: none;
+}
+
+.banner-link:hover {
+    background-color: rgba(0, 0, 0, 0); 
+    color: white;
+}
+.text-banner{
+    font-size: medium;
+}
+.number-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+
+.column {
+    width: 20rem; /* Chiều rộng của mỗi cột */
+    text-align: center;
+    font-size: 5rem; /* Kích thước font */
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    color: orange;
+    position: relative;
+}
+
+.divider-vertical {
+    width: 1px;
+    background-color: orange;
+    margin: 0 20px; /* Khoảng cách giữa các cột */
+    height: auto; /* Chiều cao tự động theo nội dung */
+    align-self: stretch; /* Tự động kéo dài theo chiều cao của cột lớn nhất */
+}
+.number-label {
+    font-size: 1.5rem; /* Kích thước chữ */
+    color: black; /* Màu chữ */
+    margin-top: 10px; /* Khoảng cách giữa số và chữ */
+    font-family: 'Arial', sans-serif; /* Phông chữ */
+    text-align: left; /* Căn lề trái */
+    width: 100%; /* Chiều rộng 100% trong cột */
+    padding-left: 10px; /* Khoảng cách bên trái để chữ không dính sát cột */
+    box-sizing: border-box; /* Đảm bảo padding được tính vào chiều rộng */
+}
+
+.text2 {
+    color: black;
+    text-align: left; 
+    width: 70%; /* Đặt chiều rộng bằng với đường kẻ */
+    margin: 0 auto; /* Căn giữa div */
+    font-size: 2.5rem;
+}
+.background-content {
+    background-color: #f4f4f4; /* Hoặc màu nền bạn muốn */
+    padding: 2rem; /* Khoảng cách bên trong */
+    width: 70%; /* Độ rộng giống như phần background-div trước */
+    margin: 0 auto; /* Căn giữa */
+}
+
+.content-container {
+    display: flex; /* Sử dụng flexbox để tạo cột */
+    justify-content: space-between; /* Căn giữa các cột */
+    align-items: flex-start; /* Căn các cột lên trên cùng */
+    margin-bottom: 3rem;
+}
+
+.left-column {
+    flex: 1; /* Cột bên trái chiếm 1 phần không gian */
+    margin-right: 1rem; /* Khoảng cách giữa hai cột */
+}
+
+.right-column {
+    flex: 2; /* Cột bên phải chiếm 2 phần không gian */
+}
+.subtitle{
+    color: rgb(160, 159, 165);
+    font-size: .9375em;
+    line-height: 1.33333333;
+    margin-bottom: 2rem;
+}
+.title{
+    color: black;
+    font-size: 3rem;
+    text-align: left;
+    margin-bottom: 2rem;
+}
+.text-content {
+    flex: 1; /* Chiếm không gian còn lại */
+    margin-right: 2rem; /* Khoảng cách bên phải */
+}
+.image-content {
+    flex: 1; /* Chiếm không gian còn lại */
+}
+.text-link{
+    transform: translate(-50%, -50%); /* Căn giữa chính xác */
+    color: orange; /* Màu chữ */
+    background-color: rgba(0, 0, 0, 0); /* Nền mờ để chữ nổi bật */
+    padding: 1rem; /* Khoảng cách xung quanh chữ */
+    text-decoration: none; /* Bỏ gạch chân */
+    border: none;
+    font-size: 2rem;
+    text-align: left;
+    transition: background-color 0.3s, color 0.3s; /* Hiệu ứng chuyển tiếp */
+}
+.text-link:hover{
+    background-color: rgba(0, 0, 0, 0); /* Đặt nền thành trong suốt */
+    color: orange;
+}
+.text-container{
+    color: black;
+    margin-top: 2rem;
+}
+
+.featured-laureates {
+    display: flex;
+    flex-direction: column; /* Cột cho các hàng */
+    gap: 2rem; /* Khoảng cách giữa các hàng */
+    margin: 2rem 0;
+}
+
+.laureate-row {
+    display: flex; /* Chia thành 2 cột */
+    justify-content: space-between; /* Khoảng cách giữa các cột */
+}
+
+.laureate-item {
+    display: flex; /* Căn ảnh và văn bản theo chiều ngang */
+    align-items: center;
+    width: 48%; /* Mỗi cột chiếm 48% chiều rộng */
+    padding: 1rem;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.laureate-image {
+    width: 30%; /* Ảnh chiếm 30% chiều rộng của mỗi ô */
+    margin-right: 1rem;
+    border-radius: 50%; /* Bo góc ảnh */
+}
+
+.laureate-info h3 {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.laureate-info p {
+    font-size: 1rem;
+    margin: 0.5rem 0 0 0;
+}
+
+/* Media Queries để làm responsive */
+@media (max-width: 768px) {
+    .laureate-row {
+        flex-direction: column; /* Khi màn hình nhỏ, các item xếp dọc thay vì ngang */
+    }
+
+    .laureate-item {
+        width: 100%; /* Đảm bảo mỗi item chiếm toàn bộ chiều rộng màn hình */
+        margin-bottom: 1rem; /* Khoảng cách giữa các item */
+    }
+
+    .laureate-image {
+        width: 25%; /* Giảm kích thước ảnh trên màn hình nhỏ */
+    }
+}
+
+@media (max-width: 480px) {
+    .laureate-image {
+        width: 20%; /* Giảm kích thước ảnh hơn nữa trên màn hình rất nhỏ */
+    }
+
+    .laureate-info h3 {
+        font-size: 1rem; /* Giảm kích thước tiêu đề */
+    }
+
+    .laureate-info p {
+        font-size: 0.9rem; /* Giảm kích thước mô tả */
+    }
+}
+main{
+    height: 30rem; /* Đặt chiều cao của div */
+    width: 70%; /* Đặt chiều rộng của div */
+    margin: 0 auto;
+}
+/* Định dạng chung cho carousel */
+#laureatesCarousel {
+    width: 80%; /* Đặt chiều rộng cho carousel */
+    margin: 0 auto; /* Đặt giữa trang */
+    position: relative;
+}
+
+.carousel-inner {
+    border-radius: 10px; /* Bo góc cho các ảnh */
+    overflow: hidden;
+    margin-top: 5rem;
+}
+
+.carousel-item img {
+    height: 30rem; /* Chiều cao của ảnh */
+    object-fit: contain; /* Hiển thị toàn bộ ảnh */
+    width: 100%;
+    background-color: #f0f0f0; /* Màu nền xám nhạt để lấp đầy vùng trống nếu ảnh không đủ kích thước */
+}
+
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0); /* Đặt nền đen trong suốt cho phần caption */
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.carousel-caption h5 {
+    color: #fff; /* Màu chữ của tiêu đề */
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.carousel-caption p {
+    color: #f0f0f0; /* Màu chữ của mô tả */
+}
+
+/* Nút điều khiển Carousel */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: orange; /* Đặt nền cho nút điều khiển */
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.carousel-control-prev-icon:hover,
+.carousel-control-next-icon:hover {
+    background-color: rgba(0, 0, 0, 0.8); /* Hiệu ứng hover */
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 5%;
+}
+
+/* Điều chỉnh các chế độ hiển thị trên thiết bị nhỏ */
+@media (max-width: 768px) {
+    .carousel-caption h5 {
+        font-size: 1.2rem;
+    }
+    
+    .carousel-caption p {
+        font-size: 0.9rem;
+    }
+
+    #laureatesCarousel {
+        width: 100%; /* Trên màn hình nhỏ hơn, carousel chiếm toàn bộ chiều rộng */
+    }
+}
+
+@media (max-width: 480px) {
+    .carousel-caption h5 {
+        font-size: 1rem;
+    }
+
+    .carousel-caption p {
+        font-size: 0.8rem;
+    }
+
+    .carousel-item img {
+        height: 250px; /* Giảm chiều cao ảnh trên màn hình nhỏ */
+    }
+}
+

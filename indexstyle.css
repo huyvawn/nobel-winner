@@ -1,0 +1,52 @@
+body {
+    font-family: "Alfred Sans Regular", "Helvetica Neue", "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.text {
+    color: orange;
+    text-align: left; 
+    width: 70%; /* Đặt chiều rộng bằng với đường kẻ */
+    margin: 0 auto; /* Căn giữa div */
+    font-size: 1.5rem;
+}
+.background-div {
+    background-image: url('images/background.jpg'); /* Đường dẫn đến ảnh */
+    background-size: cover; 
+    /* background-position: center; Căn giữa ảnh */
+    height: 30rem; /* Đặt chiều cao của div */
+    width: 70%; /* Đặt chiều rộng của div */
+    margin: 0 auto;
+
+}
+.link-overlay {
+    position: absolute; /* Định vị tuyệt đối */
+    top: 50%; /* Đặt giữa theo chiều dọc */
+    left: 50%; /* Đặt giữa theo chiều ngang */
+    transform: translate(-50%, -50%); /* Căn giữa chính xác */
+    color: orange; /* Màu chữ */
+    background-color: rgba(0, 0, 0, 0); /* Nền mờ để chữ nổi bật */
+    padding: 1rem; /* Khoảng cách xung quanh chữ */
+    text-decoration: none; /* Bỏ gạch chân */
+    border: none;
+    font-size: 4rem;
+    text-align: center;
+    transition: background-color 0.3s, color 0.3s; /* Hiệu ứng chuyển tiếp */
+    
+    
+}
+
+.link-overlay:hover {
+    background-color: rgba(0, 0, 0, 0); /* Đặt nền thành trong suốt */
+    color: orange;
+}
+.divider {
+    height: 1px; /* Độ cao của đường kẻ */
+    background-color: rgb(2, 2, 2); /* Màu đường kẻ */
+    margin: 2rem auto; /* Khoảng cách trên và dưới */
+    width: 70%;
+}
+
+
+
