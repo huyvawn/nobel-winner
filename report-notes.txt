@@ -1,0 +1,19 @@
+Demo:
+1.Slide: 
+- Giới thiệu (Đề tài, nhóm)
+- Chức năng (Lớp người dùng, chức năng)
+- Db diagram
+- Công nghệ sử dụng
+- Tổng kết
+
+2. Demo sản phẩm:
+- Chức năng chính theo luồng sử dụng
+- Kịch bản
+- Dữ liệu
+
+3***. Kết quả
+1. Source code ( backend-frontend- db)
+2. 
+3. Video demo sản phẩm (phụ đề)
+
+** 1 file .zip  upload mediafire, gửi email
