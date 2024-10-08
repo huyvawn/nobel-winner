@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<!-- saved from url=(0027)https://www.nobelprize.org/ -->
+<!-- saved from url=(0040)https://www.nobelprize.org/prizes/peace/ -->
 <html lang="en-US" class="js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<script type="text/javascript" async="" src="./index_files/hotjar-1004842.js.tải xuống"></script><script type="text/javascript" async="" src="./index_files/js" class="optanon-category-C0002 "></script><script type="text/javascript" async="" src="./index_files/analytics.js.tải xuống" class="optanon-category-C0002 "></script><script type="text/javascript">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:["bam.eu01.nr-data.net"]},distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:"212354677",accountID:"3196970",trustKey:"3196970",xpid:"VwcOV19UCBACVVNRAgUCUlc=",licenseKey:"NRJS-0940f7eaf4cb46e1cfe",applicationID:"212354543"};;/*! For license information please see nr-loader-spa-1.266.0.min.js.LICENSE.txt */
+<script type="text/javascript" async="" src="./peace_files/hotjar-1004842.js.tải xuống"></script><script type="text/javascript" async="" src="./peace_files/js" class="optanon-category-C0002 "></script><script type="text/javascript" async="" src="./peace_files/analytics.js.tải xuống" class="optanon-category-C0002 "></script><script id="os-widget-jssdk" async="" src="./peace_files/loader.js.tải xuống"></script><script type="text/javascript">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:["bam.eu01.nr-data.net"]},distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:"212354677",accountID:"3196970",trustKey:"3196970",xpid:"VwcOV19UCBACVVNRAgUCUlc=",licenseKey:"NRJS-0940f7eaf4cb46e1cfe",applicationID:"212354543"};;/*! For license information please see nr-loader-spa-1.266.0.min.js.LICENSE.txt */
 (()=>{var e,t,r={8122:(e,t,r)=>{"use strict";r.d(t,{a:()=>i});var n=r(944);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.R)(3);if(!t||"object"!=typeof t)return(0,n.R)(4);const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),o=0===Object.keys(r).length?e:r;for(let a in o)if(void 0!==e[a])try{if(null===e[a]){r[a]=null;continue}Array.isArray(e[a])&&Array.isArray(t[a])?r[a]=Array.from(new Set([...e[a],...t[a]])):"object"==typeof e[a]&&"object"==typeof t[a]?r[a]=i(e[a],t[a]):r[a]=e[a]}catch(e){(0,n.R)(1,e)}return r}catch(e){(0,n.R)(2,e)}}},2555:(e,t,r)=>{"use strict";r.d(t,{Vp:()=>c,fn:()=>s,x1:()=>u});var n=r(384),i=r(8122);const o={beacon:n.NT.beacon,errorBeacon:n.NT.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function s(e){try{const t=c(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}function c(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!a[e])throw new Error("Info for ".concat(e," was never set"));return a[e]}function u(e,t){if(!e)throw new Error("All info objects require an agent identifier!");a[e]=(0,i.a)(t,o);const r=(0,n.nY)(e);r&&(r.info=a[e])}},9417:(e,t,r)=>{"use strict";r.d(t,{D0:()=>h,gD:()=>p,xN:()=>g});var n=r(993);const i=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var o=r(2614),a=r(944),s=r(384),c=r(8122);const u="[data-nr-mask]",d=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},feature_flags:[],generic_events:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},harvest:{tooManyRequestsDelay:60},jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},logging:{enabled:!0,harvestTimeSeconds:10,autoStart:!0,level:n.p_.INFO},metrics:{enabled:!0,autoStart:!0},obfuscate:void 0,page_action:{enabled:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},privacy:{cookies_enabled:!0},proxy:{assets:void 0,beacon:void 0},session:{expiresMs:o.wk,inactiveMs:o.BB},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,preload:!1,sampling_rate:10,error_sampling_rate:100,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,fix_stylesheets:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){i(t)?e.mask_selector="".concat(t,",").concat(u):""===t||null===t?e.mask_selector=u:(0,a.R)(5,t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){i(t)?e.block_selector+=",".concat(t):""!==t&&(0,a.R)(6,t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,a.R)(7,t)}},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},soft_navigations:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},ssl:void 0}},l={},f="All configuration objects require an agent identifier!";function h(e){if(!e)throw new Error(f);if(!l[e])throw new Error("Configuration for ".concat(e," was never set"));return l[e]}function g(e,t){if(!e)throw new Error(f);l[e]=(0,c.a)(t,d());const r=(0,s.nY)(e);r&&(r.init=l[e])}function p(e,t){if(!e)throw new Error(f);var r=h(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}},5603:(e,t,r)=>{"use strict";r.d(t,{a:()=>c,o:()=>s});var n=r(384),i=r(8122);const o={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},a={};function s(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!a[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return a[e]}function c(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");a[e]=(0,i.a)(t,o);const r=(0,n.nY)(e);r&&(r.loader_config=a[e])}},3371:(e,t,r)=>{"use strict";r.d(t,{V:()=>f,f:()=>l});var n=r(8122),i=r(384),o=r(6154),a=r(9324);let s=0;const c={buildEnv:a.F3,distMethod:a.Xs,version:a.xv,originTime:o.WN},u={customTransaction:void 0,disabled:!1,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,onerror:void 0,origin:""+o.gm.location,ptid:void 0,releaseIds:{},appMetadata:{},session:void 0,denyList:void 0,timeKeeper:void 0,obfuscator:void 0},d={};function l(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!d[e])throw new Error("Runtime for ".concat(e," was never set"));return d[e]}function f(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");d[e]={...(0,n.a)(t,u),...c},Object.hasOwnProperty.call(d[e],"harvestCount")||Object.defineProperty(d[e],"harvestCount",{get:()=>++s});const r=(0,i.nY)(e);r&&(r.runtime=d[e])}},9324:(e,t,r)=>{"use strict";r.d(t,{F3:()=>i,Xs:()=>o,Yq:()=>a,xv:()=>n});const n="1.266.0",i="PROD",o="CDN",a="2.0.0-alpha.12"},6154:(e,t,r)=>{"use strict";r.d(t,{A4:()=>s,OF:()=>d,RI:()=>i,Vr:()=>h,WN:()=>g,bv:()=>o,gm:()=>a,lR:()=>f,m:()=>u,mw:()=>c,sb:()=>l});var n=r(1863);const i="undefined"!=typeof window&&!!window.document,o="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=i?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),s="complete"===a?.document?.readyState,c=Boolean("hidden"===a?.document?.visibilityState),u=""+a?.location,d=/iPad|iPhone|iPod/.test(a.navigator?.userAgent),l=d&&"undefined"==typeof SharedWorker,f=(()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);return Array.isArray(e)&&e.length>=2?+e[1]:0})(),h=!!a.navigator?.sendBeacon,g=Date.now()-(0,n.t)()},4777:(e,t,r)=>{"use strict";r.d(t,{J:()=>o});var n=r(944);const i={agentIdentifier:"",ee:void 0};class o{constructor(e){try{if("object"!=typeof e)return(0,n.R)(8);this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((([e,t])=>{Object.keys(i).includes(e)&&(this.sharedContext[e]=t)}))}catch(e){(0,n.R)(9,e)}}}},7295:(e,t,r)=>{"use strict";r.d(t,{Xv:()=>a,gX:()=>i,iW:()=>o});var n=[];function i(e){if(!e||o(e))return!1;if(0===n.length)return!0;for(var t=0;t<n.length;t++){var r=n[t];if("*"===r.hostname)return!1;if(s(r.hostname,e.hostname)&&c(r.pathname,e.pathname))return!1}return!0}function o(e){return void 0===e.hostname}function a(e){if(n=[],e&&e.length)for(var t=0;t<e.length;t++){let r=e[t];if(!r)continue;0===r.indexOf("http://")?r=r.substring(7):0===r.indexOf("https://")&&(r=r.substring(8));const i=r.indexOf("/");let o,a;i>0?(o=r.substring(0,i),a=r.substring(i)):(o=r,a="");let[s]=o.split(":");n.push({hostname:s,pathname:a})}}function s(e,t){return!(e.length>t.length)&&t.indexOf(e)===t.length-e.length}function c(e,t){return 0===e.indexOf("/")&&(e=e.substring(1)),0===t.indexOf("/")&&(t=t.substring(1)),""===e||e===t}},1687:(e,t,r)=>{"use strict";r.d(t,{Ak:()=>c,Ze:()=>l,x3:()=>u});var n=r(7836),i=r(3606),o=r(860),a=r(2646);const s={};function c(e,t){const r={staged:!1,priority:o.P[t]||0};d(e),s[e].get(t)||s[e].set(t,r)}function u(e,t){e&&s[e]&&(s[e].get(t)&&s[e].delete(t),h(e,t,!1),s[e].size&&f(e))}function d(e){if(!e)throw new Error("agentIdentifier required");s[e]||(s[e]=new Map)}function l(e="",t="feature",r=!1){if(d(e),!e||!s[e].get(t)||r)return h(e,t);s[e].get(t).staged=!0,f(e)}function f(e){const t=Array.from(s[e]);t.every((([e,t])=>t.staged))&&(t.sort(((e,t)=>e[1].priority-t[1].priority)),t.forEach((([t])=>{s[e].delete(t),h(e,t)})))}function h(e,t,r=!0){const o=e?n.ee.get(e):n.ee,s=i.i.handlers;if(!o.aborted&&o.backlog&&s){if(r){const e=o.backlog[t],r=s[t];if(r){for(let t=0;e&&t<e.length;++t)g(e[t],r);Object.entries(r).forEach((([e,t])=>{Object.values(t||{}).forEach((t=>{t[0]?.on&&t[0]?.context()instanceof a.y&&t[0].on(e,t[1])}))}))}}o.isolatedBacklog||delete s[t],o.backlog[t]=null,o.emit("drain-"+t,[])}}function g(e,t){var r=e[1];Object.values(t[r]||{}).forEach((t=>{var r=e[0];if(t[0]===r){var n=t[1],i=e[3],o=e[2];n.apply(i,o)}}))}},7836:(e,t,r)=>{"use strict";r.d(t,{P:()=>c,ee:()=>u});var n=r(384),i=r(8990),o=r(3371),a=r(2646),s=r(5607);const c="nr@context:".concat(s.W),u=function e(t,r){var n={},s={},d={},l=!1;try{l=16===r.length&&(0,o.f)(r).isolatedBacklog}catch(e){}var f={on:g,addEventListener:g,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,o){!1!==o&&(o=!0);if(u.aborted&&!i)return;t&&o&&t.emit(e,r,n);for(var a=h(n),c=p(e),d=c.length,l=0;l<d;l++)c[l].apply(a,r);var g=v()[s[e]];g&&g.push([f,e,r,a]);return a},get:m,listeners:p,context:h,buffer:function(e,t){const r=v();if(t=t||"feature",f.aborted)return;Object.entries(e||{}).forEach((([e,n])=>{s[n]=t,t in r||(r[t]=[])}))},abort:function(){f._aborted=!0,Object.keys(f.backlog).forEach((e=>{delete f.backlog[e]}))},isBuffering:function(e){return!!v()[s[e]]},debugId:r,backlog:l?{}:t&&"object"==typeof t.backlog?t.backlog:{},isolatedBacklog:l};return Object.defineProperty(f,"aborted",{get:()=>{let e=f._aborted||!1;return e||(t&&(e=t.aborted),e)}}),f;function h(e){return e&&e instanceof a.y?e:e?(0,i.I)(e,c,(()=>new a.y(c))):new a.y(c)}function g(e,t){n[e]=p(e).concat(t)}function p(e){return n[e]||[]}function m(t){return d[t]=d[t]||e(f,t)}function v(){return f.backlog}}(void 0,"globalEE"),d=(0,n.Zm)();d.ee||(d.ee=u)},2646:(e,t,r)=>{"use strict";r.d(t,{y:()=>n});class n{constructor(e){this.contextId=e}}},9908:(e,t,r)=>{"use strict";r.d(t,{d:()=>n,p:()=>i});var n=r(7836).ee.get("handle");function i(e,t,r,i,o){o?(o.buffer([e],i),o.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},3606:(e,t,r)=>{"use strict";r.d(t,{i:()=>o});var n=r(9908);o.on=a;var i=o.handlers={};function o(e,t,r,o){a(o||n.d,i,e,t,r)}function a(e,t,r,i,o){o||(o="feature"),e||(e=n.d);var a=t[o]=t[o]||{};(a[r]=a[r]||[]).push([e,i])}},3878:(e,t,r)=>{"use strict";r.d(t,{DD:()=>c,jT:()=>a,sp:()=>s});var n=r(6154);let i=!1,o=!1;try{const e={get passive(){return i=!0,!1},get signal(){return o=!0,!1}};n.gm.addEventListener("test",null,e),n.gm.removeEventListener("test",null,e)}catch(e){}function a(e,t){return i||o?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t,r=!1,n){window.addEventListener(e,t,a(r,n))}function c(e,t,r=!1,n){document.addEventListener(e,t,a(r,n))}},5607:(e,t,r)=>{"use strict";r.d(t,{W:()=>n});const n=(0,r(9566).bz)()},9566:(e,t,r)=>{"use strict";r.d(t,{LA:()=>s,ZF:()=>c,bz:()=>a,el:()=>u});var n=r(6154);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function o(e,t){return e?15&e[t]:16*Math.random()|0}function a(){const e=n.gm?.crypto||n.gm?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map((e=>"x"===e?o(t,r++).toString(16):"y"===e?(3&o()|8).toString(16):e)).join("")}function s(e){const t=n.gm?.crypto||n.gm?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const a=[];for(var s=0;s<e;s++)a.push(o(r,i++).toString(16));return a.join("")}function c(){return s(16)}function u(){return s(32)}},2614:(e,t,r)=>{"use strict";r.d(t,{BB:()=>a,H3:()=>n,g:()=>u,iL:()=>c,tS:()=>s,uh:()=>i,wk:()=>o});const n="NRBA",i="SESSION",o=144e5,a=18e5,s={STARTED:"session-started",PAUSE:"session-pause",RESET:"session-reset",RESUME:"session-resume",UPDATE:"session-update"},c={SAME_TAB:"same-tab",CROSS_TAB:"cross-tab"},u={OFF:0,FULL:1,ERROR:2}},1863:(e,t,r)=>{"use strict";function n(){return Math.floor(performance.now())}r.d(t,{t:()=>n})},7485:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=r(6154);function i(e){if(0===(e||"").indexOf("data:"))return{protocol:"data"};try{const t=new URL(e,location.href),r={port:t.port,hostname:t.hostname,pathname:t.pathname,search:t.search,protocol:t.protocol.slice(0,t.protocol.indexOf(":")),sameOrigin:t.protocol===n.gm?.location?.protocol&&t.host===n.gm?.location?.host};return r.port&&""!==r.port||("http:"===t.protocol&&(r.port="80"),"https:"===t.protocol&&(r.port="443")),r.pathname&&""!==r.pathname?r.pathname.startsWith("/")||(r.pathname="/".concat(r.pathname)):r.pathname="/",r}catch(e){return{}}}},944:(e,t,r)=>{"use strict";function n(e,t){"function"==typeof console.debug&&console.debug("New Relic Warning: https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},5284:(e,t,r)=>{"use strict";r.d(t,{t:()=>c,B:()=>s});var n=r(7836),i=r(6154);const o="newrelic";const a=new Set,s={};function c(e,t){const r=n.ee.get(t);s[t]??={},e&&"object"==typeof e&&(a.has(t)||(r.emit("rumresp",[e]),s[t]=e,a.add(t),function(e={}){try{i.gm.dispatchEvent(new CustomEvent(o,{detail:e}))}catch(e){}}({loaded:!0})))}},8990:(e,t,r)=>{"use strict";r.d(t,{I:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},6389:(e,t,r)=>{"use strict";function n(e,t=500,r={}){const n=r?.leading||!1;let i;return(...r)=>{n&&void 0===i&&(e.apply(this,r),i=setTimeout((()=>{i=clearTimeout(i)}),t)),n||(clearTimeout(i),i=setTimeout((()=>{e.apply(this,r)}),t))}}function i(e){let t=!1;return(...r)=>{t||(t=!0,e.apply(this,r))}}r.d(t,{J:()=>i,s:()=>n})},3304:(e,t,r)=>{"use strict";r.d(t,{A:()=>o});var n=r(7836);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function o(e){try{return JSON.stringify(e,i())}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}}}},5289:(e,t,r)=>{"use strict";r.d(t,{GG:()=>o,sB:()=>a});var n=r(3878);function i(){return"undefined"==typeof document||"complete"===document.readyState}function o(e,t){if(i())return e();(0,n.sp)("load",e,t)}function a(e){if(i())return e();(0,n.DD)("DOMContentLoaded",e)}},384:(e,t,r)=>{"use strict";r.d(t,{NT:()=>o,US:()=>d,Zm:()=>a,bQ:()=>c,dV:()=>s,nY:()=>u,pV:()=>l});var n=r(6154),i=r(1863);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function a(){return n.gm.NREUM||(n.gm.NREUM={}),void 0===n.gm.newrelic&&(n.gm.newrelic=n.gm.NREUM),n.gm.NREUM}function s(){let e=a();return e.o||(e.o={ST:n.gm.setTimeout,SI:n.gm.setImmediate,CT:n.gm.clearTimeout,XHR:n.gm.XMLHttpRequest,REQ:n.gm.Request,EV:n.gm.Event,PR:n.gm.Promise,MO:n.gm.MutationObserver,FETCH:n.gm.fetch,WS:n.gm.WebSocket}),e}function c(e,t){let r=a();r.initializedAgents??={},t.initializedAt={ms:(0,i.t)(),date:new Date},r.initializedAgents[e]=t}function u(e){let t=a();return t.initializedAgents?.[e]}function d(e,t){a()[e]=t}function l(){return function(){let e=a();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=a();const t=e.init||{};e.init={...t}}(),s(),function(){let e=a();const t=e.loader_config||{};e.loader_config={...t}}(),a()}},2843:(e,t,r)=>{"use strict";r.d(t,{u:()=>i});var n=r(3878);function i(e,t=!1,r,i){(0,n.DD)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),r,i)}},8139:(e,t,r)=>{"use strict";r.d(t,{u:()=>f});var n=r(7836),i=r(3434),o=r(8990),a=r(6154);const s={},c=a.gm.XMLHttpRequest,u="addEventListener",d="removeEventListener",l="nr@wrapped:".concat(n.P);function f(e){var t=function(e){return(e||n.ee).get("events")}(e);if(s[t.debugId]++)return t;s[t.debugId]=1;var r=(0,i.YM)(t,!0);function f(e){r.inPlace(e,[u,d],"-",g)}function g(e,t){return e[1]}return"getPrototypeOf"in Object&&(a.RI&&h(document,f),h(a.gm,f),h(c.prototype,f)),t.on(u+"-start",(function(e,t){var n=e[1];if(null!==n&&("function"==typeof n||"object"==typeof n)){var i=(0,o.I)(n,l,(function(){var e={object:function(){if("function"!=typeof n.handleEvent)return;return n.handleEvent.apply(n,arguments)},function:n}[typeof n];return e?r(e,"fn-",null,e.name||"anonymous"):n}));this.wrapped=e[1]=i}})),t.on(d+"-start",(function(e){e[1]=this.wrapped||e[1]})),t}function h(e,t,...r){let n=e;for(;"object"==typeof n&&!Object.prototype.hasOwnProperty.call(n,u);)n=Object.getPrototypeOf(n);n&&t(n,...r)}},3434:(e,t,r)=>{"use strict";r.d(t,{Jt:()=>o,YM:()=>c});var n=r(7836),i=r(5607);const o="nr@original:".concat(i.W);var a=Object.prototype.hasOwnProperty,s=!1;function c(e,t){return e||(e=n.ee),r.inPlace=function(e,t,n,i,o){n||(n="");const a="-"===n.charAt(0);for(let s=0;s<t.length;s++){const c=t[s],u=e[c];d(u)||(e[c]=r(u,a?c+n:n,i,c,o))}},r.flag=o,r;function r(t,r,n,s,c){return d(t)?t:(r||(r=""),nrWrapper[o]=t,function(e,t,r){if(Object.defineProperty&&Object.keys)try{return Object.keys(e).forEach((function(r){Object.defineProperty(t,r,{get:function(){return e[r]},set:function(t){return e[r]=t,t}})})),t}catch(e){u([e],r)}for(var n in e)a.call(e,n)&&(t[n]=e[n])}(t,nrWrapper,e),nrWrapper);function nrWrapper(){var o,a,d,l;try{a=this,o=[...arguments],d="function"==typeof n?n(o,a):n||{}}catch(t){u([t,"",[o,a,s],d],e)}i(r+"start",[o,a,s],d,c);try{return l=t.apply(a,o)}catch(e){throw i(r+"err",[o,a,e],d,c),e}finally{i(r+"end",[o,a,l],d,c)}}}function i(r,n,i,o){if(!s||t){var a=s;s=!0;try{e.emit(r,n,i,t,o)}catch(t){u([t,r,n,i],e)}s=a}}}function u(e,t){t||(t=n.ee);try{t.emit("internal-error",e)}catch(e){}}function d(e){return!(e&&"function"==typeof e&&e.apply&&!e[o])}},9300:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K.ajax},3333:(e,t,r)=>{"use strict";r.d(t,{TZ:()=>n});const n=r(860).K.genericEvents},6774:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K.jserrors},993:(e,t,r)=>{"use strict";r.d(t,{ET:()=>o,TZ:()=>a,p_:()=>i});var n=r(860);const i={ERROR:"ERROR",WARN:"WARN",INFO:"INFO",DEBUG:"DEBUG",TRACE:"TRACE"},o="log",a=n.K.logging},3785:(e,t,r)=>{"use strict";r.d(t,{R:()=>c,b:()=>u});var n=r(9908),i=r(1863),o=r(860),a=r(3969),s=r(993);function c(e,t,r={},c=s.p_.INFO){(0,n.p)(a.xV,["API/logging/".concat(c.toLowerCase(),"/called")],void 0,o.K.metrics,e),(0,n.p)(s.ET,[(0,i.t)(),t,r,c],void 0,o.K.logging,e)}function u(e){return"string"==typeof e&&Object.values(s.p_).some((t=>t===e.toUpperCase().trim()))}},3969:(e,t,r)=>{"use strict";r.d(t,{TZ:()=>n,XG:()=>s,rs:()=>i,xV:()=>a,z_:()=>o});const n=r(860).K.metrics,i="sm",o="cm",a="storeSupportabilityMetrics",s="storeEventMetrics"},6630:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K.pageViewEvent},782:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K.pageViewTiming},6344:(e,t,r)=>{"use strict";r.d(t,{BB:()=>d,G4:()=>o,Qb:()=>l,TZ:()=>i,Ug:()=>a,_s:()=>s,bc:()=>u,yP:()=>c});var n=r(2614);const i=r(860).K.sessionReplay,o={RECORD:"recordReplay",PAUSE:"pauseReplay",REPLAY_RUNNING:"replayRunning",ERROR_DURING_REPLAY:"errorDuringReplay"},a=.12,s={DomContentLoaded:0,Load:1,FullSnapshot:2,IncrementalSnapshot:3,Meta:4,Custom:5},c={[n.g.ERROR]:15e3,[n.g.FULL]:3e5,[n.g.OFF]:0},u={RESET:{message:"Session was reset",sm:"Reset"},IMPORT:{message:"Recorder failed to import",sm:"Import"},TOO_MANY:{message:"429: Too Many Requests",sm:"Too-Many"},TOO_BIG:{message:"Payload was too large",sm:"Too-Big"},CROSS_TAB:{message:"Session Entity was set to OFF on another tab",sm:"Cross-Tab"},ENTITLEMENTS:{message:"Session Replay is not allowed and will not be started",sm:"Entitlement"}},d=5e3,l={API:"api"}},5270:(e,t,r)=>{"use strict";r.d(t,{Aw:()=>c,CT:()=>u,SR:()=>s});var n=r(384),i=r(9417),o=r(7767),a=r(6154);function s(e){return!!(0,n.dV)().o.MO&&(0,o.V)(e)&&!0===(0,i.gD)(e,"session_trace.enabled")}function c(e){return!0===(0,i.gD)(e,"session_replay.preload")&&s(e)}function u(e,t){const r=t.correctAbsoluteTimestamp(e);return{originalTimestamp:e,correctedTimestamp:r,timestampDiff:e-r,originTime:a.WN,correctedOriginTime:t.correctedOriginTime,originTimeDiff:Math.floor(a.WN-t.correctedOriginTime)}}},3738:(e,t,r)=>{"use strict";r.d(t,{He:()=>i,Kp:()=>s,Lc:()=>u,Rz:()=>d,TZ:()=>n,bD:()=>o,d3:()=>a,jx:()=>l,uP:()=>c});const n=r(860).K.sessionTrace,i="bstResource",o="resource",a="-start",s="-end",c="fn"+a,u="fn"+s,d="pushState",l=1e3},3962:(e,t,r)=>{"use strict";r.d(t,{AM:()=>o,O2:()=>s,Qu:()=>c,TZ:()=>a,ih:()=>u,tC:()=>i});var n=r(860);const i=["click","keydown","submit"],o="api",a=n.K.softNav,s={INITIAL_PAGE_LOAD:"",ROUTE_CHANGE:1,UNSPECIFIED:2},c={INTERACTION:1,AJAX:2,CUSTOM_END:3,CUSTOM_TRACER:4},u={IP:"in progress",FIN:"finished",CAN:"cancelled"}},7378:(e,t,r)=>{"use strict";r.d(t,{$p:()=>R,BR:()=>b,Kp:()=>x,L3:()=>y,Lc:()=>c,NC:()=>o,SG:()=>d,TZ:()=>i,U6:()=>g,UT:()=>m,d3:()=>w,dT:()=>f,e5:()=>A,gx:()=>v,l9:()=>l,oW:()=>h,op:()=>p,rw:()=>u,tH:()=>E,uP:()=>s,wW:()=>T,xq:()=>a});var n=r(384);const i=r(860).K.spa,o=["click","submit","keypress","keydown","keyup","change"],a=999,s="fn-start",c="fn-end",u="cb-start",d="api-ixn-",l="remaining",f="interaction",h="spaNode",g="jsonpNode",p="fetch-start",m="fetch-done",v="fetch-body-",b="jsonp-end",y=(0,n.dV)().o.ST,w="-start",x="-end",R="-body",T="cb"+x,A="jsTime",E="fetch"},4234:(e,t,r)=>{"use strict";r.d(t,{W:()=>i});var n=r(7836);class i{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=n.ee.get(e),this.featureName=r,this.blocked=!1}}},7767:(e,t,r)=>{"use strict";r.d(t,{V:()=>o});var n=r(9417),i=r(6154);const o=e=>i.RI&&!0===(0,n.gD)(e,"privacy.cookies_enabled")},425:(e,t,r)=>{"use strict";r.d(t,{j:()=>j});var n=r(860),i=r(2555),o=r(3371),a=r(9908),s=r(7836),c=r(1687),u=r(5289),d=r(6154),l=r(944),f=r(3969),h=r(384),g=r(6344);const p=["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start",g.G4.RECORD,g.G4.PAUSE,"log","wrapLogger"],m=["setErrorHandler","finished","addToTrace","addRelease"];var v=r(1863),b=r(2614),y=r(993),w=r(3785),x=r(2646),R=r(3434);function T(e,t,r,n){if("object"!=typeof t||!t||"string"!=typeof r||!r||"function"!=typeof t[r])return(0,l.R)(29);const i=function(e){return(e||s.ee).get("logger")}(e),o=(0,R.YM)(i),a=new x.y(s.P);return a.level=n.level,a.customAttributes=n.customAttributes,o.inPlace(t,[r],"wrap-logger-",a),i}function A(){const e=(0,h.pV)();p.forEach((t=>{e[t]=(...r)=>function(t,...r){let n=[];return Object.values(e.initializedAgents).forEach((e=>{e&&e.api?e.exposed&&e.api[t]&&n.push(e.api[t](...r)):(0,l.R)(38,t)})),n.length>1?n:n[0]}(t,...r)}))}const E={};var S=r(9417),O=r(5603),N=r(5284);const I=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};let _=!1;function j(e,t={},p,x){let{init:R,info:j,loader_config:P,runtime:C={},exposed:k=!0}=t;C.loaderType=p;const L=(0,h.pV)();j||(R=L.init,j=L.info,P=L.loader_config),(0,S.xN)(e.agentIdentifier,R||{}),(0,O.a)(e.agentIdentifier,P||{}),j.jsAttributes??={},d.bv&&(j.jsAttributes.isWorker=!0),(0,i.x1)(e.agentIdentifier,j);const D=(0,S.D0)(e.agentIdentifier),H=[j.beacon,j.errorBeacon];_||(D.proxy.assets&&(I(D.proxy.assets),H.push(D.proxy.assets)),D.proxy.beacon&&H.push(D.proxy.beacon),A(),(0,h.US)("activatedFeatures",N.B),e.runSoftNavOverSpa&&=!0===D.soft_navigations.enabled&&D.feature_flags.includes("soft_nav")),C.denyList=[...D.ajax.deny_list||[],...D.ajax.block_internal?H:[]],C.ptid=e.agentIdentifier,(0,o.V)(e.agentIdentifier,C),e.ee=s.ee.get(e.agentIdentifier),void 0===e.api&&(e.api=function(e,t,h=!1){t||(0,c.Ak)(e,"api");const p={};var x=s.ee.get(e),R=x.get("tracer");E[e]=b.g.OFF,x.on(g.G4.REPLAY_RUNNING,(t=>{E[e]=t}));var A="api-",S=A+"ixn-";function O(t,r,n,o){const a=(0,i.Vp)(e);return null===r?delete a.jsAttributes[t]:(0,i.x1)(e,{...a,jsAttributes:{...a.jsAttributes,[t]:r}}),_(A,n,!0,o||null===r?"session":void 0)(t,r)}function N(){}p.log=function(e,{customAttributes:t={},level:r=y.p_.INFO}={}){(0,a.p)(f.xV,["API/log/called"],void 0,n.K.metrics,x),(0,w.R)(x,e,t,r)},p.wrapLogger=(e,t,{customAttributes:r={},level:i=y.p_.INFO}={})=>{(0,a.p)(f.xV,["API/wrapLogger/called"],void 0,n.K.metrics,x),T(x,e,t,{customAttributes:r,level:i})},m.forEach((e=>{p[e]=_(A,e,!0,"api")})),p.addPageAction=_(A,"addPageAction",!0,n.K.genericEvents),p.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,o.f)(e).customTransaction=(r||"http://custom.transaction")+t,_(A,"setPageViewName",!0)()},p.setCustomAttribute=function(e,t,r=!1){if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return O(e,t,"setCustomAttribute",r);(0,l.R)(40,typeof t)}else(0,l.R)(39,typeof e)},p.setUserId=function(e){if("string"==typeof e||null===e)return O("enduser.id",e,"setUserId",!0);(0,l.R)(41,typeof e)},p.setApplicationVersion=function(e){if("string"==typeof e||null===e)return O("application.version",e,"setApplicationVersion",!1);(0,l.R)(42,typeof e)},p.start=()=>{try{(0,a.p)(f.xV,["API/start/called"],void 0,n.K.metrics,x),x.emit("manual-start-all")}catch(e){(0,l.R)(23,e)}},p[g.G4.RECORD]=function(){(0,a.p)(f.xV,["API/recordReplay/called"],void 0,n.K.metrics,x),(0,a.p)(g.G4.RECORD,[],void 0,n.K.sessionReplay,x)},p[g.G4.PAUSE]=function(){(0,a.p)(f.xV,["API/pauseReplay/called"],void 0,n.K.metrics,x),(0,a.p)(g.G4.PAUSE,[],void 0,n.K.sessionReplay,x)},p.interaction=function(e){return(new N).get("object"==typeof e?e:{})};const I=N.prototype={createTracer:function(e,t){var r={},i=this,o="function"==typeof t;return(0,a.p)(f.xV,["API/createTracer/called"],void 0,n.K.metrics,x),h||(0,a.p)(S+"tracer",[(0,v.t)(),e,r],i,n.K.spa,x),function(){if(R.emit((o?"":"no-")+"fn-start",[(0,v.t)(),i,o],r),o)try{return t.apply(this,arguments)}catch(e){const t="string"==typeof e?new Error(e):e;throw R.emit("fn-err",[arguments,this,t],r),t}finally{R.emit("fn-end",[(0,v.t)()],r)}}}};function _(e,t,r,i){return function(){return(0,a.p)(f.xV,["API/"+t+"/called"],void 0,n.K.metrics,x),i&&(0,a.p)(e+t,[(0,v.t)(),...arguments],r?null:this,i,x),r?void 0:this}}function j(){r.e(478).then(r.bind(r,8778)).then((({setAPI:t})=>{t(e),(0,c.Ze)(e,"api")})).catch((e=>{(0,l.R)(27,e),x.abort()}))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{I[e]=_(S,e,void 0,h?n.K.softNav:n.K.spa)})),p.setCurrentRouteName=h?_(S,"routeName",void 0,n.K.softNav):_(A,"routeName",!0,n.K.spa),p.noticeError=function(t,r){"string"==typeof t&&(t=new Error(t)),(0,a.p)(f.xV,["API/noticeError/called"],void 0,n.K.metrics,x),(0,a.p)("err",[t,(0,v.t)(),!1,r,!!E[e]],void 0,n.K.jserrors,x)},d.RI?(0,u.GG)((()=>j()),!0):j(),p}(e.agentIdentifier,x,e.runSoftNavOverSpa)),void 0===e.exposed&&(e.exposed=k),_=!0}},8374:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},860:(e,t,r)=>{"use strict";r.d(t,{K:()=>n,P:()=>i});const n={ajax:"ajax",genericEvents:"generic_events",jserrors:"jserrors",logging:"logging",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",softNav:"soft_navigations",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.spa]:5,[n.ajax]:6,[n.sessionTrace]:7,[n.softNav]:8,[n.sessionReplay]:9,[n.logging]:10,[n.genericEvents]:11}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var o=n[e]={exports:{}};return r[e](o,o.exports,i),o.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>({212:"nr-spa-compressor",249:"nr-spa-recorder",478:"nr-spa"}[e]+"-1.266.0.min.js"),i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.266.0.PROD:",i.l=(r,n,o,a)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==o)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+o){s=l;break}}if(!s){c=!0;var f={478:"sha512-EuKNa6ZJxEo9u6vGxrFyykwjQw7nDgXK464XmRBgCF+uZAOomnhnTsyhA0pFPuN3FcTRnhkdAZtwldJ0Sqb8mA==",249:"sha512-NXR4nw7x3eAqNUj9d6MHRw6XdQmqPd0B6kKPXysRltLHNOGr3alzWOdCjukKhLUwHwZjKLuxQZPiTQNOKGqRoQ==",212:"sha512-XNDhH4DxTPvf5cPG5755OBJLw17XOAfjYV+8xn8XHoRr2/nDb8sk/J/fWUba8LWGN1luxdGIYKB3a7AxxDZ+SA=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+o),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[a]&&(s.integrity=f[a])}e[r]=[n];var h=(t,n)=>{s.onerror=s.onload=null,clearTimeout(g);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},g=setTimeout(h.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=h.bind(null,s.onerror),s.onload=h.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={38:0,788:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var o=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=o);var a=i.p+i.u(t),s=new Error;i.l(a,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var o=r&&("load"===r.type?"missing":r.type),a=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+o+": "+a+")",s.name="ChunkLoadError",s.type=o,s.request=a,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,o,[a,s,c]=r,u=0;if(a.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<a.length;u++)o=a[u],i.o(e,o)&&e[o]&&e[o][0](),e[o]=0},r=self["webpackChunk:NRBA-1.266.0.PROD"]=self["webpackChunk:NRBA-1.266.0.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(8374);var e=i(944),t=i(6344),r=i(9566);class n{agentIdentifier;constructor(e=(0,r.LA)(16)){this.agentIdentifier=e}#e(t,...r){if("function"==typeof this.api?.[t])return this.api[t](...r);(0,e.R)(35,t)}addPageAction(e,t){return this.#e("addPageAction",e,t)}setPageViewName(e,t){return this.#e("setPageViewName",e,t)}setCustomAttribute(e,t,r){return this.#e("setCustomAttribute",e,t,r)}noticeError(e,t){return this.#e("noticeError",e,t)}setUserId(e){return this.#e("setUserId",e)}setApplicationVersion(e){return this.#e("setApplicationVersion",e)}setErrorHandler(e){return this.#e("setErrorHandler",e)}finished(e){return this.#e("finished",e)}addRelease(e,t){return this.#e("addRelease",e,t)}start(e){return this.#e("start",e)}recordReplay(){return this.#e(t.G4.RECORD)}pauseReplay(){return this.#e(t.G4.PAUSE)}addToTrace(e){return this.#e("addToTrace",e)}setCurrentRouteName(e){return this.#e("setCurrentRouteName",e)}interaction(){return this.#e("interaction")}log(e,t){return this.#e("log",e,t)}wrapLogger(e,t,r){return this.#e("wrapLogger",e,t,r)}}var o=i(860),a=i(9417);const s=Object.values(o.K);function c(e){const t={};return s.forEach((r=>{t[r]=function(e,t){return!0===(0,a.gD)(t,"".concat(e,".enabled"))}(r,e)})),t}var u=i(425);var d=i(1687),l=i(4234),f=i(5289),h=i(6154),g=i(5270),p=i(7767),m=i(6389);class v extends l.W{constructor(e,t,r,n=!0){super(e,t,r),this.auto=n,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,a.gD)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto?(0,d.Ak)(e,r):this.ee.on("manual-start-all",(0,m.J)((()=>{(0,d.Ak)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()})))}importAggregator(t={}){if(this.featAggregate||!this.auto)return;let r;this.onAggregateImported=new Promise((e=>{r=e}));const n=async()=>{let n;try{if((0,p.V)(this.agentIdentifier)){const{setupAgentSession:e}=await i.e(478).then(i.bind(i,6526));n=e(this.agentIdentifier)}}catch(t){(0,e.R)(20,t),this.ee.emit("internal-error",[t]),this.featureName===o.K.sessionReplay&&this.abortHandler?.()}try{if(!this.#t(this.featureName,n))return(0,d.Ze)(this.agentIdentifier,this.featureName),void r(!1);const{lazyFeatureLoader:e}=await i.e(478).then(i.bind(i,6103)),{Aggregate:o}=await e(this.featureName,"aggregate");this.featAggregate=new o(this.agentIdentifier,this.aggregator,t),r(!0)}catch(t){(0,e.R)(34,t),this.abortHandler?.(),(0,d.Ze)(this.agentIdentifier,this.featureName,!0),r(!1),this.ee&&this.ee.abort()}};h.RI?(0,f.GG)((()=>n()),!0):n()}#t(e,t){switch(e){case o.K.sessionReplay:return(0,g.SR)(this.agentIdentifier)&&!!t;case o.K.sessionTrace:return!!t;default:return!0}}}var b=i(6630);class y extends v{static featureName=b.T;constructor(e,t,r=!0){super(e,t,b.T,r),this.importAggregator()}}var w=i(4777);class x extends w.J{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var o=this.getBucket(e,t,r,i);return o.metrics=function(e,t){t||(t={count:0});return t.count+=1,Object.entries(e||{}).forEach((([e,r])=>{t[e]=R(r,t[e])})),t}(n,o.metrics),o}merge(e,t,r,n,i){var o=this.getBucket(e,t,n,i);if(o.metrics){var a=o.metrics;a.count+=r.count,Object.keys(r||{}).forEach((e=>{if("count"!==e){var t=a[e],n=r[e];n&&!n.c?a[e]=R(n.t,t):a[e]=function(e,t){if(!t)return e;t.c||(t=T(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(n,a[e])}}))}else o.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=R(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=Object.values(this.aggregatedData[r]||{}),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function R(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=T(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function T(e){return{t:e,min:e,max:e,sos:e*e,c:1}}var A=i(384);var E=i(9908),S=i(2843),O=i(3878),N=i(782),I=i(1863);class _ extends v{static featureName=N.T;constructor(e,t,r=!0){super(e,t,N.T,r),h.RI&&((0,S.u)((()=>(0,E.p)("docHidden",[(0,I.t)()],void 0,N.T,this.ee)),!0),(0,O.sp)("pagehide",(()=>(0,E.p)("winPagehide",[(0,I.t)()],void 0,N.T,this.ee))),this.importAggregator())}}var j=i(3969);class P extends v{static featureName=j.TZ;constructor(e,t,r=!0){super(e,t,j.TZ,r),this.importAggregator()}}var C=i(6774),k=i(3304);class L{constructor(e,t,r,n,i){this.name="UncaughtError",this.message="string"==typeof e?e:(0,k.A)(e),this.sourceURL=t,this.line=r,this.column=n,this.__newrelic=i}}function D(e){return K(e)?e:new L(void 0!==e?.message?e.message:e,e?.filename||e?.sourceURL,e?.lineno||e?.line,e?.colno||e?.col,e?.__newrelic)}function H(e){let t="Unhandled Promise Rejection";if(K(e?.reason))try{return e.reason.message=t+": "+e.reason.message,D(e.reason)}catch(t){return D(e.reason)}if(void 0===e.reason)return D(t);const r=D(e.reason);return r.message=t+": "+r?.message,r}function M(e){if(e.error instanceof SyntaxError&&!/:\d+$/.test(e.error.stack?.trim())){const t=new L(e.message,e.filename,e.lineno,e.colno,e.error.__newrelic);return t.name=SyntaxError.name,t}return K(e.error)?e.error:D(e)}function K(e){return e instanceof Error&&!!e.stack}class U extends v{static featureName=C.T;#r=!1;constructor(e,r,n=!0){super(e,r,C.T,n);try{this.removeOnAbort=new AbortController}catch(e){}this.ee.on("internal-error",(e=>{this.abortHandler&&(0,E.p)("ierr",[D(e),(0,I.t)(),!0,{},this.#r],void 0,this.featureName,this.ee)})),this.ee.on(t.G4.REPLAY_RUNNING,(e=>{this.#r=e})),h.gm.addEventListener("unhandledrejection",(e=>{this.abortHandler&&(0,E.p)("err",[H(e),(0,I.t)(),!1,{unhandledPromiseRejection:1},this.#r],void 0,this.featureName,this.ee)}),(0,O.jT)(!1,this.removeOnAbort?.signal)),h.gm.addEventListener("error",(e=>{this.abortHandler&&(0,E.p)("err",[M(e),(0,I.t)(),!1,{},this.#r],void 0,this.featureName,this.ee)}),(0,O.jT)(!1,this.removeOnAbort?.signal)),this.abortHandler=this.#n,this.importAggregator()}#n(){this.removeOnAbort?.abort(),this.abortHandler=void 0}}var V=i(5603),G=i(8990);let B=1;const F="nr@id";function W(e){const t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===h.gm?0:(0,G.I)(e,F,(function(){return B++}))}function z(e){if("string"==typeof e&&e.length)return e.length;if("object"==typeof e){if("undefined"!=typeof ArrayBuffer&&e instanceof ArrayBuffer&&e.byteLength)return e.byteLength;if("undefined"!=typeof Blob&&e instanceof Blob&&e.size)return e.size;if(!("undefined"!=typeof FormData&&e instanceof FormData))try{return(0,k.A)(e).length}catch(e){return}}}var Z=i(8139),q=i(7836),Y=i(3434);const X={},J=["open","send"];function Q(t){var r=t||q.ee;const n=function(e){return(e||q.ee).get("xhr")}(r);if(X[n.debugId]++)return n;X[n.debugId]=1,(0,Z.u)(r);var i=(0,Y.YM)(n),o=h.gm.XMLHttpRequest,a=h.gm.MutationObserver,s=h.gm.Promise,c=h.gm.setInterval,u="readystatechange",d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],l=[],f=h.gm.XMLHttpRequest=function(t){const r=new o(t),a=n.context(r);try{n.emit("new-xhr",[r],a),r.addEventListener(u,(s=a,function(){var e=this;e.readyState>3&&!s.resolved&&(s.resolved=!0,n.emit("xhr-resolved",[],e)),i.inPlace(e,d,"fn-",y)}),(0,O.jT)(!1))}catch(t){(0,e.R)(15,t);try{n.emit("internal-error",[t])}catch(e){}}var s;return r};function g(e,t){i.inPlace(t,["onreadystatechange"],"fn-",y)}if(function(e,t){for(var r in e)t[r]=e[r]}(o,f),f.prototype=o.prototype,i.inPlace(f.prototype,J,"-xhr-",y),n.on("send-xhr-start",(function(e,t){g(e,t),function(e){l.push(e),a&&(p?p.then(b):c?c(b):(m=-m,v.data=m))}(t)})),n.on("open-xhr-start",g),a){var p=s&&s.resolve();if(!c&&!s){var m=1,v=document.createTextNode(m);new a(b).observe(v,{characterData:!0})}}else r.on("fn-end",(function(e){e[0]&&e[0].type===u||b()}));function b(){for(var e=0;e<l.length;e++)g(0,l[e]);l.length&&(l=[])}function y(e,t){return t}return n}var ee="fetch-",te=ee+"body-",re=["arrayBuffer","blob","json","text","formData"],ne=h.gm.Request,ie=h.gm.Response,oe="prototype";const ae={};function se(e){const t=function(e){return(e||q.ee).get("fetch")}(e);if(!(ne&&ie&&h.gm.fetch))return t;if(ae[t.debugId]++)return t;function r(e,r,n){var i=e[r];"function"==typeof i&&(e[r]=function(){var e,r=[...arguments],o={};t.emit(n+"before-start",[r],o),o[q.P]&&o[q.P].dt&&(e=o[q.P].dt);var a=i.apply(this,r);return t.emit(n+"start",[r,e],a),a.then((function(e){return t.emit(n+"end",[null,e],a),e}),(function(e){throw t.emit(n+"end",[e],a),e}))})}return ae[t.debugId]=1,re.forEach((e=>{r(ne[oe],e,te),r(ie[oe],e,te)})),r(h.gm,"fetch",ee),t.on(ee+"end",(function(e,r){var n=this;if(r){var i=r.headers.get("content-length");null!==i&&(n.rxSize=i),t.emit(ee+"done",[null,r],n)}else t.emit(ee+"done",[e],n)})),t}var ce=i(7485);class ue{constructor(e){this.agentIdentifier=e}generateTracePayload(e){if(!this.shouldGenerateTrace(e))return null;var t=(0,V.o)(this.agentIdentifier);if(!t)return null;var n=(t.accountID||"").toString()||null,i=(t.agentID||"").toString()||null,o=(t.trustKey||"").toString()||null;if(!n||!i)return null;var a=(0,r.ZF)(),s=(0,r.el)(),c=Date.now(),u={spanId:a,traceId:s,timestamp:c};return(e.sameOrigin||this.isAllowedOrigin(e)&&this.useTraceContextHeadersForCors())&&(u.traceContextParentHeader=this.generateTraceContextParentHeader(a,s),u.traceContextStateHeader=this.generateTraceContextStateHeader(a,c,n,i,o)),(e.sameOrigin&&!this.excludeNewrelicHeader()||!e.sameOrigin&&this.isAllowedOrigin(e)&&this.useNewrelicHeaderForCors())&&(u.newrelicHeader=this.generateTraceHeader(a,s,c,n,i,o)),u}generateTraceContextParentHeader(e,t){return"00-"+t+"-"+e+"-01"}generateTraceContextStateHeader(e,t,r,n,i){return i+"@nr=0-1-"+r+"-"+n+"-"+e+"----"+t}generateTraceHeader(e,t,r,n,i,o){if(!("function"==typeof h.gm?.btoa))return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:i,id:e,tr:t,ti:r}};return o&&n!==o&&(a.d.tk=o),btoa((0,k.A)(a))}shouldGenerateTrace(e){return this.isDtEnabled()&&this.isAllowedOrigin(e)}isAllowedOrigin(e){var t=!1,r={};if((0,a.gD)(this.agentIdentifier,"distributed_tracing")&&(r=(0,a.D0)(this.agentIdentifier).distributed_tracing),e.sameOrigin)t=!0;else if(r.allowed_origins instanceof Array)for(var n=0;n<r.allowed_origins.length;n++){var i=(0,ce.D)(r.allowed_origins[n]);if(e.hostname===i.hostname&&e.protocol===i.protocol&&e.port===i.port){t=!0;break}}return t}isDtEnabled(){var e=(0,a.gD)(this.agentIdentifier,"distributed_tracing");return!!e&&!!e.enabled}excludeNewrelicHeader(){var e=(0,a.gD)(this.agentIdentifier,"distributed_tracing");return!!e&&!!e.exclude_newrelic_header}useNewrelicHeaderForCors(){var e=(0,a.gD)(this.agentIdentifier,"distributed_tracing");return!!e&&!1!==e.cors_use_newrelic_header}useTraceContextHeadersForCors(){var e=(0,a.gD)(this.agentIdentifier,"distributed_tracing");return!!e&&!!e.cors_use_tracecontext_headers}}var de=i(9300),le=i(7295),fe=["load","error","abort","timeout"],he=fe.length,ge=(0,A.dV)().o.REQ,pe=(0,A.dV)().o.XHR;class me extends v{static featureName=de.T;constructor(e,t,r=!0){super(e,t,de.T,r),this.dt=new ue(e),this.handler=(e,t,r,n)=>(0,E.p)(e,t,r,n,this.ee);try{const e={xmlhttprequest:"xhr",fetch:"fetch",beacon:"beacon"};h.gm?.performance?.getEntriesByType("resource").forEach((t=>{if(t.initiatorType in e&&0!==t.responseStatus){const r={status:t.responseStatus},n={rxSize:t.transferSize,duration:Math.floor(t.duration),cbTime:0};ve(r,t.name),this.handler("xhr",[r,n,t.startTime,t.responseEnd,e[t.initiatorType]],void 0,o.K.ajax)}}))}catch(e){}se(this.ee),Q(this.ee),function(e,t,r,n){function i(e){var t=this;t.totalCbs=0,t.called=0,t.cbTime=0,t.end=x,t.ended=!1,t.xhrGuids={},t.lastSize=null,t.loadCaptureCalled=!1,t.params=this.params||{},t.metrics=this.metrics||{},e.addEventListener("load",(function(r){R(t,e)}),(0,O.jT)(!1)),h.lR||e.addEventListener("progress",(function(e){t.lastSize=e.loaded}),(0,O.jT)(!1))}function a(e){this.params={method:e[0]},ve(this,e[1]),this.metrics={}}function s(t,r){var i=(0,V.o)(e);i.xpid&&this.sameOrigin&&r.setRequestHeader("X-NewRelic-ID",i.xpid);var o=n.generateTracePayload(this.parsedOrigin);if(o){var a=!1;o.newrelicHeader&&(r.setRequestHeader("newrelic",o.newrelicHeader),a=!0),o.traceContextParentHeader&&(r.setRequestHeader("traceparent",o.traceContextParentHeader),o.traceContextStateHeader&&r.setRequestHeader("tracestate",o.traceContextStateHeader),a=!0),a&&(this.dt=o)}}function c(e,r){var n=this.metrics,i=e[0],o=this;if(n&&i){var a=z(i);a&&(n.txSize=a)}this.startTime=(0,I.t)(),this.body=i,this.listener=function(e){try{"abort"!==e.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==e.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof r.onload)&&"function"==typeof o.end)&&o.end(r)}catch(e){try{t.emit("internal-error",[e])}catch(e){}}};for(var s=0;s<he;s++)r.addEventListener(fe[s],this.listener,(0,O.jT)(!1))}function u(e,t,r){this.cbTime+=e,t?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof r.onload||"function"!=typeof this.end||this.end(r)}function d(e,t){var r=""+W(e)+!!t;this.xhrGuids&&!this.xhrGuids[r]&&(this.xhrGuids[r]=!0,this.totalCbs+=1)}function l(e,t){var r=""+W(e)+!!t;this.xhrGuids&&this.xhrGuids[r]&&(delete this.xhrGuids[r],this.totalCbs-=1)}function f(){this.endTime=(0,I.t)()}function g(e,r){r instanceof pe&&"load"===e[0]&&t.emit("xhr-load-added",[e[1],e[2]],r)}function p(e,r){r instanceof pe&&"load"===e[0]&&t.emit("xhr-load-removed",[e[1],e[2]],r)}function m(e,t,r){t instanceof pe&&("onload"===r&&(this.onload=!0),("load"===(e[0]&&e[0].type)||this.onload)&&(this.xhrCbStart=(0,I.t)()))}function v(e,r){this.xhrCbStart&&t.emit("xhr-cb-time",[(0,I.t)()-this.xhrCbStart,this.onload,r],r)}function b(e){var t,r=e[1]||{};if("string"==typeof e[0]?0===(t=e[0]).length&&h.RI&&(t=""+h.gm.location.href):e[0]&&e[0].url?t=e[0].url:h.gm?.URL&&e[0]&&e[0]instanceof URL?t=e[0].href:"function"==typeof e[0].toString&&(t=e[0].toString()),"string"==typeof t&&0!==t.length){t&&(this.parsedOrigin=(0,ce.D)(t),this.sameOrigin=this.parsedOrigin.sameOrigin);var i=n.generateTracePayload(this.parsedOrigin);if(i&&(i.newrelicHeader||i.traceContextParentHeader))if(e[0]&&e[0].headers)s(e[0].headers,i)&&(this.dt=i);else{var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),s(o.headers,i)&&(this.dt=i),e.length>1?e[1]=o:e.push(o)}}function s(e,t){var r=!1;return t.newrelicHeader&&(e.set("newrelic",t.newrelicHeader),r=!0),t.traceContextParentHeader&&(e.set("traceparent",t.traceContextParentHeader),t.traceContextStateHeader&&e.set("tracestate",t.traceContextStateHeader),r=!0),r}}function y(e,t){this.params={},this.metrics={},this.startTime=(0,I.t)(),this.dt=t,e.length>=1&&(this.target=e[0]),e.length>=2&&(this.opts=e[1]);var r,n=this.opts||{},i=this.target;"string"==typeof i?r=i:"object"==typeof i&&i instanceof ge?r=i.url:h.gm?.URL&&"object"==typeof i&&i instanceof URL&&(r=i.href),ve(this,r);var o=(""+(i&&i instanceof ge&&i.method||n.method||"GET")).toUpperCase();this.params.method=o,this.body=n.body,this.txSize=z(n.body)||0}function w(e,t){if(this.endTime=(0,I.t)(),this.params||(this.params={}),(0,le.iW)(this.params))return;let n;this.params.status=t?t.status:0,"string"==typeof this.rxSize&&this.rxSize.length>0&&(n=+this.rxSize);const i={txSize:this.txSize,rxSize:n,duration:(0,I.t)()-this.startTime};r("xhr",[this.params,i,this.startTime,this.endTime,"fetch"],this,o.K.ajax)}function x(e){const t=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(let t=0;t<he;t++)e.removeEventListener(fe[t],this.listener,!1);t.aborted||(0,le.iW)(t)||(n.duration=(0,I.t)()-this.startTime,this.loadCazptureCalled||4!==e.readyState?null==t.status&&(t.status=0):R(this,e),n.cbTime=this.cbTime,r("xhr",[t,n,this.startTime,this.endTime,"xhr"],this,o.K.ajax))}}function R(e,r){e.params.status=r.status;var n=function(e,t){var r=e.responseType;return"json"===r&&null!==t?t:"arraybuffer"===r||"blob"===r||"json"===r?z(e.response):"text"===r||""===r||void 0===r?z(e.responseText):void 0}(r,e.lastSize);if(n&&(e.metrics.rxSize=n),e.sameOrigin){var i=r.getResponseHeader("X-NewRelic-App-Data");i&&((0,E.p)(j.rs,["Ajax/CrossApplicationTracing/Header/Seen"],void 0,o.K.metrics,t),e.params.cat=i.split(", ").pop())}e.loadCaptureCalled=!0}t.on("new-xhr",i),t.on("open-xhr-start",a),t.on("open-xhr-end",s),t.on("send-xhr-start",c),t.on("xhr-cb-time",u),t.on("xhr-load-added",d),t.on("xhr-load-removed",l),t.on("xhr-resolved",f),t.on("addEventListener-end",g),t.on("removeEventListener-end",p),t.on("fn-end",v),t.on("fetch-before-start",b),t.on("fetch-start",y),t.on("fn-start",m),t.on("fetch-done",w)}(e,this.ee,this.handler,this.dt),this.importAggregator()}}function ve(e,t){var r=(0,ce.D)(t),n=e.params||e;n.hostname=r.hostname,n.port=r.port,n.protocol=r.protocol,n.host=r.hostname+":"+r.port,n.pathname=r.pathname,e.parsedOrigin=r,e.sameOrigin=r.sameOrigin}const be={},ye=["pushState","replaceState"];function we(e){const t=function(e){return(e||q.ee).get("history")}(e);return!h.RI||be[t.debugId]++||(be[t.debugId]=1,(0,Y.YM)(t).inPlace(window.history,ye,"-")),t}var xe=i(3738);const{He:Re,bD:Te,d3:Ae,Kp:Ee,TZ:Se,Lc:Oe,uP:Ne,Rz:Ie}=xe;class _e extends v{static featureName=Se;constructor(e,t,r=!0){super(e,t,Se,r);if(!(0,p.V)(this.agentIdentifier))return void(0,d.x3)(this.agentIdentifier,this.featureName);const n=this.ee;let i;we(n),this.eventsEE=(0,Z.u)(n),this.eventsEE.on(Ne,(function(e,t){this.bstStart=(0,I.t)()})),this.eventsEE.on(Oe,(function(e,t){(0,E.p)("bst",[e[0],t,this.bstStart,(0,I.t)()],void 0,o.K.sessionTrace,n)})),n.on(Ie+Ae,(function(e){this.time=(0,I.t)(),this.startPath=location.pathname+location.hash})),n.on(Ie+Ee,(function(e){(0,E.p)("bstHist",[location.pathname+location.hash,this.startPath,this.time],void 0,o.K.sessionTrace,n)}));try{i=new PerformanceObserver((e=>{const t=e.getEntries();(0,E.p)(Re,[t],void 0,o.K.sessionTrace,n)})),i.observe({type:Te,buffered:!0})}catch(e){}this.importAggregator({resourceObserver:i})}}var je=i(2614);class Pe extends v{static featureName=t.TZ;#i;constructor(e,r,n=!0){let i;super(e,r,t.TZ,n),this.replayRunning=!1;try{i=JSON.parse(localStorage.getItem("".concat(je.H3,"_").concat(je.uh)))}catch(e){}(0,g.SR)(e)&&this.ee.on(t.G4.RECORD,(()=>this.#o())),this.#a(i)?(this.#i=i?.sessionReplayMode,this.#s()):this.importAggregator(),this.ee.on("err",(e=>{this.replayRunning&&(this.errorNoticed=!0,(0,E.p)(t.G4.ERROR_DURING_REPLAY,[e],void 0,this.featureName,this.ee))})),this.ee.on(t.G4.REPLAY_RUNNING,(e=>{this.replayRunning=e}))}#a(e){return e&&(e.sessionReplayMode===je.g.FULL||e.sessionReplayMode===je.g.ERROR)||(0,g.Aw)(this.agentIdentifier)}#c=!1;async#s(e){if(!this.#c){this.#c=!0;try{const{Recorder:t}=await Promise.all([i.e(478),i.e(249)]).then(i.bind(i,2496));this.recorder??=new t({mode:this.#i,agentIdentifier:this.agentIdentifier,trigger:e,ee:this.ee}),this.recorder.startRecording(),this.abortHandler=this.recorder.stopRecording}catch(e){}this.importAggregator({recorder:this.recorder,errorNoticed:this.errorNoticed})}}#o(){this.featAggregate?this.featAggregate.mode!==je.g.FULL&&this.featAggregate.initializeRecording(je.g.FULL,!0):(this.#i=je.g.FULL,this.#s(t.Qb.API),this.recorder&&this.recorder.parent.mode!==je.g.FULL&&(this.recorder.parent.mode=je.g.FULL,this.recorder.stopRecording(),this.recorder.startRecording(),this.abortHandler=this.recorder.stopRecording))}}var Ce=i(3962);class ke extends v{static featureName=Ce.TZ;constructor(e,t,r=!0){if(super(e,t,Ce.TZ,r),!h.RI||!(0,A.dV)().o.MO)return;const n=we(this.ee),i=(0,Z.u)(this.ee),o=()=>(0,E.p)("newURL",[(0,I.t)(),""+window.location],void 0,this.featureName,this.ee);n.on("pushState-end",o),n.on("replaceState-end",o);try{this.removeOnAbort=new AbortController}catch(e){}(0,O.sp)("popstate",(e=>(0,E.p)("newURL",[e.timeStamp,""+window.location],void 0,this.featureName,this.ee)),!0,this.removeOnAbort?.signal);let a=!1;const s=new((0,A.dV)().o.MO)(((e,t)=>{a||(a=!0,requestAnimationFrame((()=>{(0,E.p)("newDom",[(0,I.t)()],void 0,this.featureName,this.ee),a=!1})))})),c=(0,m.s)((e=>{(0,E.p)("newUIEvent",[e],void 0,this.featureName,this.ee),s.observe(document.body,{attributes:!0,childList:!0,subtree:!0,characterData:!0})}),100,{leading:!0});i.on("fn-start",(([e])=>{Ce.tC.includes(e?.type)&&c(e)}));for(let e of Ce.tC)document.addEventListener(e,(()=>{}));this.abortHandler=function(){this.removeOnAbort?.abort(),s.disconnect(),this.abortHandler=void 0},this.importAggregator({domObserver:s})}}var Le=i(7378);const De={},He=["appendChild","insertBefore","replaceChild"];function Me(e){const t=function(e){return(e||q.ee).get("jsonp")}(e);if(!h.RI||De[t.debugId])return t;De[t.debugId]=!0;var r=(0,Y.YM)(t),n=/[?&](?:callback|cb)=([^&#]+)/,i=/(.*)\.([^.]+)/,o=/^(\w+)(\.|$)(.*)$/;function a(e,t){if(!e)return t;const r=e.match(o),n=r[1];return a(r[3],t[n])}return r.inPlace(Node.prototype,He,"dom-"),t.on("dom-start",(function(e){!function(e){if(!e||"string"!=typeof e.nodeName||"script"!==e.nodeName.toLowerCase())return;if("function"!=typeof e.addEventListener)return;var o=(s=e.src,c=s.match(n),c?c[1]:null);var s,c;if(!o)return;var u=function(e){var t=e.match(i);if(t&&t.length>=3)return{key:t[2],parent:a(t[1],window)};return{key:e,parent:window}}(o);if("function"!=typeof u.parent[u.key])return;var d={};function l(){t.emit("jsonp-end",[],d),e.removeEventListener("load",l,(0,O.jT)(!1)),e.removeEventListener("error",f,(0,O.jT)(!1))}function f(){t.emit("jsonp-error",[],d),t.emit("jsonp-end",[],d),e.removeEventListener("load",l,(0,O.jT)(!1)),e.removeEventListener("error",f,(0,O.jT)(!1))}r.inPlace(u.parent,[u.key],"cb-",d),e.addEventListener("load",l,(0,O.jT)(!1)),e.addEventListener("error",f,(0,O.jT)(!1)),t.emit("new-jsonp",[e.src],d)}(e[0])})),t}const Ke={};function Ue(e){const t=function(e){return(e||q.ee).get("promise")}(e);if(Ke[t.debugId])return t;Ke[t.debugId]=!0;var r=t.context,n=(0,Y.YM)(t),i=h.gm.Promise;return i&&function(){function e(r){var o=t.context(),a=n(r,"executor-",o,null,!1);const s=Reflect.construct(i,[a],e);return t.context(s).getCtx=function(){return o},s}h.gm.Promise=e,Object.defineProperty(e,"name",{value:"Promise"}),e.toString=function(){return i.toString()},Object.setPrototypeOf(e,i),["all","race"].forEach((function(r){const n=i[r];e[r]=function(e){let i=!1;[...e||[]].forEach((e=>{this.resolve(e).then(a("all"===r),a(!1))}));const o=n.apply(this,arguments);return o;function a(e){return function(){t.emit("propagate",[null,!i],o,!1,!1),i=i||!e}}}})),["resolve","reject"].forEach((function(r){const n=i[r];e[r]=function(e){const r=n.apply(this,arguments);return e!==r&&t.emit("propagate",[e,!0],r,!1,!1),r}})),e.prototype=i.prototype;const o=i.prototype.then;i.prototype.then=function(...e){var i=this,a=r(i);a.promise=i,e[0]=n(e[0],"cb-",a,null,!1),e[1]=n(e[1],"cb-",a,null,!1);const s=o.apply(this,e);return a.nextPromise=s,t.emit("propagate",[i,!0],s,!1,!1),s},i.prototype.then[Y.Jt]=o,t.on("executor-start",(function(e){e[0]=n(e[0],"resolve-",this,null,!1),e[1]=n(e[1],"resolve-",this,null,!1)})),t.on("executor-err",(function(e,t,r){e[1](r)})),t.on("cb-end",(function(e,r,n){t.emit("propagate",[n,!0],this.nextPromise,!1,!1)})),t.on("propagate",(function(e,r,n){this.getCtx&&!r||(this.getCtx=function(){if(e instanceof Promise)var r=t.context(e);return r&&r.getCtx?r.getCtx():this})}))}(),t}const Ve={},Ge="setTimeout",Be="setInterval",Fe="clearTimeout",We="-start",ze=[Ge,"setImmediate",Be,Fe,"clearImmediate"];function Ze(e){const t=function(e){return(e||q.ee).get("timer")}(e);if(Ve[t.debugId]++)return t;Ve[t.debugId]=1;var r=(0,Y.YM)(t);return r.inPlace(h.gm,ze.slice(0,2),Ge+"-"),r.inPlace(h.gm,ze.slice(2,3),Be+"-"),r.inPlace(h.gm,ze.slice(3),Fe+"-"),t.on(Be+We,(function(e,t,n){e[0]=r(e[0],"fn-",null,n)})),t.on(Ge+We,(function(e,t,n){this.method=n,this.timerDuration=isNaN(e[1])?0:+e[1],e[0]=r(e[0],"fn-",this,n)})),t}const qe={};function Ye(e){const t=function(e){return(e||q.ee).get("mutation")}(e);if(!h.RI||qe[t.debugId])return t;qe[t.debugId]=!0;var r=(0,Y.YM)(t),n=h.gm.MutationObserver;return n&&(window.MutationObserver=function(e){return this instanceof n?new n(r(e,"fn-")):n.apply(this,arguments)},MutationObserver.prototype=n.prototype),t}const{TZ:Xe,d3:Je,Kp:Qe,$p:$e,wW:et,e5:tt,tH:rt,uP:nt,rw:it,Lc:ot}=Le;class at extends v{static featureName=Xe;constructor(e,t,r=!0){if(super(e,t,Xe,r),!h.RI)return;try{this.removeOnAbort=new AbortController}catch(e){}let n,i=0;const o=this.ee.get("tracer"),a=Me(this.ee),s=Ue(this.ee),c=Ze(this.ee),u=Q(this.ee),d=this.ee.get("events"),l=se(this.ee),f=we(this.ee),g=Ye(this.ee);function p(e,t){f.emit("newURL",[""+window.location,t])}function m(){i++,n=window.location.hash,this[nt]=(0,I.t)()}function v(){i--,window.location.hash!==n&&p(0,!0);var e=(0,I.t)();this[tt]=~~this[tt]+e-this[nt],this[ot]=e}function b(e,t){e.on(t,(function(){this[t]=(0,I.t)()}))}this.ee.on(nt,m),s.on(it,m),a.on(it,m),this.ee.on(ot,v),s.on(et,v),a.on(et,v),this.ee.on("fn-err",((...t)=>{t[2]?.__newrelic?.[e]||(0,E.p)("function-err",[...t],void 0,this.featureName,this.ee)})),this.ee.buffer([nt,ot,"xhr-resolved"],this.featureName),d.buffer([nt],this.featureName),c.buffer(["setTimeout"+Qe,"clearTimeout"+Je,nt],this.featureName),u.buffer([nt,"new-xhr","send-xhr"+Je],this.featureName),l.buffer([rt+Je,rt+"-done",rt+$e+Je,rt+$e+Qe],this.featureName),f.buffer(["newURL"],this.featureName),g.buffer([nt],this.featureName),s.buffer(["propagate",it,et,"executor-err","resolve"+Je],this.featureName),o.buffer([nt,"no-"+nt],this.featureName),a.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"],this.featureName),b(l,rt+Je),b(l,rt+"-done"),b(a,"new-jsonp"),b(a,"jsonp-end"),b(a,"cb-start"),f.on("pushState-end",p),f.on("replaceState-end",p),window.addEventListener("hashchange",p,(0,O.jT)(!0,this.removeOnAbort?.signal)),window.addEventListener("load",p,(0,O.jT)(!0,this.removeOnAbort?.signal)),window.addEventListener("popstate",(function(){p(0,i>1)}),(0,O.jT)(!0,this.removeOnAbort?.signal)),this.abortHandler=this.#n,this.importAggregator()}#n(){this.removeOnAbort?.abort(),this.abortHandler=void 0}}var st=i(3333);class ct extends v{static featureName=st.TZ;constructor(e,t,r=!0){super(e,t,st.TZ,r);[(0,a.gD)(this.agentIdentifier,"page_action.enabled")].some((e=>e))?this.importAggregator():(0,d.x3)(this.agentIdentifier,this.featureName)}}var ut=i(993),dt=i(3785);class lt extends v{static featureName=ut.TZ;constructor(e,t,r=!0){super(e,t,ut.TZ,r);const n=this.ee;this.ee.on("wrap-logger-end",(function([e]){const{level:t,customAttributes:r}=this;(0,dt.R)(n,e,r,t)})),this.importAggregator()}}new class extends n{constructor(t,r){super(r),h.gm?(this.sharedAggregator=new x({agentIdentifier:this.agentIdentifier}),this.features={},(0,A.bQ)(this.agentIdentifier,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(y),this.runSoftNavOverSpa=[...this.desiredFeatures].some((e=>e.featureName===o.K.softNav)),(0,u.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.R)(21)}get config(){return{info:this.info,init:this.init,loader_config:this.loader_config,runtime:this.runtime}}run(){try{const t=c(this.agentIdentifier),r=[...this.desiredFeatures];r.sort(((e,t)=>o.P[e.featureName]-o.P[t.featureName])),r.forEach((r=>{if(!t[r.featureName]&&r.featureName!==o.K.pageViewEvent)return;if(this.runSoftNavOverSpa&&r.featureName===o.K.spa)return;if(!this.runSoftNavOverSpa&&r.featureName===o.K.softNav)return;const n=function(e){switch(e){case o.K.ajax:return[o.K.jserrors];case o.K.sessionTrace:return[o.K.ajax,o.K.pageViewEvent];case o.K.sessionReplay:return[o.K.sessionTrace];case o.K.pageViewTiming:return[o.K.pageViewEvent];default:return[]}}(r.featureName).filter((e=>!(e in this.features)));n.length>0&&(0,e.R)(36,{targetFeature:r.featureName,missingDependencies:n}),this.features[r.featureName]=new r(this.agentIdentifier,this.sharedAggregator)}))}catch(t){(0,e.R)(22,t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,A.Zm)();delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator;return r.ee.get(this.agentIdentifier).abort(),!1}}}({features:[me,y,_,_e,Pe,P,U,ct,lt,ke,at],loaderType:"spa"})})()})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="preload" href="https://www.nobelprize.org/wp-content/themes/nobelprize/assets/fonts/ivar/AlfredSerifText-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
@@ -10,21 +10,17 @@
 <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
-<title>The official website of the Nobel Prize - NobelPrize.org</title>
-<meta name="description" content="The Nobel Prize rewards science, humanism and peace efforts. This is one of the central concepts in the will of Alfred Nobel, and it also permeates the outreach activities that have been developed for the purpose of engaging, inspiring and spreading knowledge about the Nobel Prize as well as the discoveries and achievements of the laureates.">
-<link rel="canonical" href="https://www.nobelprize.org/">
+<title>NobelPrize.org</title>
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.nobelprize.org/">
 <meta property="og:site_name" content="NobelPrize.org">
-<meta property="article:modified_time" content="2024-09-23T06:17:12+00:00">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.nobelprize.org/","url":"https://www.nobelprize.org/","name":"Home - NobelPrize.org","isPartOf":{"@id":"https://www.nobelprize.org/#website"},"datePublished":"2024-09-17T09:10:00+00:00","dateModified":"2024-09-23T06:17:12+00:00","description":"The Nobel Prize rewards science, humanism and peace efforts. This is one of the central concepts in the will of Alfred Nobel, and it also permeates the outreach activities that have been developed for the purpose of engaging, inspiring and spreading knowledge about the Nobel Prize as well as the discoveries and achievements of the laureates.","breadcrumb":{"@id":"https://www.nobelprize.org/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.nobelprize.org/"]}]},{"@type":"BreadcrumbList","@id":"https://www.nobelprize.org/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.nobelprize.org/#website","url":"https://www.nobelprize.org/","name":"NobelPrize.org","description":"The official website of the Nobel Prize","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.nobelprize.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.nobelprize.org/#website","url":"https://www.nobelprize.org/","name":"NobelPrize.org","description":"The official website of the Nobel Prize","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.nobelprize.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
 
 <link rel="dns-prefetch" href="https://www.nobelprize.org/">
 <link rel="dns-prefetch" href="https://stats.wp.com/">
-<link rel="stylesheet" id="mediaelement-css" href="./index_files/mediaelementplayer-legacy.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="wp-mediaelement-css" href="./index_files/wp-mediaelement.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="./peace_files/mediaelementplayer-legacy.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="./peace_files/wp-mediaelement.min.css" type="text/css" media="all">
 <style id="jetpack-sharing-buttons-style-inline-css" type="text/css">
 .jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
 </style>
@@ -35,22 +31,22 @@ body{--wp--preset--color--black: #2e2a25;--wp--preset--color--cyan-bluish-gray: 
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
 .wp-block-pullquote{font-size: clamp(0.984em, 0.984rem + ((1vw - 0.2em) * 0.938), 1.5em);line-height: 1.6;}
 </style>
-<link rel="stylesheet" id="nobelprize_block_library_admin-css" href="./index_files/frontend.css" type="text/css" media="all">
-<link rel="stylesheet" id="styles-css" href="./index_files/frontend(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="nobelprize_block_library_admin-css" href="./peace_files/frontend.css" type="text/css" media="all">
+<link rel="stylesheet" id="styles-css" href="./peace_files/frontend(1).css" type="text/css" media="all">
 <script type="text/javascript" id="loadjs-js-extra">
 /* <![CDATA[ */
 var fallback = {"path":"\/var\/www\/html\/wp-content\/themes\/nobelprize\/\/assets\/js\/frontend\/lib\/respimg\/ls.respimg.min.js"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="./index_files/loadjs.js.tải xuống" id="loadjs-js"></script>
+<script type="text/javascript" src="./peace_files/loadjs.js.tải xuống" id="loadjs-js"></script>
 <style>img#wpstats{display:none}</style>
 <link type="text/plain" rel="author" href="https://www.nobelprize.org/wp-content/themes/nobelprize/humans.txt"> <script>
 			window.VIDEOJS_NO_BASE_THEME = true;
 			window.VIDEOJS_NO_DYNAMIC_STYLE = true;
 		</script>
 
-<script type="text/javascript" src="./index_files/OtAutoBlock.js.tải xuống"></script>
-<script src="./index_files/otSDKStub.js.tải xuống" type="text/javascript" charset="UTF-8" data-domain-script="d75760b8-7732-445e-9a87-2de3e237d0fe"></script>
+<script type="text/javascript" src="./peace_files/OtAutoBlock.js.tải xuống"></script>
+<script src="./peace_files/otSDKStub.js.tải xuống" type="text/javascript" charset="UTF-8" data-domain-script="d75760b8-7732-445e-9a87-2de3e237d0fe"></script>
 <script type="text/javascript">
 			function OptanonWrapper() {
 			}
@@ -64,14 +60,14 @@ var fallback = {"path":"\/var\/www\/html\/wp-content\/themes\/nobelprize\/\/asse
 		})(window,document,'script','dataLayer','GTM-WDHZ8W5');</script>
 
 
-<meta name="twitter:title" content="The official website of the Nobel Prize - NobelPrize.org">
-<meta itemprop="name" content="The official website of the Nobel Prize - NobelPrize.org">
-<meta property="og:title" content="The official website of the Nobel Prize - NobelPrize.org">
+<meta name="twitter:title" content="Peace Prize">
+<meta itemprop="name" content="Peace Prize">
+<meta property="og:title" content="Peace Prize">
 
 
-<meta name="twitter:description" content="Spotlight on: the Nobel Prize in Chemistry">
-<meta itemprop="description" content="Spotlight on: the Nobel Prize in Chemistry">
-<meta property="og:description" content="Spotlight on: the Nobel Prize in Chemistry">
+<meta name="twitter:description" content="Peace Prize">
+<meta itemprop="description" content="Peace Prize">
+<meta property="og:description" content="Peace Prize">
 
 
 <meta name="twitter:card" content="summary_large_image">
@@ -79,7 +75,7 @@ var fallback = {"path":"\/var\/www\/html\/wp-content\/themes\/nobelprize\/\/asse
 <meta itemprop="image" content="https://www.nobelprize.org/uploads/2018/09/New-will-fullsize-496x328.jpg">
 <meta property="og:image" content="https://www.nobelprize.org/uploads/2018/09/New-will-fullsize-496x328.jpg">
 
-<meta property="og:url" content="https://www.nobelprize.org/">
+<meta property="og:url" content="https://www.nobelprize.org/category-page-peace/">
 <link rel="icon" href="https://www.nobelprize.org/uploads/2018/08/Nobel-favicon-50x50.png" sizes="32x32">
 <link rel="icon" href="https://www.nobelprize.org/uploads/2018/08/Nobel-favicon-232x232.png" sizes="192x192">
 <link rel="apple-touch-icon" href="https://www.nobelprize.org/uploads/2018/08/Nobel-favicon-188x188.png">
@@ -95,7 +91,7 @@ border-right: 0;
 	background-color: #CEA152 !important;
   border-color: #CEA152 !important;
   color: #FFFFFF !important;
-}</style> <script src="./index_files/otBannerSdk.js.tải xuống" async="" type="text/javascript"></script><link rel="stylesheet" type="text/css" href="./index_files/875.css"><style id="onetrust-style">#onetrust-banner-sdk .onetrust-vendors-list-handler{cursor:pointer;color:#1f96db;font-size:inherit;font-weight:bold;text-decoration:none;margin-left:5px}#onetrust-banner-sdk .onetrust-vendors-list-handler:hover{color:#1f96db}#onetrust-banner-sdk:focus{outline:2px solid #000;outline-offset:-2px}#onetrust-banner-sdk a:focus{outline:2px solid #000}#onetrust-banner-sdk #onetrust-accept-btn-handler,#onetrust-banner-sdk #onetrust-reject-all-handler,#onetrust-banner-sdk #onetrust-pc-btn-handler{outline-offset:1px}#onetrust-banner-sdk.ot-bnr-w-logo .ot-bnr-logo{height:64px;width:64px}#onetrust-banner-sdk .ot-tcf2-vendor-count.ot-text-bold{font-weight:bold}#onetrust-banner-sdk .ot-close-icon,#onetrust-pc-sdk .ot-close-icon,#ot-sync-ntfy .ot-close-icon{background-size:contain;background-repeat:no-repeat;background-position:center;height:12px;width:12px}#onetrust-banner-sdk .powered-by-logo,#onetrust-banner-sdk .ot-pc-footer-logo a,#onetrust-pc-sdk .powered-by-logo,#onetrust-pc-sdk .ot-pc-footer-logo a,#ot-sync-ntfy .powered-by-logo,#ot-sync-ntfy .ot-pc-footer-logo a{background-size:contain;background-repeat:no-repeat;background-position:center;height:25px;width:152px;display:block;text-decoration:none;font-size:.75em}#onetrust-banner-sdk .powered-by-logo:hover,#onetrust-banner-sdk .ot-pc-footer-logo a:hover,#onetrust-pc-sdk .powered-by-logo:hover,#onetrust-pc-sdk .ot-pc-footer-logo a:hover,#ot-sync-ntfy .powered-by-logo:hover,#ot-sync-ntfy .ot-pc-footer-logo a:hover{color:#565656}#onetrust-banner-sdk h3 *,#onetrust-banner-sdk h4 *,#onetrust-banner-sdk h6 *,#onetrust-banner-sdk button *,#onetrust-banner-sdk a[data-parent-id] *,#onetrust-pc-sdk h3 *,#onetrust-pc-sdk h4 *,#onetrust-pc-sdk h6 *,#onetrust-pc-sdk button *,#onetrust-pc-sdk a[data-parent-id] *,#ot-sync-ntfy h3 *,#ot-sync-ntfy h4 *,#ot-sync-ntfy h6 *,#ot-sync-ntfy button *,#ot-sync-ntfy a[data-parent-id] *{font-size:inherit;font-weight:inherit;color:inherit}#onetrust-banner-sdk .ot-hide,#onetrust-pc-sdk .ot-hide,#ot-sync-ntfy .ot-hide{display:none !important}#onetrust-banner-sdk button.ot-link-btn:hover,#onetrust-pc-sdk button.ot-link-btn:hover,#ot-sync-ntfy button.ot-link-btn:hover{text-decoration:underline;opacity:1}#onetrust-pc-sdk .ot-sdk-row .ot-sdk-column{padding:0}#onetrust-pc-sdk .ot-sdk-container{padding-right:0}#onetrust-pc-sdk .ot-sdk-row{flex-direction:initial;width:100%}#onetrust-pc-sdk [type=checkbox]:checked,#onetrust-pc-sdk [type=checkbox]:not(:checked){pointer-events:initial}#onetrust-pc-sdk [type=checkbox]:disabled+label::before,#onetrust-pc-sdk [type=checkbox]:disabled+label:after,#onetrust-pc-sdk [type=checkbox]:disabled+label{pointer-events:none;opacity:.7}#onetrust-pc-sdk #vendor-list-content{transform:translate3d(0, 0, 0)}#onetrust-pc-sdk li input[type=checkbox]{z-index:1}#onetrust-pc-sdk li .ot-checkbox label{z-index:2}#onetrust-pc-sdk li .ot-checkbox input[type=checkbox]{height:auto;width:auto}#onetrust-pc-sdk li .host-title a,#onetrust-pc-sdk li .ot-host-name a,#onetrust-pc-sdk li .accordion-text,#onetrust-pc-sdk li .ot-acc-txt{z-index:2;position:relative}#onetrust-pc-sdk input{margin:3px .1ex}#onetrust-pc-sdk .pc-logo,#onetrust-pc-sdk .ot-pc-logo{height:60px;width:180px;background-position:center;background-size:contain;background-repeat:no-repeat;display:inline-flex;justify-content:center;align-items:center}#onetrust-pc-sdk .pc-logo img,#onetrust-pc-sdk .ot-pc-logo img{max-height:100%;max-width:100%}#onetrust-pc-sdk .screen-reader-only,#onetrust-pc-sdk .ot-scrn-rdr,.ot-sdk-cookie-policy .screen-reader-only,.ot-sdk-cookie-policy .ot-scrn-rdr{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}#onetrust-pc-sdk.ot-fade-in,.onetrust-pc-dark-filter.ot-fade-in,#onetrust-banner-sdk.ot-fade-in{animation-name:onetrust-fade-in;animation-duration:400ms;animation-timing-function:ease-in-out}#onetrust-pc-sdk.ot-hide{display:none !important}.onetrust-pc-dark-filter.ot-hide{display:none !important}#ot-sdk-btn.ot-sdk-show-settings,#ot-sdk-btn.optanon-show-settings{color:#68b631;border:1px solid #68b631;height:auto;white-space:normal;word-wrap:break-word;padding:.8em 2em;font-size:.8em;line-height:1.2;cursor:pointer;-moz-transition:.1s ease;-o-transition:.1s ease;-webkit-transition:1s ease;transition:.1s ease}#ot-sdk-btn.ot-sdk-show-settings:hover,#ot-sdk-btn.optanon-show-settings:hover{color:#fff;background-color:#68b631}.onetrust-pc-dark-filter{background:rgba(0,0,0,.5);z-index:2147483646;width:100%;height:100%;overflow:hidden;position:fixed;top:0;bottom:0;left:0}@keyframes onetrust-fade-in{0%{opacity:0}100%{opacity:1}}.ot-cookie-label{text-decoration:underline}@media only screen and (min-width: 426px)and (max-width: 896px)and (orientation: landscape){#onetrust-pc-sdk p{font-size:.75em}}#onetrust-banner-sdk .banner-option-input:focus+label{outline:1px solid #000;outline-style:auto}.category-vendors-list-handler+a:focus,.category-vendors-list-handler+a:focus-visible{outline:2px solid #000}#onetrust-pc-sdk .ot-userid-title{margin-top:10px}#onetrust-pc-sdk .ot-userid-title>span,#onetrust-pc-sdk .ot-userid-timestamp>span{font-weight:700}#onetrust-pc-sdk .ot-userid-desc{font-style:italic}#onetrust-pc-sdk .ot-host-desc a{pointer-events:initial}#onetrust-pc-sdk .ot-ven-hdr>p a{position:relative;z-index:2;pointer-events:initial}#onetrust-pc-sdk .ot-vnd-serv .ot-vnd-item .ot-vnd-info a,#onetrust-pc-sdk .ot-vs-list .ot-vnd-item .ot-vnd-info a{margin-right:auto}#onetrust-pc-sdk .ot-pc-footer-logo img{width:136px;height:16px}#onetrust-pc-sdk .ot-pur-vdr-count{font-weight:400;font-size:.7rem;padding-top:3px;display:block}#onetrust-banner-sdk .ot-optout-signal,#onetrust-pc-sdk .ot-optout-signal{border:1px solid #32ae88;border-radius:3px;padding:5px;margin-bottom:10px;background-color:#f9fffa;font-size:.85rem;line-height:2}#onetrust-banner-sdk .ot-optout-signal .ot-optout-icon,#onetrust-pc-sdk .ot-optout-signal .ot-optout-icon{display:inline;margin-right:5px}#onetrust-banner-sdk .ot-optout-signal svg,#onetrust-pc-sdk .ot-optout-signal svg{height:20px;width:30px;transform:scale(0.5)}#onetrust-banner-sdk .ot-optout-signal svg path,#onetrust-pc-sdk .ot-optout-signal svg path{fill:#32ae88}#onetrust-consent-sdk .ot-general-modal{overflow:hidden;position:fixed;margin:0 auto;top:50%;left:50%;width:40%;padding:1.5rem;max-width:575px;min-width:575px;z-index:2147483647;border-radius:2.5px;transform:translate(-50%, -50%)}#onetrust-consent-sdk .ot-signature-health-group{margin-top:1rem;padding-left:1.25rem;padding-right:1.25rem;margin-bottom:.625rem;width:calc(100% - 2.5rem)}#onetrust-consent-sdk .ot-signature-health-group .ot-signature-health-form{gap:.5rem}#onetrust-consent-sdk .ot-signature-health .ot-signature-health-form{width:70%;gap:.35rem}#onetrust-consent-sdk .ot-signature-health .ot-signature-input{height:38px;padding:6px 10px;background-color:#fff;border:1px solid #d1d1d1;border-radius:4px;box-shadow:none;box-sizing:border-box}#onetrust-consent-sdk .ot-signature-health .ot-signature-subtitle{font-size:1.125rem}#onetrust-consent-sdk .ot-signature-health .ot-signature-group-title{font-size:1.25rem;font-weight:bold}#onetrust-consent-sdk .ot-signature-health,#onetrust-consent-sdk .ot-signature-health-group{display:flex;flex-direction:column;gap:1rem}#onetrust-consent-sdk .ot-signature-health .ot-signature-cont,#onetrust-consent-sdk .ot-signature-health-group .ot-signature-cont{display:flex;flex-direction:column;gap:.25rem}#onetrust-consent-sdk .ot-signature-health .ot-signature-paragraph,#onetrust-consent-sdk .ot-signature-health-group .ot-signature-paragraph{margin:0;line-height:20px;font-size:max(14px,.875rem)}#onetrust-consent-sdk .ot-signature-health .ot-health-signature-error,#onetrust-consent-sdk .ot-signature-health-group .ot-health-signature-error{color:#4d4d4d;font-size:min(12px,.75rem)}#onetrust-consent-sdk .ot-signature-health .ot-signature-buttons-cont,#onetrust-consent-sdk .ot-signature-health-group .ot-signature-buttons-cont{margin-top:max(.75rem,2%);gap:1rem;display:flex;justify-content:flex-end}#onetrust-consent-sdk .ot-signature-health .ot-signature-button,#onetrust-consent-sdk .ot-signature-health-group .ot-signature-button{flex:1;height:auto;color:#fff;cursor:pointer;line-height:1.2;min-width:125px;font-weight:600;font-size:.813em;border-radius:2px;padding:12px 10px;white-space:normal;word-wrap:break-word;word-break:break-word;background-color:#68b631;border:2px solid #68b631}#onetrust-consent-sdk .ot-signature-health .ot-signature-button.reject,#onetrust-consent-sdk .ot-signature-health-group .ot-signature-button.reject{background-color:#fff}#onetrust-consent-sdk .ot-input-field-cont{display:flex;flex-direction:column;gap:.5rem}#onetrust-consent-sdk .ot-input-field-cont .ot-signature-input{width:65%}#onetrust-consent-sdk .ot-signature-health-form{display:flex;flex-direction:column}#onetrust-consent-sdk .ot-signature-health-form .ot-signature-label{margin-bottom:0;line-height:20px;font-size:max(14px,.875rem)}@media only screen and (max-width: 600px){#onetrust-consent-sdk .ot-general-modal{min-width:100%}#onetrust-consent-sdk .ot-signature-health .ot-signature-health-form{width:100%}#onetrust-consent-sdk .ot-input-field-cont .ot-signature-input{width:100%}}#onetrust-banner-sdk,#onetrust-pc-sdk,#ot-sdk-cookie-policy,#ot-sync-ntfy{font-size:16px}#onetrust-banner-sdk *,#onetrust-banner-sdk ::after,#onetrust-banner-sdk ::before,#onetrust-pc-sdk *,#onetrust-pc-sdk ::after,#onetrust-pc-sdk ::before,#ot-sdk-cookie-policy *,#ot-sdk-cookie-policy ::after,#ot-sdk-cookie-policy ::before,#ot-sync-ntfy *,#ot-sync-ntfy ::after,#ot-sync-ntfy ::before{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}#onetrust-banner-sdk div,#onetrust-banner-sdk span,#onetrust-banner-sdk h1,#onetrust-banner-sdk h2,#onetrust-banner-sdk h3,#onetrust-banner-sdk h4,#onetrust-banner-sdk h5,#onetrust-banner-sdk h6,#onetrust-banner-sdk p,#onetrust-banner-sdk img,#onetrust-banner-sdk svg,#onetrust-banner-sdk button,#onetrust-banner-sdk section,#onetrust-banner-sdk a,#onetrust-banner-sdk label,#onetrust-banner-sdk input,#onetrust-banner-sdk ul,#onetrust-banner-sdk li,#onetrust-banner-sdk nav,#onetrust-banner-sdk table,#onetrust-banner-sdk thead,#onetrust-banner-sdk tr,#onetrust-banner-sdk td,#onetrust-banner-sdk tbody,#onetrust-banner-sdk .ot-main-content,#onetrust-banner-sdk .ot-toggle,#onetrust-banner-sdk #ot-content,#onetrust-banner-sdk #ot-pc-content,#onetrust-banner-sdk .checkbox,#onetrust-pc-sdk div,#onetrust-pc-sdk span,#onetrust-pc-sdk h1,#onetrust-pc-sdk h2,#onetrust-pc-sdk h3,#onetrust-pc-sdk h4,#onetrust-pc-sdk h5,#onetrust-pc-sdk h6,#onetrust-pc-sdk p,#onetrust-pc-sdk img,#onetrust-pc-sdk svg,#onetrust-pc-sdk button,#onetrust-pc-sdk section,#onetrust-pc-sdk a,#onetrust-pc-sdk label,#onetrust-pc-sdk input,#onetrust-pc-sdk ul,#onetrust-pc-sdk li,#onetrust-pc-sdk nav,#onetrust-pc-sdk table,#onetrust-pc-sdk thead,#onetrust-pc-sdk tr,#onetrust-pc-sdk td,#onetrust-pc-sdk tbody,#onetrust-pc-sdk .ot-main-content,#onetrust-pc-sdk .ot-toggle,#onetrust-pc-sdk #ot-content,#onetrust-pc-sdk #ot-pc-content,#onetrust-pc-sdk .checkbox,#ot-sdk-cookie-policy div,#ot-sdk-cookie-policy span,#ot-sdk-cookie-policy h1,#ot-sdk-cookie-policy h2,#ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy h5,#ot-sdk-cookie-policy h6,#ot-sdk-cookie-policy p,#ot-sdk-cookie-policy img,#ot-sdk-cookie-policy svg,#ot-sdk-cookie-policy button,#ot-sdk-cookie-policy section,#ot-sdk-cookie-policy a,#ot-sdk-cookie-policy label,#ot-sdk-cookie-policy input,#ot-sdk-cookie-policy ul,#ot-sdk-cookie-policy li,#ot-sdk-cookie-policy nav,#ot-sdk-cookie-policy table,#ot-sdk-cookie-policy thead,#ot-sdk-cookie-policy tr,#ot-sdk-cookie-policy td,#ot-sdk-cookie-policy tbody,#ot-sdk-cookie-policy .ot-main-content,#ot-sdk-cookie-policy .ot-toggle,#ot-sdk-cookie-policy #ot-content,#ot-sdk-cookie-policy #ot-pc-content,#ot-sdk-cookie-policy .checkbox,#ot-sync-ntfy div,#ot-sync-ntfy span,#ot-sync-ntfy h1,#ot-sync-ntfy h2,#ot-sync-ntfy h3,#ot-sync-ntfy h4,#ot-sync-ntfy h5,#ot-sync-ntfy h6,#ot-sync-ntfy p,#ot-sync-ntfy img,#ot-sync-ntfy svg,#ot-sync-ntfy button,#ot-sync-ntfy section,#ot-sync-ntfy a,#ot-sync-ntfy label,#ot-sync-ntfy input,#ot-sync-ntfy ul,#ot-sync-ntfy li,#ot-sync-ntfy nav,#ot-sync-ntfy table,#ot-sync-ntfy thead,#ot-sync-ntfy tr,#ot-sync-ntfy td,#ot-sync-ntfy tbody,#ot-sync-ntfy .ot-main-content,#ot-sync-ntfy .ot-toggle,#ot-sync-ntfy #ot-content,#ot-sync-ntfy #ot-pc-content,#ot-sync-ntfy .checkbox{font-family:inherit;font-weight:normal;-webkit-font-smoothing:auto;letter-spacing:normal;line-height:normal;padding:0;margin:0;height:auto;min-height:0;max-height:none;width:auto;min-width:0;max-width:none;border-radius:0;border:none;clear:none;float:none;position:static;bottom:auto;left:auto;right:auto;top:auto;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;white-space:normal;background:none;overflow:visible;vertical-align:baseline;visibility:visible;z-index:auto;box-shadow:none}#onetrust-banner-sdk label:before,#onetrust-banner-sdk label:after,#onetrust-banner-sdk .checkbox:after,#onetrust-banner-sdk .checkbox:before,#onetrust-pc-sdk label:before,#onetrust-pc-sdk label:after,#onetrust-pc-sdk .checkbox:after,#onetrust-pc-sdk .checkbox:before,#ot-sdk-cookie-policy label:before,#ot-sdk-cookie-policy label:after,#ot-sdk-cookie-policy .checkbox:after,#ot-sdk-cookie-policy .checkbox:before,#ot-sync-ntfy label:before,#ot-sync-ntfy label:after,#ot-sync-ntfy .checkbox:after,#ot-sync-ntfy .checkbox:before{content:"";content:none}#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{position:relative;width:100%;max-width:100%;margin:0 auto;padding:0 20px;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-column,#onetrust-banner-sdk .ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-column,#onetrust-pc-sdk .ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-columns{width:100%;float:left;box-sizing:border-box;padding:0;display:initial}@media(min-width: 400px){#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{width:90%;padding:0}}@media(min-width: 550px){#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{width:100%}#onetrust-banner-sdk .ot-sdk-column,#onetrust-banner-sdk .ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-column,#onetrust-pc-sdk .ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-columns{margin-left:4%}#onetrust-banner-sdk .ot-sdk-column:first-child,#onetrust-banner-sdk .ot-sdk-columns:first-child,#onetrust-pc-sdk .ot-sdk-column:first-child,#onetrust-pc-sdk .ot-sdk-columns:first-child,#ot-sdk-cookie-policy .ot-sdk-column:first-child,#ot-sdk-cookie-policy .ot-sdk-columns:first-child{margin-left:0}#onetrust-banner-sdk .ot-sdk-two.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-two.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-two.ot-sdk-columns{width:13.3333333333%}#onetrust-banner-sdk .ot-sdk-three.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-three.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-three.ot-sdk-columns{width:22%}#onetrust-banner-sdk .ot-sdk-four.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-four.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-four.ot-sdk-columns{width:30.6666666667%}#onetrust-banner-sdk .ot-sdk-eight.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-eight.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-eight.ot-sdk-columns{width:65.3333333333%}#onetrust-banner-sdk .ot-sdk-nine.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-nine.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-nine.ot-sdk-columns{width:74%}#onetrust-banner-sdk .ot-sdk-ten.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-ten.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-ten.ot-sdk-columns{width:82.6666666667%}#onetrust-banner-sdk .ot-sdk-eleven.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-eleven.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-eleven.ot-sdk-columns{width:91.3333333333%}#onetrust-banner-sdk .ot-sdk-twelve.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-twelve.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-twelve.ot-sdk-columns{width:100%;margin-left:0}}#onetrust-banner-sdk h1,#onetrust-banner-sdk h2,#onetrust-banner-sdk h3,#onetrust-banner-sdk h4,#onetrust-banner-sdk h5,#onetrust-banner-sdk h6,#onetrust-pc-sdk h1,#onetrust-pc-sdk h2,#onetrust-pc-sdk h3,#onetrust-pc-sdk h4,#onetrust-pc-sdk h5,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h1,#ot-sdk-cookie-policy h2,#ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy h5,#ot-sdk-cookie-policy h6{margin-top:0;font-weight:600;font-family:inherit}#onetrust-banner-sdk h1,#onetrust-pc-sdk h1,#ot-sdk-cookie-policy h1{font-size:1.5rem;line-height:1.2}#onetrust-banner-sdk h2,#onetrust-pc-sdk h2,#ot-sdk-cookie-policy h2{font-size:1.5rem;line-height:1.25}#onetrust-banner-sdk h3,#onetrust-pc-sdk h3,#ot-sdk-cookie-policy h3{font-size:1.5rem;line-height:1.3}#onetrust-banner-sdk h4,#onetrust-pc-sdk h4,#ot-sdk-cookie-policy h4{font-size:1.5rem;line-height:1.35}#onetrust-banner-sdk h5,#onetrust-pc-sdk h5,#ot-sdk-cookie-policy h5{font-size:1.5rem;line-height:1.5}#onetrust-banner-sdk h6,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h6{font-size:1.5rem;line-height:1.6}@media(min-width: 550px){#onetrust-banner-sdk h1,#onetrust-pc-sdk h1,#ot-sdk-cookie-policy h1{font-size:1.5rem}#onetrust-banner-sdk h2,#onetrust-pc-sdk h2,#ot-sdk-cookie-policy h2{font-size:1.5rem}#onetrust-banner-sdk h3,#onetrust-pc-sdk h3,#ot-sdk-cookie-policy h3{font-size:1.5rem}#onetrust-banner-sdk h4,#onetrust-pc-sdk h4,#ot-sdk-cookie-policy h4{font-size:1.5rem}#onetrust-banner-sdk h5,#onetrust-pc-sdk h5,#ot-sdk-cookie-policy h5{font-size:1.5rem}#onetrust-banner-sdk h6,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h6{font-size:1.5rem}}#onetrust-banner-sdk p,#onetrust-pc-sdk p,#ot-sdk-cookie-policy p{margin:0 0 1em 0;font-family:inherit;line-height:normal}#onetrust-banner-sdk a,#onetrust-pc-sdk a,#ot-sdk-cookie-policy a{color:#565656;text-decoration:underline}#onetrust-banner-sdk a:hover,#onetrust-pc-sdk a:hover,#ot-sdk-cookie-policy a:hover{color:#565656;text-decoration:none}#onetrust-banner-sdk .ot-sdk-button,#onetrust-banner-sdk button,#onetrust-pc-sdk .ot-sdk-button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy .ot-sdk-button,#ot-sdk-cookie-policy button{margin-bottom:1rem;font-family:inherit}#onetrust-banner-sdk .ot-sdk-button,#onetrust-banner-sdk button,#onetrust-pc-sdk .ot-sdk-button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy .ot-sdk-button,#ot-sdk-cookie-policy button{display:inline-block;height:38px;padding:0 30px;color:#555;text-align:center;font-size:.9em;font-weight:400;line-height:38px;letter-spacing:.01em;text-decoration:none;white-space:nowrap;background-color:rgba(0,0,0,0);border-radius:2px;border:1px solid #bbb;cursor:pointer;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-button:hover,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:not(.ot-link-btn):hover,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:not(.ot-link-btn):focus,#onetrust-pc-sdk .ot-sdk-button:hover,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:not(.ot-link-btn):hover,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:not(.ot-link-btn):focus,#ot-sdk-cookie-policy .ot-sdk-button:hover,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:not(.ot-link-btn):hover,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:not(.ot-link-btn):focus{color:#333;border-color:#888;opacity:.7}#onetrust-banner-sdk .ot-sdk-button:focus,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:focus,#onetrust-pc-sdk .ot-sdk-button:focus,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:focus,#ot-sdk-cookie-policy .ot-sdk-button:focus,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:focus{outline:2px solid #000}#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary,#onetrust-banner-sdk button.ot-sdk-button-primary,#onetrust-banner-sdk input[type=submit].ot-sdk-button-primary,#onetrust-banner-sdk input[type=reset].ot-sdk-button-primary,#onetrust-banner-sdk input[type=button].ot-sdk-button-primary,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary,#onetrust-pc-sdk button.ot-sdk-button-primary,#onetrust-pc-sdk input[type=submit].ot-sdk-button-primary,#onetrust-pc-sdk input[type=reset].ot-sdk-button-primary,#onetrust-pc-sdk input[type=button].ot-sdk-button-primary,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary,#ot-sdk-cookie-policy button.ot-sdk-button-primary,#ot-sdk-cookie-policy input[type=submit].ot-sdk-button-primary,#ot-sdk-cookie-policy input[type=reset].ot-sdk-button-primary,#ot-sdk-cookie-policy input[type=button].ot-sdk-button-primary{color:#fff;background-color:#33c3f0;border-color:#33c3f0}#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary:hover,#onetrust-banner-sdk button.ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type=submit].ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type=reset].ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type=button].ot-sdk-button-primary:hover,#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary:focus,#onetrust-banner-sdk button.ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type=submit].ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type=reset].ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type=button].ot-sdk-button-primary:focus,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary:hover,#onetrust-pc-sdk button.ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type=submit].ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type=reset].ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type=button].ot-sdk-button-primary:hover,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary:focus,#onetrust-pc-sdk button.ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type=submit].ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type=reset].ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type=button].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary:hover,#ot-sdk-cookie-policy button.ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type=submit].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type=reset].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type=button].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary:focus,#ot-sdk-cookie-policy button.ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type=submit].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type=reset].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type=button].ot-sdk-button-primary:focus{color:#fff;background-color:#1eaedb;border-color:#1eaedb}#onetrust-banner-sdk input[type=text],#onetrust-pc-sdk input[type=text],#ot-sdk-cookie-policy input[type=text]{height:38px;padding:6px 10px;background-color:#fff;border:1px solid #d1d1d1;border-radius:4px;box-shadow:none;box-sizing:border-box}#onetrust-banner-sdk input[type=text],#onetrust-pc-sdk input[type=text],#ot-sdk-cookie-policy input[type=text]{-webkit-appearance:none;-moz-appearance:none;appearance:none}#onetrust-banner-sdk input[type=text]:focus,#onetrust-pc-sdk input[type=text]:focus,#ot-sdk-cookie-policy input[type=text]:focus{border:1px solid #000;outline:0}#onetrust-banner-sdk label,#onetrust-pc-sdk label,#ot-sdk-cookie-policy label{display:block;margin-bottom:.5rem;font-weight:600}#onetrust-banner-sdk input[type=checkbox],#onetrust-pc-sdk input[type=checkbox],#ot-sdk-cookie-policy input[type=checkbox]{display:inline}#onetrust-banner-sdk ul,#onetrust-pc-sdk ul,#ot-sdk-cookie-policy ul{list-style:circle inside}#onetrust-banner-sdk ul,#onetrust-pc-sdk ul,#ot-sdk-cookie-policy ul{padding-left:0;margin-top:0}#onetrust-banner-sdk ul ul,#onetrust-pc-sdk ul ul,#ot-sdk-cookie-policy ul ul{margin:1.5rem 0 1.5rem 3rem;font-size:90%}#onetrust-banner-sdk li,#onetrust-pc-sdk li,#ot-sdk-cookie-policy li{margin-bottom:1rem}#onetrust-banner-sdk th,#onetrust-banner-sdk td,#onetrust-pc-sdk th,#onetrust-pc-sdk td,#ot-sdk-cookie-policy th,#ot-sdk-cookie-policy td{padding:12px 15px;text-align:left;border-bottom:1px solid #e1e1e1}#onetrust-banner-sdk button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy button{margin-bottom:1rem;font-family:inherit}#onetrust-banner-sdk .ot-sdk-container:after,#onetrust-banner-sdk .ot-sdk-row:after,#onetrust-pc-sdk .ot-sdk-container:after,#onetrust-pc-sdk .ot-sdk-row:after,#ot-sdk-cookie-policy .ot-sdk-container:after,#ot-sdk-cookie-policy .ot-sdk-row:after{content:"";display:table;clear:both}#onetrust-banner-sdk .ot-sdk-row,#onetrust-pc-sdk .ot-sdk-row,#ot-sdk-cookie-policy .ot-sdk-row{margin:0;max-width:none;display:block}#onetrust-banner-sdk{box-shadow:0 0 18px rgba(0,0,0,.2)}#onetrust-banner-sdk.otFlat{position:fixed;z-index:2147483645;bottom:0;right:0;left:0;background-color:#fff;max-height:90%;overflow-x:hidden;overflow-y:auto}#onetrust-banner-sdk.otFlat.top{top:0px;bottom:auto}#onetrust-banner-sdk.otRelFont{font-size:1rem}#onetrust-banner-sdk>.ot-sdk-container{overflow:hidden}#onetrust-banner-sdk::-webkit-scrollbar{width:11px}#onetrust-banner-sdk::-webkit-scrollbar-thumb{border-radius:10px;background:#c1c1c1}#onetrust-banner-sdk{scrollbar-arrow-color:#c1c1c1;scrollbar-darkshadow-color:#c1c1c1;scrollbar-face-color:#c1c1c1;scrollbar-shadow-color:#c1c1c1}#onetrust-banner-sdk #onetrust-policy{margin:1.25em 0 .625em 2em;overflow:hidden}#onetrust-banner-sdk #onetrust-policy .ot-gv-list-handler{float:left;font-size:.82em;padding:0;margin-bottom:0;border:0;line-height:normal;height:auto;width:auto}#onetrust-banner-sdk #onetrust-policy-title{font-size:1.2em;line-height:1.3;margin-bottom:10px}#onetrust-banner-sdk #onetrust-policy-text{clear:both;text-align:left;font-size:.88em;line-height:1.4}#onetrust-banner-sdk #onetrust-policy-text *{font-size:inherit;line-height:inherit}#onetrust-banner-sdk #onetrust-policy-text a{font-weight:bold;margin-left:5px}#onetrust-banner-sdk #onetrust-policy-title,#onetrust-banner-sdk #onetrust-policy-text{color:dimgray;float:left}#onetrust-banner-sdk #onetrust-button-group-parent{min-height:1px;text-align:center}#onetrust-banner-sdk #onetrust-button-group{display:inline-block}#onetrust-banner-sdk #onetrust-accept-btn-handler,#onetrust-banner-sdk #onetrust-reject-all-handler,#onetrust-banner-sdk #onetrust-pc-btn-handler{background-color:#68b631;color:#fff;border-color:#68b631;margin-right:1em;min-width:125px;height:auto;white-space:normal;word-break:break-word;word-wrap:break-word;padding:12px 10px;line-height:1.2;font-size:.813em;font-weight:600}#onetrust-banner-sdk #onetrust-pc-btn-handler.cookie-setting-link{background-color:#fff;border:none;color:#68b631;text-decoration:underline;padding-left:0;padding-right:0}#onetrust-banner-sdk .onetrust-close-btn-ui{width:44px;height:44px;background-size:12px;border:none;position:relative;margin:auto;padding:0}#onetrust-banner-sdk .banner_logo{display:none}#onetrust-banner-sdk.ot-bnr-w-logo .ot-bnr-logo{position:absolute;top:50%;transform:translateY(-50%);left:0px}#onetrust-banner-sdk.ot-bnr-w-logo #onetrust-policy{margin-left:65px}#onetrust-banner-sdk .ot-b-addl-desc{clear:both;float:left;display:block}#onetrust-banner-sdk #banner-options{float:left;display:table;margin-right:0;margin-left:1em;width:calc(100% - 1em)}#onetrust-banner-sdk .banner-option-input{cursor:pointer;width:auto;height:auto;border:none;padding:0;padding-right:3px;margin:0 0 10px;font-size:.82em;line-height:1.4}#onetrust-banner-sdk .banner-option-input *{pointer-events:none;font-size:inherit;line-height:inherit}#onetrust-banner-sdk .banner-option-input[aria-expanded=true]~.banner-option-details{display:block;height:auto}#onetrust-banner-sdk .banner-option-input[aria-expanded=true] .ot-arrow-container{transform:rotate(90deg)}#onetrust-banner-sdk .banner-option{margin-bottom:12px;margin-left:0;border:none;float:left;padding:0}#onetrust-banner-sdk .banner-option:first-child{padding-left:2px}#onetrust-banner-sdk .banner-option:not(:first-child){padding:0;border:none}#onetrust-banner-sdk .banner-option-header{cursor:pointer;display:inline-block}#onetrust-banner-sdk .banner-option-header :first-child{color:dimgray;font-weight:bold;float:left}#onetrust-banner-sdk .banner-option-header .ot-arrow-container{display:inline-block;border-top:6px solid rgba(0,0,0,0);border-bottom:6px solid rgba(0,0,0,0);border-left:6px solid dimgray;margin-left:10px;vertical-align:middle}#onetrust-banner-sdk .banner-option-details{display:none;font-size:.83em;line-height:1.5;padding:10px 0px 5px 10px;margin-right:10px;height:0px}#onetrust-banner-sdk .banner-option-details *{font-size:inherit;line-height:inherit;color:dimgray}#onetrust-banner-sdk .ot-arrow-container,#onetrust-banner-sdk .banner-option-details{transition:all 300ms ease-in 0s;-webkit-transition:all 300ms ease-in 0s;-moz-transition:all 300ms ease-in 0s;-o-transition:all 300ms ease-in 0s}#onetrust-banner-sdk .ot-dpd-container{float:left}#onetrust-banner-sdk .ot-dpd-title{margin-bottom:10px}#onetrust-banner-sdk .ot-dpd-title,#onetrust-banner-sdk .ot-dpd-desc{font-size:.88em;line-height:1.4;color:dimgray}#onetrust-banner-sdk .ot-dpd-title *,#onetrust-banner-sdk .ot-dpd-desc *{font-size:inherit;line-height:inherit}#onetrust-banner-sdk.ot-iab-2 #onetrust-policy-text *{margin-bottom:0}#onetrust-banner-sdk.ot-iab-2 .onetrust-vendors-list-handler{display:block;margin-left:0;margin-top:5px;clear:both;margin-bottom:0;padding:0;border:0;height:auto;width:auto}#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group button{display:block}#onetrust-banner-sdk.ot-close-btn-link{padding-top:25px}#onetrust-banner-sdk.ot-close-btn-link #onetrust-close-btn-container{top:15px;transform:none;right:15px}#onetrust-banner-sdk.ot-close-btn-link #onetrust-close-btn-container button{padding:0;white-space:pre-wrap;border:none;height:auto;line-height:1.5;text-decoration:underline;font-size:.69em}#onetrust-banner-sdk #onetrust-policy-text,#onetrust-banner-sdk .ot-dpd-desc,#onetrust-banner-sdk .ot-b-addl-desc{font-size:.813em;line-height:1.5}#onetrust-banner-sdk .ot-dpd-desc{margin-bottom:10px}#onetrust-banner-sdk .ot-dpd-desc>.ot-b-addl-desc{margin-top:10px;margin-bottom:10px;font-size:1em}@media only screen and (max-width: 425px){#onetrust-banner-sdk #onetrust-close-btn-container{position:absolute;top:6px;right:2px}#onetrust-banner-sdk #onetrust-policy{margin-left:0;margin-top:3em}#onetrust-banner-sdk #onetrust-button-group{display:block}#onetrust-banner-sdk #onetrust-accept-btn-handler,#onetrust-banner-sdk #onetrust-reject-all-handler,#onetrust-banner-sdk #onetrust-pc-btn-handler{width:100%}#onetrust-banner-sdk .onetrust-close-btn-ui{top:auto;transform:none}#onetrust-banner-sdk #onetrust-policy-title{display:inline;float:none}#onetrust-banner-sdk #banner-options{margin:0;padding:0;width:100%}}@media only screen and (min-width: 426px)and (max-width: 896px){#onetrust-banner-sdk #onetrust-close-btn-container{position:absolute;top:0;right:0}#onetrust-banner-sdk #onetrust-policy{margin-left:1em;margin-right:1em}#onetrust-banner-sdk .onetrust-close-btn-ui{top:10px;right:10px}#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-group-container{width:95%}#onetrust-banner-sdk.ot-iab-2 #onetrust-group-container{width:100%}#onetrust-banner-sdk.ot-bnr-w-logo #onetrust-button-group-parent{padding-left:50px}#onetrust-banner-sdk #onetrust-button-group-parent{width:100%;position:relative;margin-left:0}#onetrust-banner-sdk #onetrust-button-group button{display:inline-block}#onetrust-banner-sdk #onetrust-button-group{margin-right:0;text-align:center}#onetrust-banner-sdk .has-reject-all-button #onetrust-pc-btn-handler{float:left}#onetrust-banner-sdk .has-reject-all-button #onetrust-reject-all-handler,#onetrust-banner-sdk .has-reject-all-button #onetrust-accept-btn-handler{float:right}#onetrust-banner-sdk .has-reject-all-button #onetrust-button-group{width:calc(100% - 2em);margin-right:0}#onetrust-banner-sdk .has-reject-all-button #onetrust-pc-btn-handler.cookie-setting-link{padding-left:0px;text-align:left}#onetrust-banner-sdk.ot-buttons-fw .ot-sdk-three button{width:100%;text-align:center}#onetrust-banner-sdk.ot-buttons-fw #onetrust-button-group-parent button{float:none}#onetrust-banner-sdk.ot-buttons-fw #onetrust-pc-btn-handler.cookie-setting-link{text-align:center}}@media only screen and (min-width: 550px){#onetrust-banner-sdk .banner-option:not(:first-child){border-left:1px solid #d8d8d8;padding-left:25px}}@media only screen and (min-width: 425px)and (max-width: 550px){#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group,#onetrust-banner-sdk.ot-iab-2 #onetrust-policy,#onetrust-banner-sdk.ot-iab-2 .banner-option{width:100%}#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group #onetrust-accept-btn-handler,#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group #onetrust-reject-all-handler,#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group #onetrust-pc-btn-handler{width:100%}#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group #onetrust-accept-btn-handler,#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group #onetrust-reject-all-handler{float:left}}@media only screen and (min-width: 769px){#onetrust-banner-sdk #onetrust-button-group{margin-right:30%}#onetrust-banner-sdk #banner-options{margin-left:2em;margin-right:5em;margin-bottom:1.25em;width:calc(100% - 7em)}}@media only screen and (min-width: 897px)and (max-width: 1023px){#onetrust-banner-sdk.vertical-align-content #onetrust-button-group-parent{position:absolute;top:50%;left:75%;transform:translateY(-50%)}#onetrust-banner-sdk #onetrust-close-btn-container{top:50%;margin:auto;transform:translate(-50%, -50%);position:absolute;padding:0;right:0}#onetrust-banner-sdk #onetrust-close-btn-container button{position:relative;margin:0;right:-22px;top:2px}}@media only screen and (min-width: 1024px){#onetrust-banner-sdk #onetrust-close-btn-container{top:50%;margin:auto;transform:translate(-50%, -50%);position:absolute;right:0}#onetrust-banner-sdk #onetrust-close-btn-container button{right:-12px}#onetrust-banner-sdk #onetrust-policy{margin-left:2em}#onetrust-banner-sdk.vertical-align-content #onetrust-button-group-parent{position:absolute;top:50%;left:60%;transform:translateY(-50%)}#onetrust-banner-sdk .ot-optout-signal{width:50%}#onetrust-banner-sdk.ot-iab-2 #onetrust-policy-title{width:50%}#onetrust-banner-sdk.ot-iab-2 #onetrust-policy-text,#onetrust-banner-sdk.ot-iab-2 :not(.ot-dpd-desc)>.ot-b-addl-desc{margin-bottom:1em;width:50%;border-right:1px solid #d8d8d8;padding-right:1rem}#onetrust-banner-sdk.ot-iab-2 #onetrust-policy-text{margin-bottom:0;padding-bottom:1em}#onetrust-banner-sdk.ot-iab-2 :not(.ot-dpd-desc)>.ot-b-addl-desc{margin-bottom:0;padding-bottom:1em}#onetrust-banner-sdk.ot-iab-2 .ot-dpd-container{width:45%;padding-left:1rem;display:inline-block;float:none}#onetrust-banner-sdk.ot-iab-2 .ot-dpd-title{line-height:1.7}#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group-parent{left:auto;right:4%;margin-left:0}#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group button{display:block}#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-button-group-parent{margin:auto;width:30%}#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-group-container{width:60%}#onetrust-banner-sdk #onetrust-button-group{margin-right:auto}#onetrust-banner-sdk #onetrust-accept-btn-handler,#onetrust-banner-sdk #onetrust-reject-all-handler,#onetrust-banner-sdk #onetrust-pc-btn-handler{margin-top:1em}}@media only screen and (min-width: 890px){#onetrust-banner-sdk.ot-buttons-fw:not(.ot-iab-2) #onetrust-button-group-parent{padding-left:3%;padding-right:4%;margin-left:0}#onetrust-banner-sdk.ot-buttons-fw:not(.ot-iab-2) #onetrust-button-group{margin-right:0;margin-top:1.25em;width:100%}#onetrust-banner-sdk.ot-buttons-fw:not(.ot-iab-2) #onetrust-button-group button{width:100%;margin-bottom:5px;margin-top:5px}#onetrust-banner-sdk.ot-buttons-fw:not(.ot-iab-2) #onetrust-button-group button:last-of-type{margin-bottom:20px}}@media only screen and (min-width: 1280px){#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-group-container{width:55%}#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-button-group-parent{width:44%;padding-left:2%;padding-right:2%}#onetrust-banner-sdk:not(.ot-iab-2).vertical-align-content #onetrust-button-group-parent{position:absolute;left:55%}}
+}</style> <script src="./peace_files/otBannerSdk.js.tải xuống" async="" type="text/javascript"></script><style id="onetrust-style">#onetrust-banner-sdk .onetrust-vendors-list-handler{cursor:pointer;color:#1f96db;font-size:inherit;font-weight:bold;text-decoration:none;margin-left:5px}#onetrust-banner-sdk .onetrust-vendors-list-handler:hover{color:#1f96db}#onetrust-banner-sdk:focus{outline:2px solid #000;outline-offset:-2px}#onetrust-banner-sdk a:focus{outline:2px solid #000}#onetrust-banner-sdk #onetrust-accept-btn-handler,#onetrust-banner-sdk #onetrust-reject-all-handler,#onetrust-banner-sdk #onetrust-pc-btn-handler{outline-offset:1px}#onetrust-banner-sdk.ot-bnr-w-logo .ot-bnr-logo{height:64px;width:64px}#onetrust-banner-sdk .ot-tcf2-vendor-count.ot-text-bold{font-weight:bold}#onetrust-banner-sdk .ot-close-icon,#onetrust-pc-sdk .ot-close-icon,#ot-sync-ntfy .ot-close-icon{background-size:contain;background-repeat:no-repeat;background-position:center;height:12px;width:12px}#onetrust-banner-sdk .powered-by-logo,#onetrust-banner-sdk .ot-pc-footer-logo a,#onetrust-pc-sdk .powered-by-logo,#onetrust-pc-sdk .ot-pc-footer-logo a,#ot-sync-ntfy .powered-by-logo,#ot-sync-ntfy .ot-pc-footer-logo a{background-size:contain;background-repeat:no-repeat;background-position:center;height:25px;width:152px;display:block;text-decoration:none;font-size:.75em}#onetrust-banner-sdk .powered-by-logo:hover,#onetrust-banner-sdk .ot-pc-footer-logo a:hover,#onetrust-pc-sdk .powered-by-logo:hover,#onetrust-pc-sdk .ot-pc-footer-logo a:hover,#ot-sync-ntfy .powered-by-logo:hover,#ot-sync-ntfy .ot-pc-footer-logo a:hover{color:#565656}#onetrust-banner-sdk h3 *,#onetrust-banner-sdk h4 *,#onetrust-banner-sdk h6 *,#onetrust-banner-sdk button *,#onetrust-banner-sdk a[data-parent-id] *,#onetrust-pc-sdk h3 *,#onetrust-pc-sdk h4 *,#onetrust-pc-sdk h6 *,#onetrust-pc-sdk button *,#onetrust-pc-sdk a[data-parent-id] *,#ot-sync-ntfy h3 *,#ot-sync-ntfy h4 *,#ot-sync-ntfy h6 *,#ot-sync-ntfy button *,#ot-sync-ntfy a[data-parent-id] *{font-size:inherit;font-weight:inherit;color:inherit}#onetrust-banner-sdk .ot-hide,#onetrust-pc-sdk .ot-hide,#ot-sync-ntfy .ot-hide{display:none !important}#onetrust-banner-sdk button.ot-link-btn:hover,#onetrust-pc-sdk button.ot-link-btn:hover,#ot-sync-ntfy button.ot-link-btn:hover{text-decoration:underline;opacity:1}#onetrust-pc-sdk .ot-sdk-row .ot-sdk-column{padding:0}#onetrust-pc-sdk .ot-sdk-container{padding-right:0}#onetrust-pc-sdk .ot-sdk-row{flex-direction:initial;width:100%}#onetrust-pc-sdk [type=checkbox]:checked,#onetrust-pc-sdk [type=checkbox]:not(:checked){pointer-events:initial}#onetrust-pc-sdk [type=checkbox]:disabled+label::before,#onetrust-pc-sdk [type=checkbox]:disabled+label:after,#onetrust-pc-sdk [type=checkbox]:disabled+label{pointer-events:none;opacity:.7}#onetrust-pc-sdk #vendor-list-content{transform:translate3d(0, 0, 0)}#onetrust-pc-sdk li input[type=checkbox]{z-index:1}#onetrust-pc-sdk li .ot-checkbox label{z-index:2}#onetrust-pc-sdk li .ot-checkbox input[type=checkbox]{height:auto;width:auto}#onetrust-pc-sdk li .host-title a,#onetrust-pc-sdk li .ot-host-name a,#onetrust-pc-sdk li .accordion-text,#onetrust-pc-sdk li .ot-acc-txt{z-index:2;position:relative}#onetrust-pc-sdk input{margin:3px .1ex}#onetrust-pc-sdk .pc-logo,#onetrust-pc-sdk .ot-pc-logo{height:60px;width:180px;background-position:center;background-size:contain;background-repeat:no-repeat;display:inline-flex;justify-content:center;align-items:center}#onetrust-pc-sdk .pc-logo img,#onetrust-pc-sdk .ot-pc-logo img{max-height:100%;max-width:100%}#onetrust-pc-sdk .screen-reader-only,#onetrust-pc-sdk .ot-scrn-rdr,.ot-sdk-cookie-policy .screen-reader-only,.ot-sdk-cookie-policy .ot-scrn-rdr{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}#onetrust-pc-sdk.ot-fade-in,.onetrust-pc-dark-filter.ot-fade-in,#onetrust-banner-sdk.ot-fade-in{animation-name:onetrust-fade-in;animation-duration:400ms;animation-timing-function:ease-in-out}#onetrust-pc-sdk.ot-hide{display:none !important}.onetrust-pc-dark-filter.ot-hide{display:none !important}#ot-sdk-btn.ot-sdk-show-settings,#ot-sdk-btn.optanon-show-settings{color:#68b631;border:1px solid #68b631;height:auto;white-space:normal;word-wrap:break-word;padding:.8em 2em;font-size:.8em;line-height:1.2;cursor:pointer;-moz-transition:.1s ease;-o-transition:.1s ease;-webkit-transition:1s ease;transition:.1s ease}#ot-sdk-btn.ot-sdk-show-settings:hover,#ot-sdk-btn.optanon-show-settings:hover{color:#fff;background-color:#68b631}.onetrust-pc-dark-filter{background:rgba(0,0,0,.5);z-index:2147483646;width:100%;height:100%;overflow:hidden;position:fixed;top:0;bottom:0;left:0}@keyframes onetrust-fade-in{0%{opacity:0}100%{opacity:1}}.ot-cookie-label{text-decoration:underline}@media only screen and (min-width: 426px)and (max-width: 896px)and (orientation: landscape){#onetrust-pc-sdk p{font-size:.75em}}#onetrust-banner-sdk .banner-option-input:focus+label{outline:1px solid #000;outline-style:auto}.category-vendors-list-handler+a:focus,.category-vendors-list-handler+a:focus-visible{outline:2px solid #000}#onetrust-pc-sdk .ot-userid-title{margin-top:10px}#onetrust-pc-sdk .ot-userid-title>span,#onetrust-pc-sdk .ot-userid-timestamp>span{font-weight:700}#onetrust-pc-sdk .ot-userid-desc{font-style:italic}#onetrust-pc-sdk .ot-host-desc a{pointer-events:initial}#onetrust-pc-sdk .ot-ven-hdr>p a{position:relative;z-index:2;pointer-events:initial}#onetrust-pc-sdk .ot-vnd-serv .ot-vnd-item .ot-vnd-info a,#onetrust-pc-sdk .ot-vs-list .ot-vnd-item .ot-vnd-info a{margin-right:auto}#onetrust-pc-sdk .ot-pc-footer-logo img{width:136px;height:16px}#onetrust-pc-sdk .ot-pur-vdr-count{font-weight:400;font-size:.7rem;padding-top:3px;display:block}#onetrust-banner-sdk .ot-optout-signal,#onetrust-pc-sdk .ot-optout-signal{border:1px solid #32ae88;border-radius:3px;padding:5px;margin-bottom:10px;background-color:#f9fffa;font-size:.85rem;line-height:2}#onetrust-banner-sdk .ot-optout-signal .ot-optout-icon,#onetrust-pc-sdk .ot-optout-signal .ot-optout-icon{display:inline;margin-right:5px}#onetrust-banner-sdk .ot-optout-signal svg,#onetrust-pc-sdk .ot-optout-signal svg{height:20px;width:30px;transform:scale(0.5)}#onetrust-banner-sdk .ot-optout-signal svg path,#onetrust-pc-sdk .ot-optout-signal svg path{fill:#32ae88}#onetrust-consent-sdk .ot-general-modal{overflow:hidden;position:fixed;margin:0 auto;top:50%;left:50%;width:40%;padding:1.5rem;max-width:575px;min-width:575px;z-index:2147483647;border-radius:2.5px;transform:translate(-50%, -50%)}#onetrust-consent-sdk .ot-signature-health-group{margin-top:1rem;padding-left:1.25rem;padding-right:1.25rem;margin-bottom:.625rem;width:calc(100% - 2.5rem)}#onetrust-consent-sdk .ot-signature-health-group .ot-signature-health-form{gap:.5rem}#onetrust-consent-sdk .ot-signature-health .ot-signature-health-form{width:70%;gap:.35rem}#onetrust-consent-sdk .ot-signature-health .ot-signature-input{height:38px;padding:6px 10px;background-color:#fff;border:1px solid #d1d1d1;border-radius:4px;box-shadow:none;box-sizing:border-box}#onetrust-consent-sdk .ot-signature-health .ot-signature-subtitle{font-size:1.125rem}#onetrust-consent-sdk .ot-signature-health .ot-signature-group-title{font-size:1.25rem;font-weight:bold}#onetrust-consent-sdk .ot-signature-health,#onetrust-consent-sdk .ot-signature-health-group{display:flex;flex-direction:column;gap:1rem}#onetrust-consent-sdk .ot-signature-health .ot-signature-cont,#onetrust-consent-sdk .ot-signature-health-group .ot-signature-cont{display:flex;flex-direction:column;gap:.25rem}#onetrust-consent-sdk .ot-signature-health .ot-signature-paragraph,#onetrust-consent-sdk .ot-signature-health-group .ot-signature-paragraph{margin:0;line-height:20px;font-size:max(14px,.875rem)}#onetrust-consent-sdk .ot-signature-health .ot-health-signature-error,#onetrust-consent-sdk .ot-signature-health-group .ot-health-signature-error{color:#4d4d4d;font-size:min(12px,.75rem)}#onetrust-consent-sdk .ot-signature-health .ot-signature-buttons-cont,#onetrust-consent-sdk .ot-signature-health-group .ot-signature-buttons-cont{margin-top:max(.75rem,2%);gap:1rem;display:flex;justify-content:flex-end}#onetrust-consent-sdk .ot-signature-health .ot-signature-button,#onetrust-consent-sdk .ot-signature-health-group .ot-signature-button{flex:1;height:auto;color:#fff;cursor:pointer;line-height:1.2;min-width:125px;font-weight:600;font-size:.813em;border-radius:2px;padding:12px 10px;white-space:normal;word-wrap:break-word;word-break:break-word;background-color:#68b631;border:2px solid #68b631}#onetrust-consent-sdk .ot-signature-health .ot-signature-button.reject,#onetrust-consent-sdk .ot-signature-health-group .ot-signature-button.reject{background-color:#fff}#onetrust-consent-sdk .ot-input-field-cont{display:flex;flex-direction:column;gap:.5rem}#onetrust-consent-sdk .ot-input-field-cont .ot-signature-input{width:65%}#onetrust-consent-sdk .ot-signature-health-form{display:flex;flex-direction:column}#onetrust-consent-sdk .ot-signature-health-form .ot-signature-label{margin-bottom:0;line-height:20px;font-size:max(14px,.875rem)}@media only screen and (max-width: 600px){#onetrust-consent-sdk .ot-general-modal{min-width:100%}#onetrust-consent-sdk .ot-signature-health .ot-signature-health-form{width:100%}#onetrust-consent-sdk .ot-input-field-cont .ot-signature-input{width:100%}}#onetrust-banner-sdk,#onetrust-pc-sdk,#ot-sdk-cookie-policy,#ot-sync-ntfy{font-size:16px}#onetrust-banner-sdk *,#onetrust-banner-sdk ::after,#onetrust-banner-sdk ::before,#onetrust-pc-sdk *,#onetrust-pc-sdk ::after,#onetrust-pc-sdk ::before,#ot-sdk-cookie-policy *,#ot-sdk-cookie-policy ::after,#ot-sdk-cookie-policy ::before,#ot-sync-ntfy *,#ot-sync-ntfy ::after,#ot-sync-ntfy ::before{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}#onetrust-banner-sdk div,#onetrust-banner-sdk span,#onetrust-banner-sdk h1,#onetrust-banner-sdk h2,#onetrust-banner-sdk h3,#onetrust-banner-sdk h4,#onetrust-banner-sdk h5,#onetrust-banner-sdk h6,#onetrust-banner-sdk p,#onetrust-banner-sdk img,#onetrust-banner-sdk svg,#onetrust-banner-sdk button,#onetrust-banner-sdk section,#onetrust-banner-sdk a,#onetrust-banner-sdk label,#onetrust-banner-sdk input,#onetrust-banner-sdk ul,#onetrust-banner-sdk li,#onetrust-banner-sdk nav,#onetrust-banner-sdk table,#onetrust-banner-sdk thead,#onetrust-banner-sdk tr,#onetrust-banner-sdk td,#onetrust-banner-sdk tbody,#onetrust-banner-sdk .ot-main-content,#onetrust-banner-sdk .ot-toggle,#onetrust-banner-sdk #ot-content,#onetrust-banner-sdk #ot-pc-content,#onetrust-banner-sdk .checkbox,#onetrust-pc-sdk div,#onetrust-pc-sdk span,#onetrust-pc-sdk h1,#onetrust-pc-sdk h2,#onetrust-pc-sdk h3,#onetrust-pc-sdk h4,#onetrust-pc-sdk h5,#onetrust-pc-sdk h6,#onetrust-pc-sdk p,#onetrust-pc-sdk img,#onetrust-pc-sdk svg,#onetrust-pc-sdk button,#onetrust-pc-sdk section,#onetrust-pc-sdk a,#onetrust-pc-sdk label,#onetrust-pc-sdk input,#onetrust-pc-sdk ul,#onetrust-pc-sdk li,#onetrust-pc-sdk nav,#onetrust-pc-sdk table,#onetrust-pc-sdk thead,#onetrust-pc-sdk tr,#onetrust-pc-sdk td,#onetrust-pc-sdk tbody,#onetrust-pc-sdk .ot-main-content,#onetrust-pc-sdk .ot-toggle,#onetrust-pc-sdk #ot-content,#onetrust-pc-sdk #ot-pc-content,#onetrust-pc-sdk .checkbox,#ot-sdk-cookie-policy div,#ot-sdk-cookie-policy span,#ot-sdk-cookie-policy h1,#ot-sdk-cookie-policy h2,#ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy h5,#ot-sdk-cookie-policy h6,#ot-sdk-cookie-policy p,#ot-sdk-cookie-policy img,#ot-sdk-cookie-policy svg,#ot-sdk-cookie-policy button,#ot-sdk-cookie-policy section,#ot-sdk-cookie-policy a,#ot-sdk-cookie-policy label,#ot-sdk-cookie-policy input,#ot-sdk-cookie-policy ul,#ot-sdk-cookie-policy li,#ot-sdk-cookie-policy nav,#ot-sdk-cookie-policy table,#ot-sdk-cookie-policy thead,#ot-sdk-cookie-policy tr,#ot-sdk-cookie-policy td,#ot-sdk-cookie-policy tbody,#ot-sdk-cookie-policy .ot-main-content,#ot-sdk-cookie-policy .ot-toggle,#ot-sdk-cookie-policy #ot-content,#ot-sdk-cookie-policy #ot-pc-content,#ot-sdk-cookie-policy .checkbox,#ot-sync-ntfy div,#ot-sync-ntfy span,#ot-sync-ntfy h1,#ot-sync-ntfy h2,#ot-sync-ntfy h3,#ot-sync-ntfy h4,#ot-sync-ntfy h5,#ot-sync-ntfy h6,#ot-sync-ntfy p,#ot-sync-ntfy img,#ot-sync-ntfy svg,#ot-sync-ntfy button,#ot-sync-ntfy section,#ot-sync-ntfy a,#ot-sync-ntfy label,#ot-sync-ntfy input,#ot-sync-ntfy ul,#ot-sync-ntfy li,#ot-sync-ntfy nav,#ot-sync-ntfy table,#ot-sync-ntfy thead,#ot-sync-ntfy tr,#ot-sync-ntfy td,#ot-sync-ntfy tbody,#ot-sync-ntfy .ot-main-content,#ot-sync-ntfy .ot-toggle,#ot-sync-ntfy #ot-content,#ot-sync-ntfy #ot-pc-content,#ot-sync-ntfy .checkbox{font-family:inherit;font-weight:normal;-webkit-font-smoothing:auto;letter-spacing:normal;line-height:normal;padding:0;margin:0;height:auto;min-height:0;max-height:none;width:auto;min-width:0;max-width:none;border-radius:0;border:none;clear:none;float:none;position:static;bottom:auto;left:auto;right:auto;top:auto;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;white-space:normal;background:none;overflow:visible;vertical-align:baseline;visibility:visible;z-index:auto;box-shadow:none}#onetrust-banner-sdk label:before,#onetrust-banner-sdk label:after,#onetrust-banner-sdk .checkbox:after,#onetrust-banner-sdk .checkbox:before,#onetrust-pc-sdk label:before,#onetrust-pc-sdk label:after,#onetrust-pc-sdk .checkbox:after,#onetrust-pc-sdk .checkbox:before,#ot-sdk-cookie-policy label:before,#ot-sdk-cookie-policy label:after,#ot-sdk-cookie-policy .checkbox:after,#ot-sdk-cookie-policy .checkbox:before,#ot-sync-ntfy label:before,#ot-sync-ntfy label:after,#ot-sync-ntfy .checkbox:after,#ot-sync-ntfy .checkbox:before{content:"";content:none}#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{position:relative;width:100%;max-width:100%;margin:0 auto;padding:0 20px;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-column,#onetrust-banner-sdk .ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-column,#onetrust-pc-sdk .ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-columns{width:100%;float:left;box-sizing:border-box;padding:0;display:initial}@media(min-width: 400px){#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{width:90%;padding:0}}@media(min-width: 550px){#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{width:100%}#onetrust-banner-sdk .ot-sdk-column,#onetrust-banner-sdk .ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-column,#onetrust-pc-sdk .ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-columns{margin-left:4%}#onetrust-banner-sdk .ot-sdk-column:first-child,#onetrust-banner-sdk .ot-sdk-columns:first-child,#onetrust-pc-sdk .ot-sdk-column:first-child,#onetrust-pc-sdk .ot-sdk-columns:first-child,#ot-sdk-cookie-policy .ot-sdk-column:first-child,#ot-sdk-cookie-policy .ot-sdk-columns:first-child{margin-left:0}#onetrust-banner-sdk .ot-sdk-two.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-two.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-two.ot-sdk-columns{width:13.3333333333%}#onetrust-banner-sdk .ot-sdk-three.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-three.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-three.ot-sdk-columns{width:22%}#onetrust-banner-sdk .ot-sdk-four.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-four.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-four.ot-sdk-columns{width:30.6666666667%}#onetrust-banner-sdk .ot-sdk-eight.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-eight.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-eight.ot-sdk-columns{width:65.3333333333%}#onetrust-banner-sdk .ot-sdk-nine.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-nine.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-nine.ot-sdk-columns{width:74%}#onetrust-banner-sdk .ot-sdk-ten.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-ten.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-ten.ot-sdk-columns{width:82.6666666667%}#onetrust-banner-sdk .ot-sdk-eleven.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-eleven.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-eleven.ot-sdk-columns{width:91.3333333333%}#onetrust-banner-sdk .ot-sdk-twelve.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-twelve.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-twelve.ot-sdk-columns{width:100%;margin-left:0}}#onetrust-banner-sdk h1,#onetrust-banner-sdk h2,#onetrust-banner-sdk h3,#onetrust-banner-sdk h4,#onetrust-banner-sdk h5,#onetrust-banner-sdk h6,#onetrust-pc-sdk h1,#onetrust-pc-sdk h2,#onetrust-pc-sdk h3,#onetrust-pc-sdk h4,#onetrust-pc-sdk h5,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h1,#ot-sdk-cookie-policy h2,#ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy h5,#ot-sdk-cookie-policy h6{margin-top:0;font-weight:600;font-family:inherit}#onetrust-banner-sdk h1,#onetrust-pc-sdk h1,#ot-sdk-cookie-policy h1{font-size:1.5rem;line-height:1.2}#onetrust-banner-sdk h2,#onetrust-pc-sdk h2,#ot-sdk-cookie-policy h2{font-size:1.5rem;line-height:1.25}#onetrust-banner-sdk h3,#onetrust-pc-sdk h3,#ot-sdk-cookie-policy h3{font-size:1.5rem;line-height:1.3}#onetrust-banner-sdk h4,#onetrust-pc-sdk h4,#ot-sdk-cookie-policy h4{font-size:1.5rem;line-height:1.35}#onetrust-banner-sdk h5,#onetrust-pc-sdk h5,#ot-sdk-cookie-policy h5{font-size:1.5rem;line-height:1.5}#onetrust-banner-sdk h6,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h6{font-size:1.5rem;line-height:1.6}@media(min-width: 550px){#onetrust-banner-sdk h1,#onetrust-pc-sdk h1,#ot-sdk-cookie-policy h1{font-size:1.5rem}#onetrust-banner-sdk h2,#onetrust-pc-sdk h2,#ot-sdk-cookie-policy h2{font-size:1.5rem}#onetrust-banner-sdk h3,#onetrust-pc-sdk h3,#ot-sdk-cookie-policy h3{font-size:1.5rem}#onetrust-banner-sdk h4,#onetrust-pc-sdk h4,#ot-sdk-cookie-policy h4{font-size:1.5rem}#onetrust-banner-sdk h5,#onetrust-pc-sdk h5,#ot-sdk-cookie-policy h5{font-size:1.5rem}#onetrust-banner-sdk h6,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h6{font-size:1.5rem}}#onetrust-banner-sdk p,#onetrust-pc-sdk p,#ot-sdk-cookie-policy p{margin:0 0 1em 0;font-family:inherit;line-height:normal}#onetrust-banner-sdk a,#onetrust-pc-sdk a,#ot-sdk-cookie-policy a{color:#565656;text-decoration:underline}#onetrust-banner-sdk a:hover,#onetrust-pc-sdk a:hover,#ot-sdk-cookie-policy a:hover{color:#565656;text-decoration:none}#onetrust-banner-sdk .ot-sdk-button,#onetrust-banner-sdk button,#onetrust-pc-sdk .ot-sdk-button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy .ot-sdk-button,#ot-sdk-cookie-policy button{margin-bottom:1rem;font-family:inherit}#onetrust-banner-sdk .ot-sdk-button,#onetrust-banner-sdk button,#onetrust-pc-sdk .ot-sdk-button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy .ot-sdk-button,#ot-sdk-cookie-policy button{display:inline-block;height:38px;padding:0 30px;color:#555;text-align:center;font-size:.9em;font-weight:400;line-height:38px;letter-spacing:.01em;text-decoration:none;white-space:nowrap;background-color:rgba(0,0,0,0);border-radius:2px;border:1px solid #bbb;cursor:pointer;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-button:hover,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:not(.ot-link-btn):hover,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:not(.ot-link-btn):focus,#onetrust-pc-sdk .ot-sdk-button:hover,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:not(.ot-link-btn):hover,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:not(.ot-link-btn):focus,#ot-sdk-cookie-policy .ot-sdk-button:hover,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:not(.ot-link-btn):hover,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:not(.ot-link-btn):focus{color:#333;border-color:#888;opacity:.7}#onetrust-banner-sdk .ot-sdk-button:focus,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:focus,#onetrust-pc-sdk .ot-sdk-button:focus,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:focus,#ot-sdk-cookie-policy .ot-sdk-button:focus,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:focus{outline:2px solid #000}#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary,#onetrust-banner-sdk button.ot-sdk-button-primary,#onetrust-banner-sdk input[type=submit].ot-sdk-button-primary,#onetrust-banner-sdk input[type=reset].ot-sdk-button-primary,#onetrust-banner-sdk input[type=button].ot-sdk-button-primary,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary,#onetrust-pc-sdk button.ot-sdk-button-primary,#onetrust-pc-sdk input[type=submit].ot-sdk-button-primary,#onetrust-pc-sdk input[type=reset].ot-sdk-button-primary,#onetrust-pc-sdk input[type=button].ot-sdk-button-primary,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary,#ot-sdk-cookie-policy button.ot-sdk-button-primary,#ot-sdk-cookie-policy input[type=submit].ot-sdk-button-primary,#ot-sdk-cookie-policy input[type=reset].ot-sdk-button-primary,#ot-sdk-cookie-policy input[type=button].ot-sdk-button-primary{color:#fff;background-color:#33c3f0;border-color:#33c3f0}#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary:hover,#onetrust-banner-sdk button.ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type=submit].ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type=reset].ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type=button].ot-sdk-button-primary:hover,#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary:focus,#onetrust-banner-sdk button.ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type=submit].ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type=reset].ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type=button].ot-sdk-button-primary:focus,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary:hover,#onetrust-pc-sdk button.ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type=submit].ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type=reset].ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type=button].ot-sdk-button-primary:hover,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary:focus,#onetrust-pc-sdk button.ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type=submit].ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type=reset].ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type=button].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary:hover,#ot-sdk-cookie-policy button.ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type=submit].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type=reset].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type=button].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary:focus,#ot-sdk-cookie-policy button.ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type=submit].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type=reset].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type=button].ot-sdk-button-primary:focus{color:#fff;background-color:#1eaedb;border-color:#1eaedb}#onetrust-banner-sdk input[type=text],#onetrust-pc-sdk input[type=text],#ot-sdk-cookie-policy input[type=text]{height:38px;padding:6px 10px;background-color:#fff;border:1px solid #d1d1d1;border-radius:4px;box-shadow:none;box-sizing:border-box}#onetrust-banner-sdk input[type=text],#onetrust-pc-sdk input[type=text],#ot-sdk-cookie-policy input[type=text]{-webkit-appearance:none;-moz-appearance:none;appearance:none}#onetrust-banner-sdk input[type=text]:focus,#onetrust-pc-sdk input[type=text]:focus,#ot-sdk-cookie-policy input[type=text]:focus{border:1px solid #000;outline:0}#onetrust-banner-sdk label,#onetrust-pc-sdk label,#ot-sdk-cookie-policy label{display:block;margin-bottom:.5rem;font-weight:600}#onetrust-banner-sdk input[type=checkbox],#onetrust-pc-sdk input[type=checkbox],#ot-sdk-cookie-policy input[type=checkbox]{display:inline}#onetrust-banner-sdk ul,#onetrust-pc-sdk ul,#ot-sdk-cookie-policy ul{list-style:circle inside}#onetrust-banner-sdk ul,#onetrust-pc-sdk ul,#ot-sdk-cookie-policy ul{padding-left:0;margin-top:0}#onetrust-banner-sdk ul ul,#onetrust-pc-sdk ul ul,#ot-sdk-cookie-policy ul ul{margin:1.5rem 0 1.5rem 3rem;font-size:90%}#onetrust-banner-sdk li,#onetrust-pc-sdk li,#ot-sdk-cookie-policy li{margin-bottom:1rem}#onetrust-banner-sdk th,#onetrust-banner-sdk td,#onetrust-pc-sdk th,#onetrust-pc-sdk td,#ot-sdk-cookie-policy th,#ot-sdk-cookie-policy td{padding:12px 15px;text-align:left;border-bottom:1px solid #e1e1e1}#onetrust-banner-sdk button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy button{margin-bottom:1rem;font-family:inherit}#onetrust-banner-sdk .ot-sdk-container:after,#onetrust-banner-sdk .ot-sdk-row:after,#onetrust-pc-sdk .ot-sdk-container:after,#onetrust-pc-sdk .ot-sdk-row:after,#ot-sdk-cookie-policy .ot-sdk-container:after,#ot-sdk-cookie-policy .ot-sdk-row:after{content:"";display:table;clear:both}#onetrust-banner-sdk .ot-sdk-row,#onetrust-pc-sdk .ot-sdk-row,#ot-sdk-cookie-policy .ot-sdk-row{margin:0;max-width:none;display:block}#onetrust-banner-sdk{box-shadow:0 0 18px rgba(0,0,0,.2)}#onetrust-banner-sdk.otFlat{position:fixed;z-index:2147483645;bottom:0;right:0;left:0;background-color:#fff;max-height:90%;overflow-x:hidden;overflow-y:auto}#onetrust-banner-sdk.otFlat.top{top:0px;bottom:auto}#onetrust-banner-sdk.otRelFont{font-size:1rem}#onetrust-banner-sdk>.ot-sdk-container{overflow:hidden}#onetrust-banner-sdk::-webkit-scrollbar{width:11px}#onetrust-banner-sdk::-webkit-scrollbar-thumb{border-radius:10px;background:#c1c1c1}#onetrust-banner-sdk{scrollbar-arrow-color:#c1c1c1;scrollbar-darkshadow-color:#c1c1c1;scrollbar-face-color:#c1c1c1;scrollbar-shadow-color:#c1c1c1}#onetrust-banner-sdk #onetrust-policy{margin:1.25em 0 .625em 2em;overflow:hidden}#onetrust-banner-sdk #onetrust-policy .ot-gv-list-handler{float:left;font-size:.82em;padding:0;margin-bottom:0;border:0;line-height:normal;height:auto;width:auto}#onetrust-banner-sdk #onetrust-policy-title{font-size:1.2em;line-height:1.3;margin-bottom:10px}#onetrust-banner-sdk #onetrust-policy-text{clear:both;text-align:left;font-size:.88em;line-height:1.4}#onetrust-banner-sdk #onetrust-policy-text *{font-size:inherit;line-height:inherit}#onetrust-banner-sdk #onetrust-policy-text a{font-weight:bold;margin-left:5px}#onetrust-banner-sdk #onetrust-policy-title,#onetrust-banner-sdk #onetrust-policy-text{color:dimgray;float:left}#onetrust-banner-sdk #onetrust-button-group-parent{min-height:1px;text-align:center}#onetrust-banner-sdk #onetrust-button-group{display:inline-block}#onetrust-banner-sdk #onetrust-accept-btn-handler,#onetrust-banner-sdk #onetrust-reject-all-handler,#onetrust-banner-sdk #onetrust-pc-btn-handler{background-color:#68b631;color:#fff;border-color:#68b631;margin-right:1em;min-width:125px;height:auto;white-space:normal;word-break:break-word;word-wrap:break-word;padding:12px 10px;line-height:1.2;font-size:.813em;font-weight:600}#onetrust-banner-sdk #onetrust-pc-btn-handler.cookie-setting-link{background-color:#fff;border:none;color:#68b631;text-decoration:underline;padding-left:0;padding-right:0}#onetrust-banner-sdk .onetrust-close-btn-ui{width:44px;height:44px;background-size:12px;border:none;position:relative;margin:auto;padding:0}#onetrust-banner-sdk .banner_logo{display:none}#onetrust-banner-sdk.ot-bnr-w-logo .ot-bnr-logo{position:absolute;top:50%;transform:translateY(-50%);left:0px}#onetrust-banner-sdk.ot-bnr-w-logo #onetrust-policy{margin-left:65px}#onetrust-banner-sdk .ot-b-addl-desc{clear:both;float:left;display:block}#onetrust-banner-sdk #banner-options{float:left;display:table;margin-right:0;margin-left:1em;width:calc(100% - 1em)}#onetrust-banner-sdk .banner-option-input{cursor:pointer;width:auto;height:auto;border:none;padding:0;padding-right:3px;margin:0 0 10px;font-size:.82em;line-height:1.4}#onetrust-banner-sdk .banner-option-input *{pointer-events:none;font-size:inherit;line-height:inherit}#onetrust-banner-sdk .banner-option-input[aria-expanded=true]~.banner-option-details{display:block;height:auto}#onetrust-banner-sdk .banner-option-input[aria-expanded=true] .ot-arrow-container{transform:rotate(90deg)}#onetrust-banner-sdk .banner-option{margin-bottom:12px;margin-left:0;border:none;float:left;padding:0}#onetrust-banner-sdk .banner-option:first-child{padding-left:2px}#onetrust-banner-sdk .banner-option:not(:first-child){padding:0;border:none}#onetrust-banner-sdk .banner-option-header{cursor:pointer;display:inline-block}#onetrust-banner-sdk .banner-option-header :first-child{color:dimgray;font-weight:bold;float:left}#onetrust-banner-sdk .banner-option-header .ot-arrow-container{display:inline-block;border-top:6px solid rgba(0,0,0,0);border-bottom:6px solid rgba(0,0,0,0);border-left:6px solid dimgray;margin-left:10px;vertical-align:middle}#onetrust-banner-sdk .banner-option-details{display:none;font-size:.83em;line-height:1.5;padding:10px 0px 5px 10px;margin-right:10px;height:0px}#onetrust-banner-sdk .banner-option-details *{font-size:inherit;line-height:inherit;color:dimgray}#onetrust-banner-sdk .ot-arrow-container,#onetrust-banner-sdk .banner-option-details{transition:all 300ms ease-in 0s;-webkit-transition:all 300ms ease-in 0s;-moz-transition:all 300ms ease-in 0s;-o-transition:all 300ms ease-in 0s}#onetrust-banner-sdk .ot-dpd-container{float:left}#onetrust-banner-sdk .ot-dpd-title{margin-bottom:10px}#onetrust-banner-sdk .ot-dpd-title,#onetrust-banner-sdk .ot-dpd-desc{font-size:.88em;line-height:1.4;color:dimgray}#onetrust-banner-sdk .ot-dpd-title *,#onetrust-banner-sdk .ot-dpd-desc *{font-size:inherit;line-height:inherit}#onetrust-banner-sdk.ot-iab-2 #onetrust-policy-text *{margin-bottom:0}#onetrust-banner-sdk.ot-iab-2 .onetrust-vendors-list-handler{display:block;margin-left:0;margin-top:5px;clear:both;margin-bottom:0;padding:0;border:0;height:auto;width:auto}#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group button{display:block}#onetrust-banner-sdk.ot-close-btn-link{padding-top:25px}#onetrust-banner-sdk.ot-close-btn-link #onetrust-close-btn-container{top:15px;transform:none;right:15px}#onetrust-banner-sdk.ot-close-btn-link #onetrust-close-btn-container button{padding:0;white-space:pre-wrap;border:none;height:auto;line-height:1.5;text-decoration:underline;font-size:.69em}#onetrust-banner-sdk #onetrust-policy-text,#onetrust-banner-sdk .ot-dpd-desc,#onetrust-banner-sdk .ot-b-addl-desc{font-size:.813em;line-height:1.5}#onetrust-banner-sdk .ot-dpd-desc{margin-bottom:10px}#onetrust-banner-sdk .ot-dpd-desc>.ot-b-addl-desc{margin-top:10px;margin-bottom:10px;font-size:1em}@media only screen and (max-width: 425px){#onetrust-banner-sdk #onetrust-close-btn-container{position:absolute;top:6px;right:2px}#onetrust-banner-sdk #onetrust-policy{margin-left:0;margin-top:3em}#onetrust-banner-sdk #onetrust-button-group{display:block}#onetrust-banner-sdk #onetrust-accept-btn-handler,#onetrust-banner-sdk #onetrust-reject-all-handler,#onetrust-banner-sdk #onetrust-pc-btn-handler{width:100%}#onetrust-banner-sdk .onetrust-close-btn-ui{top:auto;transform:none}#onetrust-banner-sdk #onetrust-policy-title{display:inline;float:none}#onetrust-banner-sdk #banner-options{margin:0;padding:0;width:100%}}@media only screen and (min-width: 426px)and (max-width: 896px){#onetrust-banner-sdk #onetrust-close-btn-container{position:absolute;top:0;right:0}#onetrust-banner-sdk #onetrust-policy{margin-left:1em;margin-right:1em}#onetrust-banner-sdk .onetrust-close-btn-ui{top:10px;right:10px}#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-group-container{width:95%}#onetrust-banner-sdk.ot-iab-2 #onetrust-group-container{width:100%}#onetrust-banner-sdk.ot-bnr-w-logo #onetrust-button-group-parent{padding-left:50px}#onetrust-banner-sdk #onetrust-button-group-parent{width:100%;position:relative;margin-left:0}#onetrust-banner-sdk #onetrust-button-group button{display:inline-block}#onetrust-banner-sdk #onetrust-button-group{margin-right:0;text-align:center}#onetrust-banner-sdk .has-reject-all-button #onetrust-pc-btn-handler{float:left}#onetrust-banner-sdk .has-reject-all-button #onetrust-reject-all-handler,#onetrust-banner-sdk .has-reject-all-button #onetrust-accept-btn-handler{float:right}#onetrust-banner-sdk .has-reject-all-button #onetrust-button-group{width:calc(100% - 2em);margin-right:0}#onetrust-banner-sdk .has-reject-all-button #onetrust-pc-btn-handler.cookie-setting-link{padding-left:0px;text-align:left}#onetrust-banner-sdk.ot-buttons-fw .ot-sdk-three button{width:100%;text-align:center}#onetrust-banner-sdk.ot-buttons-fw #onetrust-button-group-parent button{float:none}#onetrust-banner-sdk.ot-buttons-fw #onetrust-pc-btn-handler.cookie-setting-link{text-align:center}}@media only screen and (min-width: 550px){#onetrust-banner-sdk .banner-option:not(:first-child){border-left:1px solid #d8d8d8;padding-left:25px}}@media only screen and (min-width: 425px)and (max-width: 550px){#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group,#onetrust-banner-sdk.ot-iab-2 #onetrust-policy,#onetrust-banner-sdk.ot-iab-2 .banner-option{width:100%}#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group #onetrust-accept-btn-handler,#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group #onetrust-reject-all-handler,#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group #onetrust-pc-btn-handler{width:100%}#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group #onetrust-accept-btn-handler,#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group #onetrust-reject-all-handler{float:left}}@media only screen and (min-width: 769px){#onetrust-banner-sdk #onetrust-button-group{margin-right:30%}#onetrust-banner-sdk #banner-options{margin-left:2em;margin-right:5em;margin-bottom:1.25em;width:calc(100% - 7em)}}@media only screen and (min-width: 897px)and (max-width: 1023px){#onetrust-banner-sdk.vertical-align-content #onetrust-button-group-parent{position:absolute;top:50%;left:75%;transform:translateY(-50%)}#onetrust-banner-sdk #onetrust-close-btn-container{top:50%;margin:auto;transform:translate(-50%, -50%);position:absolute;padding:0;right:0}#onetrust-banner-sdk #onetrust-close-btn-container button{position:relative;margin:0;right:-22px;top:2px}}@media only screen and (min-width: 1024px){#onetrust-banner-sdk #onetrust-close-btn-container{top:50%;margin:auto;transform:translate(-50%, -50%);position:absolute;right:0}#onetrust-banner-sdk #onetrust-close-btn-container button{right:-12px}#onetrust-banner-sdk #onetrust-policy{margin-left:2em}#onetrust-banner-sdk.vertical-align-content #onetrust-button-group-parent{position:absolute;top:50%;left:60%;transform:translateY(-50%)}#onetrust-banner-sdk .ot-optout-signal{width:50%}#onetrust-banner-sdk.ot-iab-2 #onetrust-policy-title{width:50%}#onetrust-banner-sdk.ot-iab-2 #onetrust-policy-text,#onetrust-banner-sdk.ot-iab-2 :not(.ot-dpd-desc)>.ot-b-addl-desc{margin-bottom:1em;width:50%;border-right:1px solid #d8d8d8;padding-right:1rem}#onetrust-banner-sdk.ot-iab-2 #onetrust-policy-text{margin-bottom:0;padding-bottom:1em}#onetrust-banner-sdk.ot-iab-2 :not(.ot-dpd-desc)>.ot-b-addl-desc{margin-bottom:0;padding-bottom:1em}#onetrust-banner-sdk.ot-iab-2 .ot-dpd-container{width:45%;padding-left:1rem;display:inline-block;float:none}#onetrust-banner-sdk.ot-iab-2 .ot-dpd-title{line-height:1.7}#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group-parent{left:auto;right:4%;margin-left:0}#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group button{display:block}#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-button-group-parent{margin:auto;width:30%}#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-group-container{width:60%}#onetrust-banner-sdk #onetrust-button-group{margin-right:auto}#onetrust-banner-sdk #onetrust-accept-btn-handler,#onetrust-banner-sdk #onetrust-reject-all-handler,#onetrust-banner-sdk #onetrust-pc-btn-handler{margin-top:1em}}@media only screen and (min-width: 890px){#onetrust-banner-sdk.ot-buttons-fw:not(.ot-iab-2) #onetrust-button-group-parent{padding-left:3%;padding-right:4%;margin-left:0}#onetrust-banner-sdk.ot-buttons-fw:not(.ot-iab-2) #onetrust-button-group{margin-right:0;margin-top:1.25em;width:100%}#onetrust-banner-sdk.ot-buttons-fw:not(.ot-iab-2) #onetrust-button-group button{width:100%;margin-bottom:5px;margin-top:5px}#onetrust-banner-sdk.ot-buttons-fw:not(.ot-iab-2) #onetrust-button-group button:last-of-type{margin-bottom:20px}}@media only screen and (min-width: 1280px){#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-group-container{width:55%}#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-button-group-parent{width:44%;padding-left:2%;padding-right:2%}#onetrust-banner-sdk:not(.ot-iab-2).vertical-align-content #onetrust-button-group-parent{position:absolute;left:55%}}
         #onetrust-consent-sdk #onetrust-banner-sdk {background-color: #FFFFFF;}
             #onetrust-consent-sdk #onetrust-policy-title,
                     #onetrust-consent-sdk #onetrust-policy-text,
@@ -260,8 +256,8 @@ border-right: 0;
                             background-color: #F8F8F8;
                         }
                     
-            .ot-floating-button__front{background-image:url('https://cdn.cookielaw.org/logos/static/ot_persistent_cookie_icon.png')}#ot-sdk-btn-floating.ot-floating-button{position:fixed;bottom:10px;opacity:0;width:50px;height:50px;line-height:15px;cursor:pointer;background-color:rgba(0,0,0,0);transition:all 300ms ease;z-index:2147483646;animation:otFloatingBtnIntro 800ms ease 0ms 1 forwards}#ot-sdk-btn-floating.ot-floating-button.ot-hide{display:none}#ot-sdk-btn-floating.ot-floating-button::before,#ot-sdk-btn-floating.ot-floating-button::after{text-transform:none;line-height:1;user-select:none;pointer-events:none;position:absolute;transform:scale(0);opacity:0;transition:all 300ms ease;display:block;height:auto}#ot-sdk-btn-floating.ot-floating-button::before{content:"";border:5px solid rgba(0,0,0,0);z-index:1001;top:50%;border-left-width:0;border-right-color:#333;right:calc(0em - 5px);transform:translate(10px, -50%)}#ot-sdk-btn-floating.ot-floating-button::after{content:attr(data-title);position:absolute;text-align:center;top:50%;left:calc(100% + 5px);transform:translate(10px, -50%);font-size:.75rem;min-width:3em;max-width:21em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding:5px;border-radius:.3ch;box-shadow:0 1em 2em -0.5em rgba(0,0,0,.35);background:#333;color:#fff;z-index:2147483645}#ot-sdk-btn-floating.ot-floating-button:hover::before,#ot-sdk-btn-floating.ot-floating-button:hover::after{opacity:1}#ot-sdk-btn-floating.ot-floating-button:hover::before{transform:translate(0.5em, -50%) scale(1)}#ot-sdk-btn-floating.ot-floating-button:hover::after{transform:translate(0.5em, -50%) scale(1)}#ot-sdk-btn-floating.ot-floating-button.ot-pc-open .ot-floating-button__front{transform:rotateY(-180deg)}#ot-sdk-btn-floating.ot-floating-button.ot-pc-open .ot-floating-button__back{transform:rotateY(0)}#ot-sdk-btn-floating .ot-floating-button__front,#ot-sdk-btn-floating .ot-floating-button__back{position:absolute;width:100%;height:100%;-webkit-backface-visibility:hidden;backface-visibility:hidden;background-color:#6aaae4;border-radius:10px;box-shadow:0 4px 8px 0 rgba(0,0,0,.2);transition:transform .6s;transform-style:preserve-3d}#ot-sdk-btn-floating .ot-floating-button__front{background-color:#6aaae4;transform:rotateY(0)}#ot-sdk-btn-floating .ot-floating-button__front.custom-persistent-icon{background-position:center center;background-repeat:no-repeat;background-size:100%;border-radius:100px}#ot-sdk-btn-floating .ot-floating-button__front svg{width:30px;height:37px}#ot-sdk-btn-floating .ot-floating-button__back{background-color:#69c;transform:rotateY(-180deg)}#ot-sdk-btn-floating .ot-floating-button__back.custom-persistent-icon{background-position:center center;background-repeat:no-repeat;background-size:100%;border-radius:100px}#ot-sdk-btn-floating .ot-floating-button__back svg{width:24px;height:24px}#ot-sdk-btn-floating.ot-floating-button button{padding:0;background-color:rgba(0,0,0,0);border:0;width:100%;height:100%;cursor:pointer}@keyframes otFloatingBtnIntro{0%{opacity:0;left:-75px}100%{opacity:1;left:1%}}@keyframes otFloatingBtnImageIntro{0%{opacity:0;transform:scale(0) rotate(-270deg)}100%{opacity:100%;transform:scale(0.95) rotate(0deg)}}</style><script async="" type="text/javascript" src="./index_files/gtm.js.tải xuống" class="optanon-category-C0002 "></script><script async="" src="./index_files/modules.0721e7cf944cf9d78a0b.js.tải xuống" charset="utf-8"></script></head>
-<body class="home page-template-default page page-id-219574">
+            .ot-floating-button__front{background-image:url('https://cdn.cookielaw.org/logos/static/ot_persistent_cookie_icon.png')}#ot-sdk-btn-floating.ot-floating-button{position:fixed;bottom:10px;opacity:0;width:50px;height:50px;line-height:15px;cursor:pointer;background-color:rgba(0,0,0,0);transition:all 300ms ease;z-index:2147483646;animation:otFloatingBtnIntro 800ms ease 0ms 1 forwards}#ot-sdk-btn-floating.ot-floating-button.ot-hide{display:none}#ot-sdk-btn-floating.ot-floating-button::before,#ot-sdk-btn-floating.ot-floating-button::after{text-transform:none;line-height:1;user-select:none;pointer-events:none;position:absolute;transform:scale(0);opacity:0;transition:all 300ms ease;display:block;height:auto}#ot-sdk-btn-floating.ot-floating-button::before{content:"";border:5px solid rgba(0,0,0,0);z-index:1001;top:50%;border-left-width:0;border-right-color:#333;right:calc(0em - 5px);transform:translate(10px, -50%)}#ot-sdk-btn-floating.ot-floating-button::after{content:attr(data-title);position:absolute;text-align:center;top:50%;left:calc(100% + 5px);transform:translate(10px, -50%);font-size:.75rem;min-width:3em;max-width:21em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding:5px;border-radius:.3ch;box-shadow:0 1em 2em -0.5em rgba(0,0,0,.35);background:#333;color:#fff;z-index:2147483645}#ot-sdk-btn-floating.ot-floating-button:hover::before,#ot-sdk-btn-floating.ot-floating-button:hover::after{opacity:1}#ot-sdk-btn-floating.ot-floating-button:hover::before{transform:translate(0.5em, -50%) scale(1)}#ot-sdk-btn-floating.ot-floating-button:hover::after{transform:translate(0.5em, -50%) scale(1)}#ot-sdk-btn-floating.ot-floating-button.ot-pc-open .ot-floating-button__front{transform:rotateY(-180deg)}#ot-sdk-btn-floating.ot-floating-button.ot-pc-open .ot-floating-button__back{transform:rotateY(0)}#ot-sdk-btn-floating .ot-floating-button__front,#ot-sdk-btn-floating .ot-floating-button__back{position:absolute;width:100%;height:100%;-webkit-backface-visibility:hidden;backface-visibility:hidden;background-color:#6aaae4;border-radius:10px;box-shadow:0 4px 8px 0 rgba(0,0,0,.2);transition:transform .6s;transform-style:preserve-3d}#ot-sdk-btn-floating .ot-floating-button__front{background-color:#6aaae4;transform:rotateY(0)}#ot-sdk-btn-floating .ot-floating-button__front.custom-persistent-icon{background-position:center center;background-repeat:no-repeat;background-size:100%;border-radius:100px}#ot-sdk-btn-floating .ot-floating-button__front svg{width:30px;height:37px}#ot-sdk-btn-floating .ot-floating-button__back{background-color:#69c;transform:rotateY(-180deg)}#ot-sdk-btn-floating .ot-floating-button__back.custom-persistent-icon{background-position:center center;background-repeat:no-repeat;background-size:100%;border-radius:100px}#ot-sdk-btn-floating .ot-floating-button__back svg{width:24px;height:24px}#ot-sdk-btn-floating.ot-floating-button button{padding:0;background-color:rgba(0,0,0,0);border:0;width:100%;height:100%;cursor:pointer}@keyframes otFloatingBtnIntro{0%{opacity:0;left:-75px}100%{opacity:1;left:1%}}@keyframes otFloatingBtnImageIntro{0%{opacity:0;transform:scale(0) rotate(-270deg)}100%{opacity:100%;transform:scale(0.95) rotate(0deg)}}</style><script async="" type="text/javascript" src="./peace_files/gtm.js.tải xuống" class="optanon-category-C0002 "></script><script async="" src="./peace_files/modules.0721e7cf944cf9d78a0b.js.tải xuống" charset="utf-8"></script></head>
+<body class="prize-category-archive">
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDHZ8W5"
 		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -269,7 +265,7 @@ border-right: 0;
 <!--[if lte IE 9]>
 			<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
 		<![endif]-->
-<a class="skip-link screen-reader-text" href="https://www.nobelprize.org/#content">
+<a class="skip-link screen-reader-text" href="https://www.nobelprize.org/prizes/peace/#content">
 Skip to content </a>
 <header class="site-header" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
 <div class="site-header__wrapper container">
@@ -304,7 +300,7 @@ Skip to content </a>
 							</noscript>
 </div>
 <div class="mobile-nav">
-<a id="mobile-nav-js" href="https://www.nobelprize.org/#main-navigation-js" class="toggle">
+<a id="mobile-nav-js" href="https://www.nobelprize.org/prizes/peace/#main-navigation-js" class="toggle">
 <span>
 Toggle Mobile Menu </span>
 </a>
@@ -372,249 +368,234 @@ Header Search </label>
 </header>
 <main id="content" role="main" class="nobel-content">
 <div class="nobel__blocks--content">
-<section class="page-hero -hero-a -centered -contained text-color-gold -color-option-senary">
-<div class="bg hero lazyloaded" data-bgset="https://www.nobelprize.org/images/54498-hero-tablet-2x.jpg [(min-width: 220px)] | https://www.nobelprize.org/images/54498-hero-contained-tablet-2x.jpg [(min-width: 900px)] | https://www.nobelprize.org/images/54498-hero-contained-desktop-2x.jpg [(min-width: 1400px)]" style="background-image: url(&quot;https://www.nobelprize.org/images/54498-hero-tablet-2x.jpg&quot;);">
-<picture style="display: none;"><source data-srcset="https://www.nobelprize.org/images/54498-hero-tablet-2x.jpg" media="(min-width: 220px)" sizes="1024px" srcset="https://www.nobelprize.org/images/54498-hero-tablet-2x.jpg"><source data-srcset="https://www.nobelprize.org/images/54498-hero-contained-tablet-2x.jpg" media="(min-width: 900px)" sizes="1024px" srcset="https://www.nobelprize.org/images/54498-hero-contained-tablet-2x.jpg"><source data-srcset="https://www.nobelprize.org/images/54498-hero-contained-desktop-2x.jpg" media="(min-width: 1400px)" sizes="1024px" srcset="https://www.nobelprize.org/images/54498-hero-contained-desktop-2x.jpg"><img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="1024px"></picture></div>
+<section class="page-hero -hero-a -centered  text-color-white -color-option-">
+<div class="bg hero lazyloaded" data-bgset="https://www.nobelprize.org/images/53529-hero-tablet-2x.jpg [(min-width: 220px)] | https://www.nobelprize.org/images/53529-hero-tablet-2x.jpg [(min-width: 900px)] | https://www.nobelprize.org/images/53529-hero-desktop-2x.jpg [(min-width: 1400px)]" style="background-image: url(&quot;https://www.nobelprize.org/images/53529-hero-tablet-2x.jpg&quot;);">
+<picture style="display: none;"><source data-srcset="https://www.nobelprize.org/images/53529-hero-tablet-2x.jpg" media="(min-width: 220px)" sizes="1903px" srcset="https://www.nobelprize.org/images/53529-hero-tablet-2x.jpg"><source data-srcset="https://www.nobelprize.org/images/53529-hero-tablet-2x.jpg" media="(min-width: 900px)" sizes="1903px" srcset="https://www.nobelprize.org/images/53529-hero-tablet-2x.jpg"><source data-srcset="https://www.nobelprize.org/images/53529-hero-desktop-2x.jpg" media="(min-width: 1400px)" sizes="1903px" srcset="https://www.nobelprize.org/images/53529-hero-desktop-2x.jpg"><img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="1903px"></picture></div>
 <noscript>
 		<div
 				class="bg hero"
-				style="background: url(https://www.nobelprize.org/images/54498-content-landscape-desktop.jpg)"
+				style="background: url(https://www.nobelprize.org/images/53529-content-landscape-desktop.jpg)"
 				>
 		</div>
 	</noscript>
 <div class="blurb">
-<a href="https://www.nobelprize.org/prizes/about/prize-announcement-dates/" class="hero-link">
 <h1 class="title text-uppercase">
-The Nobel Prize <br>Announcements<br>7–14 October 2024 </h1>
-</a>
+The Nobel Peace Prize </h1>
+</div>
+<div class="figcaption">
+<p class="figcaption__caption">
+Malala Yousafzai – awarded the 2014 Nobel Peace Prize – donated this scarf to the Nobel Museum which she wore when she argued for all children's right to education at the United Nations headquarters in 2013. </p>
+<p class="figcaption__attribution">
+© Nobel Media. Photo: Alexander Mahmoud </p>
 </div>
 </section>
-<section class="queried-content-block">
-<div class="container">
-<header class="block-separator queried-content-block__separator">
-<h2 class="block-separator__title">
-Six days, six prizes </h2>
-<div class="block-separator__content">
-</div>
+<section class="nomination-intro">
+<article class="content">
+<header class="sub-section-header border-top">
+<h4>
+About the prize </h4>
 </header>
-<ul class="is-grid-layout is-grid-layout--1">
-<li class="grid-item">
-<article class="content-item is-card-style has-link">
-<div class="content-item__content-wrapper">
-<div class="content-item__content-container">
-<div class="content-item__content-body">
-<header class="content-item__header">
-<h2 class="content-item__title">
-<a href="https://www.nobelprize.org/prizes/about/prize-announcement-dates/" class="content-item__title-link" target="_self" rel="">
-2024 Nobel Prize announcements </a>
-</h2>
-</header>
-<p class="content-item__excerpt ">
-On 7–14 October, the 2024 Nobel Prizes will be revealed. All of the announcements will be streamed live here at nobelprize.org.<br><a href="https://www.nobelprize.org/prizes/about/prize-announcement-dates/">See the full list of announcement dates</a> </p>
-</div>
-</div>
-<div class="content-item__media-container">
-<figure class="content-media">
-<div class="content-media__wrapper">
-<div class="content-media__inner">
-<picture class="content-media__image"><source data-srcset="https://www.nobelprize.org/images/63288-landscape-small-2x.jpg" media="(min-width: 220px)" srcset="https://www.nobelprize.org/images/63288-landscape-small-2x.jpg"><source data-srcset="https://www.nobelprize.org/images/63288-landscape-medium-2x.jpg" media="(min-width: 900px)" srcset="https://www.nobelprize.org/images/63288-landscape-medium-2x.jpg"><source data-srcset="https://www.nobelprize.org/images/63288-landscape-large-2x.jpg" media="(min-width: 1400px)" srcset="https://www.nobelprize.org/images/63288-landscape-large-2x.jpg"><img decoding="async" class=" lazyloaded" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="AM NobelCalling 0122"><noscript><img decoding="async" src="https://www.nobelprize.org/images/63288-landscape-large.jpg" alt="AM NobelCalling 0122" /></noscript></picture> </div>
-</div>
-</figure>
-</div>
+<div class="text">
+<p><em>“The said interest shall be divided into five equal parts, which shall be apportioned as follows: /- – -/ one part to the person who shall have done the most or the best work for fraternity between nations, the abolition or reduction of standing armies and for the holding and promotion of peace congresses.” &nbsp;(</em>Excerpt from the will of Alfred Nobel)</p>
+<p>Alfred Nobel showed a big interest in social issues and was engaged in the peace movement. His acquaintance with Bertha von Suttner, who was a driving force in the international peace movement in Europe and later awarded the peace prize, influenced his views on peace. Peace was the fifth and final prize area that Nobel mentioned in his will. The Nobel Peace Prize is awarded by a&nbsp;<a href="https://www.nobelprize.org/about/the-norwegian-nobel-committee/">committee</a>&nbsp;elected by the Norwegian Parliament (Stortinget).</p>
+<p>See <a href="https://www.nobelprize.org/prizes/uncategorized/all-nobel-peace-prizes/">all peace prize laureates</a>&nbsp;or learn about <a href="https://www.nobelprize.org/nomination/nomination-and-selection-of-peace-prize-laureates/">the nomination process.</a></p>
 </div>
 </article>
-</li>
+<aside class="quick-facts">
+<header class="sub-section-header border-top">
+<h4>
+Quick facts </h4>
+</header>
+<ul class="factlist">
+<li>Peace prizes: 104</li>
+<li>Peace laureates: 141</li>
+<li>Awarded women: 19</li>
+<li>Youngest laureate: 17</li>
+<li>Oldest laureate: 86</li>
 </ul>
-</div>
+<p><a href="https://www.nobelprize.org/prizes/facts/facts-on-the-nobel-peace-prize-2/">More facts and figures</a></p>
+</aside>
 </section>
-<h4 class="wp-block-heading has-heading-highlight-color has-text-color">Spotlight on: the Nobel Prize in Chemistry</h4>
-<section class="animated-stats-block">
-<ul class="animated-stats-block__grid is-grid-layout is-grid-layout--3">
-<li class="animated-stats-block__grid-item grid-item">
-<p class="animated-stats-block__value js-animated-stats-block__value">115</p>
-<p class="animated-stats-block__text">chemistry prizes have been awarded</p>
-<a href="https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-chemistry/" class="animated-stats-block__link btn is-style-link-secondary">See all chemistry prizes and laureates</a>
-</li>
-<li class="animated-stats-block__grid-item grid-item">
-<p class="animated-stats-block__value js-animated-stats-block__value">97</p>
-<p class="animated-stats-block__text">years old: the oldest chemistry laureate</p>
-<a href="https://www.nobelprize.org/prizes/chemistry/2019/goodenough/facts/" class="animated-stats-block__link btn is-style-link-secondary">Read about the 2019 laureate John B. Goodenough</a>
-</li>
-<li class="animated-stats-block__grid-item grid-item">
-<p class="animated-stats-block__value js-animated-stats-block__value">35</p>
-<p class="animated-stats-block__text">years old: the youngest chemistry laureate</p>
-<a href="https://www.nobelprize.org/prizes/chemistry/1935/joliot-fred/facts/" class="animated-stats-block__link btn is-style-link-secondary">Read about the 1935 laureate Frédéric Joliot</a>
-</li>
-</ul>
-</section>
-<section class="quote-comp">
-<blockquote class="border-top" itemscope="" itemtype="http://schema.org/Quotation">
-<h3>“The said interest shall be divided into five equal parts, which shall be apportioned as follows: /- – -/ one part to the person who shall have made the most important chemical discovery or improvement…”&nbsp; </h3>
-<p class="credit">– Excerpt from the will of Alfred Nobel.</p>
-</blockquote>
-<p class="morelink">
-<a href="https://www.nobelprize.org/prizes/chemistry/" title="Learn more about the Nobel Prize in Chemistry">
-Learn more about the Nobel Prize in Chemistry </a>
-</p>
-</section>
-<section class="article-grid featured-content featured-content__color--default var-half-width-a  ">
-<article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -halfwidth-a left">
+<section class="article-grid featured-content featured-content__color--default var-half-width-b  " style="margin-bottom: 87px;">
+<header class="section-header border-top">
+<h3 class="section-header-h3">Nobel Prize nominations</h3>
+</header>
+<article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -halfwidth-b">
 <div class="content-wrapper">
 <header class="content">
-<div class="subtitle">One-minute crash course</div>
+<div class="subtitle">Nobel Peace Prize 2024</div>
 <div class="title">
 <h2 class="headline h1" itemprop="headline">
-Quantum dots explained </h2>
+<a href="https://www.nobelprize.org/nomination/peace/">
+2024 Nobel Peace Prize nominations </a>
+</h2>
 </div>
 </header>
 <div class="text">
-Learn more about the strange and tiny particles whose existence led to last year’s Nobel Prize in Chemistry. </div>
+<p>The Norwegian Nobel Committee received a total of 285 candidates for the 2024 Nobel Peace Prize. 89 of these are organisations.</p> </div>
 </div>
 <figure class="featuredimage">
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-<div class="iframe iframe-16x9"><iframe width="1778" height="1000" src="./index_files/aQQJQLeMxHg.html" frameborder="0"></iframe></div>
+<a href="https://www.nobelprize.org/nomination/peace/"><picture><source data-srcset="https://www.nobelprize.org/images/125610-landscape-medium-2x.jpg" media="(min-width: 220px)" srcset="https://www.nobelprize.org/images/125610-landscape-medium-2x.jpg"><source data-srcset="https://www.nobelprize.org/images/125610-landscape-large-2x.jpg" media="(min-width: 900px)" srcset="https://www.nobelprize.org/images/125610-landscape-large-2x.jpg"><source data-srcset="https://www.nobelprize.org/images/125610-landscape-x-large-2x.jpg" media="(min-width: 1400px)" srcset="https://www.nobelprize.org/images/125610-landscape-x-large-2x.jpg"><img decoding="async" class=" lazyloaded" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Nobel Peace Prize award ceremony 2021."><noscript><img decoding="async" src="https://www.nobelprize.org/images/125610-landscape-x-large.jpg" alt="Nobel Peace Prize award ceremony 2021." /></noscript></picture></a><figcaption class="figcaption"><p class="figcaption__caption">Nobel Peace Prize award ceremony 2021 in the Oslo City Hall in Norway.</p> <p class="figcaption__attribution">© Nobel Prize Outreach. Photo: Geir Anders Rybakken Ørslien.</p></figcaption> </figure>
+</article>
+<article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -halfwidth-b">
+<div class="content-wrapper">
+<header class="content">
+<div class="subtitle">Q&amp;A</div>
+<div class="title">
+<h2 class="headline h1" itemprop="headline">
+<a href="https://www.nobelprize.org/nomination/questions-and-answers-about-the-nomination-process-for-a-nobel-peace-prize/">
+Are the nominations made public? </a>
+</h2>
 </div>
-</figure>
-</figure>
+</header>
+<div class="text">
+<p>Did you know that there is no public list of the current year’s nominees for the peace prize? The complete list of nominees of any year’s prizes is not disclosed for 50 years. The same goes for all the prize categories. Learn more about the nomination process in this Q&amp;A.</p> </div>
+</div>
+<figure class="featuredimage">
+<a href="https://www.nobelprize.org/nomination/questions-and-answers-about-the-nomination-process-for-a-nobel-peace-prize/"><picture><source data-srcset="https://www.nobelprize.org/images/nomination-process-115550-landscape-medium-2x.jpg" media="(min-width: 220px)" srcset="https://www.nobelprize.org/images/nomination-process-115550-landscape-medium-2x.jpg"><source data-srcset="https://www.nobelprize.org/images/nomination-process-115550-landscape-large-2x.jpg" media="(min-width: 900px)" srcset="https://www.nobelprize.org/images/nomination-process-115550-landscape-large-2x.jpg"><source data-srcset="https://www.nobelprize.org/images/nomination-process-115550-landscape-x-large-2x.jpg" media="(min-width: 1400px)" srcset="https://www.nobelprize.org/images/nomination-process-115550-landscape-x-large-2x.jpg"><img decoding="async" class=" lazyloaded" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Peace Prize nomination process"><noscript><img decoding="async" src="https://www.nobelprize.org/images/nomination-process-115550-landscape-x-large.jpg" alt="Peace Prize nomination process" /></noscript></picture></a><figcaption class="figcaption"><p class="figcaption__caption">The nomination process for Nobel Peace Prize laureates.</p> <p class="figcaption__attribution">© Nobel Media. Ill. Niklas Elmehed</p></figcaption> </figure>
 </article>
 </section>
 <section class="article-grid featured-content featured-content__color--default var-half-width-a  ">
+<header class="section-header border-top">
+<h3 class="section-header-h3">The Nobel Peace Prize 2023</h3>
+</header>
+<article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -halfwidth-a ">
+<div class="content-wrapper">
+<header class="content">
+<div class="title title--small">
+<h2 class="headline h1" itemprop="headline">
+<a href="https://www.nobelprize.org/prizes/peace/2023/press-release/">
+“Woman – Life – Freedom” </a>
+</h2>
+</div>
+</header>
+<div class="text">
+The Norwegian Nobel Committee has decided to award the Nobel Peace Prize 2023 to Narges Mohammadi for her fight against the oppression of women in Iran and her fight to promote human rights and freedom for all. <br><br>This year’s peace prize also recognises the hundreds of thousands of people who, in the preceding year, have demonstrated against Iran’s theocratic regime’s policies of discrimination and oppression targeting women. The motto adopted by the demonstrators – “Woman – Life – Freedom” – suitably expresses the dedication and work of Narges Mohammadi. </div>
+</div>
+<figure class="featuredimage">
+<a href="https://www.nobelprize.org/prizes/peace/2023/press-release/"><picture><source data-srcset="https://www.nobelprize.org/uploads/2023/10/peace_prize_carrier_image_ver10-992x656.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/peace_prize_carrier_image_ver10-1520x1008.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/peace_prize_carrier_image_ver10-2048x1352.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Three demonstrating hands. The hand in the middle wears a set of bracelets representing the colours of Iran."><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2023/10/peace_prize_carrier_image_ver10-1024x676.jpg" alt="Three demonstrating hands. The hand in the middle wears a set of bracelets representing the colours of Iran." /></noscript></picture></a><figcaption class="figcaption"><p class="figcaption__attribution">Ill. Niklas Elmehed © Nobel Prize Outreach</p></figcaption> </figure>
+</article>
+</section>
+<section class="article-grid featured-content featured-content__color--primary var-half-width-a  featured-content__colored">
+<header class="section-header border-top">
+<h3 class="section-header-h3">The 2023 peace prize laureate</h3>
+</header>
+<article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -halfwidth-a ">
+<div class="content-wrapper">
+<header class="content">
+<div class="title title--small">
+<h2 class="headline h1" itemprop="headline">
+<a href="https://www.nobelprize.org/prizes/peace/2023/mohammadi/facts/">
+Narges Mohammadi </a>
+</h2>
+</div>
+</header>
+<div class="text">
+Narges Mohammadi is a woman, a human rights advocate, and a freedom fighter. Her brave struggle for freedom of expression and the right of independence has come with tremendous personal costs. Altogether, the regime in Iran has arrested her 13 times, convicted her five times, and sentenced her to a total of 31 years in prison and 154 lashes.<br><br>Narges Mohammadi is still in prison. </div>
+</div>
+<figure class="featuredimage">
+<a href="https://www.nobelprize.org/prizes/peace/2023/mohammadi/facts/"><picture><source data-srcset="https://www.nobelprize.org/uploads/2023/10/mohammadi-3_2-992x656.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/mohammadi-3_2-1520x1008.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/mohammadi-3_2-2048x1352.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Narges Mohammadi"><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2023/10/mohammadi-3_2-1024x676.jpg" alt="Narges Mohammadi" /></noscript></picture></a><figcaption class="figcaption"><p class="figcaption__attribution">Ill. Niklas Elmehed © Nobel Prize Outreach</p></figcaption> </figure>
+</article>
+</section>
+<section class="article-grid featured-content featured-content__color--default var-half-width-a  ">
+<header class="section-header border-top">
+<h3 class="section-header-h3">One-minute crash course</h3>
+</header>
+<article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -halfwidth-a left">
+<div class="content-wrapper">
+<header class="content">
+<div class="subtitle">Nobel Peace Prize 2023</div>
+<div class="title title--small">
+<h2 class="headline h1" itemprop="headline">
+Narges Mohammadi </h2>
+</div>
+</header>
+<div class="text">
+Narges Mohammadi has fought bravely for human rights in Iran. The 2023 peace prize honours her courageous fight for human rights, freedom, and democracy. </div>
+</div>
+<figure class="featuredimage">
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="iframe iframe-16x9"><iframe width="1778" height="1000" src="./peace_files/Pmg93CHGlzM.html" frameborder="0"></iframe></div>
+</div></figure>
+</figure>
+</article>
+</section>
+<section class="opinion-stage">
+<header class="section-header border-top">
+<h3 class="section-header-h3">Do you agree? </h3>
+</header>
+<script type="text/javascript">
+			(function(d,s,id,u){
+				if (d.getElementById(id)) return;
+				var js, sjs = d.getElementsByTagName(s)[0],
+					t = Math.floor(new Date().getTime() / 1000000);
+				js=d.createElement(s); js.id=id; js.async=1; js.src=u+'?'+t;
+				sjs.parentNode.insertBefore(js, sjs);
+			}(document, 'script', 'os-widget-jssdk', 'https://www.opinionstage.com/assets/loader.js'));
+	</script>
+<div id="os-widget-1180241" class="os_poll" data-path="/polls/2918857" data-of="nobel" data-opinionstage-widget="f1c59d6c-0e12-4de8-b0b0-a4bdea6b7799" data-rendering="completed" style="position: relative; min-height: 200px;"><div class="os_widget_container os_widget_container/polls/2918857-0" style="clear: both;"><iframe height="0" frameborder="0" scrolling="no" style="opacity: 1; border: none; margin: auto; height: 339px; width: 1px; min-width: 100%; max-width: 640px; max-height: 339px !important;" src="./peace_files/iframe.html" name="opinionstage-widget" data-opinionstage-iframe="f1c59d6c-0e12-4de8-b0b0-a4bdea6b7799" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"></iframe></div></div>
+</section>
+<section class="article-grid featured-content featured-content__color--default var-half-width-a  ">
+<header class="section-header border-top">
+<h3 class="section-header-h3">Nobel Peace Prize: Q&amp;A</h3>
+</header>
 <article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -halfwidth-a ">
 <div class="content-wrapper">
 <header class="content">
 <div class="title">
 <h2 class="headline h1" itemprop="headline">
-<a href="https://www.nobelprize.org/try-a-puzzle-che-2019/">
-Can you solve the puzzle? </a>
+<a href="https://www.nobelprize.org/nobel-peace-prize-questions-and-answers/">
+Behind the scenes of the Nobel Peace Prize </a>
 </h2>
 </div>
 </header>
 <div class="text">
-The discovery of the 2019 chemistry laureates has had a huge everyday impact for us. But what did they discover? </div>
+How are the Nobel Peace Prize laureates chosen? Asle Toje, Deputy Chair of the Norwegian Nobel Committee, answers some of the most common questions about the nomination and selection process. </div>
 </div>
 <figure class="featuredimage">
-<a href="https://www.nobelprize.org/try-a-puzzle-che-2019/"><picture><source data-srcset="https://www.nobelprize.org/uploads/2021/12/che-puzzle.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2021/12/che-puzzle.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2021/12/che-puzzle.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Puxxle"><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2021/12/che-puzzle.jpg" alt="Puxxle" /></noscript></picture></a> </figure>
+<a href="https://www.nobelprize.org/nobel-peace-prize-questions-and-answers/"><picture><source data-srcset="https://www.nobelprize.org/images/135753-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/135753-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/135753-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Asle Toje of Norwegian Nobel Committee."><noscript><img decoding="async" src="https://www.nobelprize.org/images/135753-landscape-x-large.jpg" alt="Asle Toje of Norwegian Nobel Committee." /></noscript></picture></a> </figure>
 </article>
 </section>
-<section class="most-popular-laureates">
+<section class="article-grid featured-content featured-content__color--tertiary var-half-width-a  featured-content__colored">
 <header class="section-header border-top">
-<h3>
-Featured chemistry laureates </h3>
+<h3 class="section-header-h3">Who did what?</h3>
 </header>
-<article class="laureate border-top" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/physics/1903/marie-curie/">
-<picture><source data-srcset="https://www.nobelprize.org/images/marie-curie-12879-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/marie-curie-12879-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/marie-curie-12879-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Marie Curie, née Sklodowska"><noscript><img decoding="async" src="https://www.nobelprize.org/images/marie-curie-12879-portrait-medium.jpg" alt="Marie Curie, née Sklodowska" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 itemprop="name">
-<a href="https://www.nobelprize.org/prizes/physics/1903/marie-curie/" title="Marie Curie, née Skłodowska" itemprop="url">
-Marie Curie, née Skłodowska </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/">
-The Nobel Prize in Chemistry 1911 </a>
-</span>
-<q itemscope="" itemtype="http://schema.org/Quotation">in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element.</q>
-<br>
-<br>
-<span>
-<a href="https://www.nobelprize.org/prizes/physics/1903/marie-curie/">
-The Nobel Prize in Physics 1903 </a>
-</span>
-<q itemscope="" itemtype="http://schema.org/Quotation">in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel.</q>
-</div>
-</article>
-<article class="laureate border-top" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/chemistry/2016/sauvage/">
-<picture><source data-srcset="https://www.nobelprize.org/images/sauvage-15210-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/sauvage-15210-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/sauvage-15210-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Jean-Pierre Sauvage"><noscript><img decoding="async" src="https://www.nobelprize.org/images/sauvage-15210-portrait-medium.jpg" alt="Jean-Pierre Sauvage" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 itemprop="name">
-<a href="https://www.nobelprize.org/prizes/chemistry/2016/sauvage/" title="Jean-Pierre Sauvage" itemprop="url">
-Jean-Pierre Sauvage </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/chemistry/2016/sauvage/">
-The Nobel Prize in Chemistry 2016 </a>
-</span>
-<q itemscope="" itemtype="http://schema.org/Quotation">for the design and synthesis of molecular machines.</q>
-</div>
-</article>
-<article class="laureate border-top" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/chemistry/2018/arnold/">
-<picture><source data-srcset="https://www.nobelprize.org/images/arnold-57918-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/arnold-57918-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/arnold-57918-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Frances H. Arnold"><noscript><img decoding="async" src="https://www.nobelprize.org/images/arnold-57918-portrait-medium.jpg" alt="Frances H. Arnold" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 itemprop="name">
-<a href="https://www.nobelprize.org/prizes/chemistry/2018/arnold/" title="Frances H. Arnold" itemprop="url">
-Frances H. Arnold </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/chemistry/2018/arnold/">
-The Nobel Prize in Chemistry 2018 </a>
-</span>
-<q itemscope="" itemtype="http://schema.org/Quotation">for the directed evolution of enzymes.</q>
-</div>
-</article>
-<article class="laureate border-top" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/chemistry/2011/shechtman/">
-<picture><source data-srcset="https://www.nobelprize.org/images/shechtman-15174-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/shechtman-15174-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/shechtman-15174-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Dan Shechtman"><noscript><img decoding="async" src="https://www.nobelprize.org/images/shechtman-15174-portrait-medium.jpg" alt="Dan Shechtman" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 itemprop="name">
-<a href="https://www.nobelprize.org/prizes/chemistry/2011/shechtman/" title="Dan Shechtman" itemprop="url">
-Dan Shechtman </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/chemistry/2011/shechtman/">
-The Nobel Prize in Chemistry 2011 </a>
-</span>
-<q itemscope="" itemtype="http://schema.org/Quotation">for the discovery of quasicrystals.</q>
-</div>
-</article>
-</section>
-<section class="testing article-grid featured-content featured-content__color--primary var-full-width-b  featured-content__colored" style="margin-bottom: 107px;">
-<article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -fullwidth-b">
+<article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -halfwidth-a ">
 <div class="content-wrapper">
 <header class="content">
 <div class="title">
 <h2 class="headline h1" itemprop="headline">
-<a href="https://www.nobelprize.org/frequently-asked-questions/#categories">
-The Nobel Prize categories </a>
+<a href="https://www.nobelprize.org/image-pairing-peace/">
+How many peace laureates can you match? </a>
 </h2>
 </div>
 </header>
 <div class="text">
-The Nobel Prize categories are physics, chemistry, physiology or medicine, literature and peace and were laid out in the will of Alfred Nobel. Find out more in the FAQ. </div>
+Can you match the right peace laureate with the right accomplishment? Have a try! </div>
 </div>
 <figure class="featuredimage">
-<a href="https://www.nobelprize.org/frequently-asked-questions/#categories"><picture><source data-srcset="https://www.nobelprize.org/images/123776-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/123776-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/123776-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="The Nobel Prize medal."><noscript><img decoding="async" src="https://www.nobelprize.org/images/123776-landscape-x-large.jpg" alt="The Nobel Prize medal." /></noscript></picture></a><figcaption class="figcaption"><p class="figcaption__caption">The Nobel Prize medal.</p> <p class="figcaption__attribution">© Nobel Prize Outreach. Photo: Clément Morin.</p></figcaption> </figure>
+<a href="https://www.nobelprize.org/image-pairing-peace/"><picture><source data-srcset="https://www.nobelprize.org/uploads/2021/09/Peace-matching.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2021/09/Peace-matching.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2021/09/Peace-matching.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Matching pairs peace"><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2021/09/Peace-matching.jpg" alt="Matching pairs peace" /></noscript></picture></a> </figure>
 </article>
 </section>
-<section class="explore-laureates page-section has-alternate-style">
+<section class="explore-laureates page-section">
 <header class="section-header border-top">
 <h3>
 Explore prizes and laureates </h3>
 </header>
-<form class="exploreform" id="66f3b5fb6f6fb" method="GET" action="https://www.nobelprize.org/">
+<form class="exploreform" id="66f3b0ef8936f" method="GET" action="https://www.nobelprize.org/prizes/peace/">
 <div class="dropdown">
 <label for="mobile-dropdown" class="screen-reader-text">
 Select the category or categories you would like to filter by </label>
 <select id="mobile-dropdown" name="filtermobile">
 <option value="physics">
 Physics </option>
-<option value="chemistry" selected="selected">
+<option value="chemistry">
 Chemistry </option>
 <option value="medicine">
 Medicine </option>
 <option value="literature">
 Literature </option>
-<option value="peace">
+<option value="peace" selected="selected">
 Peace </option>
 <option value="economic-sciences">
 Economic Sciences </option>
@@ -631,7 +612,7 @@ Physics </span>
 </div>
 <div class="labelbutton" tabindex="0">
 <label for="chemistry">
-<input id="chemistry" name="filter" type="radio" checked="checked" value="chemistry" hidden="">
+<input id="chemistry" name="filter" type="radio" value="chemistry" hidden="">
 <span>
 Chemistry </span>
 </label>
@@ -652,7 +633,7 @@ Literature </span>
 </div>
 <div class="labelbutton" tabindex="0">
 <label for="peace">
-<input id="peace" name="filter" type="radio" value="peace" hidden="">
+<input id="peace" name="filter" type="radio" checked="checked" value="peace" hidden="">
 <span>
 Peace </span>
 </label>
@@ -684,506 +665,276 @@ Explore </button>
 </div>
 </form>
 </section>
-<div class="long-scroll-preloader prize-explorer-preloader" style="text-align: center; display: none" data-target="66f3b5fb6f6fb">
-<img style="display: inline-block" src="./index_files/spinner.webp">
+<div class="long-scroll-preloader prize-explorer-preloader" style="text-align: center; display: none" data-target="66f3b0ef8936f">
+<img style="display: inline-block" src="./peace_files/spinner.webp">
 </div>
-<div class="prize-explorer-content container search-results" data-target="66f3b5fb6f6fb">
+<div class="prize-explorer-content container search-results" data-target="66f3b0ef8936f">
 </div>
-<section class="page-hero -hero-b -left -contained text-color-white -color-option-senary">
-<header class="section-header border-top">
-<h3 class="section-header-h3">The man behind the prize</h3>
-</header>
-<div class="bg hero lazyload" data-bgset="https://www.nobelprize.org/images/52981-hero-tablet-2x.jpg [(min-width: 220px)] | https://www.nobelprize.org/images/52981-hero-contained-tablet-2x.jpg [(min-width: 900px)] | https://www.nobelprize.org/images/52981-hero-contained-desktop-2x.jpg [(min-width: 1400px)]" data-sizes="auto">
-</div>
-<noscript>
-		<div
-				class="bg hero"
-				style="background: url(https://www.nobelprize.org/images/52981-content-landscape-desktop.jpg)"
-				>
-		</div>
-	</noscript>
-<div class="blurb">
-<a href="https://www.nobelprize.org/alfred-nobel" class="hero-link">
-<h1 class="title ">
-Alfred Nobel </h1>
-<div class="lead">
-The Swedish inventor left his fortune to fund the Nobel Prizes. </div>
-</a>
-<div class="hero-btn-wrapper">
-<a class="hero-btn" href="https://www.nobelprize.org/alfred-nobel">
-Learn more </a>
-</div>
-</div>
-</section>
-<section class="queried-content-block has-background has-nobel-pale-background-color">
-<div class="container">
-<header class="block-separator queried-content-block__separator">
-<h2 class="block-separator__title">
-Learn about the 2023 Nobel Prizes </h2>
-<div class="block-separator__content">
-</div>
-</header>
-<ul class="is-grid-layout is-grid-layout--6">
-<li class="grid-item">
-<article class="content-item is-card-style has-link">
-<div class="content-item__content-wrapper">
-<div class="content-item__content-container">
-<div class="content-item__content-body">
-<span class="content-item__tag" title="This item has been tagged as: Nobel Prize in Physics 2023">
-Nobel Prize in Physics 2023 </span>
-<header class="content-item__header">
-<h2 class="content-item__title">
-<a href="https://www.nobelprize.org/prizes/physics/2023/summary/" class="content-item__title-link" target="_self" rel="">
-Electrons in pulses of light </a>
-</h2>
-</header>
-</div>
-</div>
-<div class="content-item__media-container">
-<figure class="content-media">
-<div class="content-media__wrapper">
-<div class="content-media__inner">
-<picture class="content-media__image"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/fig_fy_23_webb3x2_2100x1400-640x424.png" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/fig_fy_23_webb3x2_2100x1400-992x656.png" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/fig_fy_23_webb3x2_2100x1400-1520x1008.png" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Illustration of two electrons, illustrating the Nobel Prize in Physics 2023."><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2023/10/fig_fy_23_webb3x2_2100x1400-760x504.png" alt="Illustration of two electrons, illustrating the Nobel Prize in Physics 2023." /></noscript></picture> </div>
-</div>
-</figure>
-</div>
-</div>
-<p class="content-item__excerpt hide-on-mobile">
-The Nobel Prize in Physics 2023 was awarded to Pierre Agostini, Ferenc Krausz and Anne L’Huillier “for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter.” </p>
-</article>
-</li>
-<li class="grid-item">
-<article class="content-item is-card-style has-link">
-<div class="content-item__content-wrapper">
-<div class="content-item__content-container">
-<div class="content-item__content-body">
-<span class="content-item__tag" title="This item has been tagged as: Nobel Prize in Chemistry 2023">
-Nobel Prize in Chemistry 2023 </span>
-<header class="content-item__header">
-<h2 class="content-item__title">
-<a href="https://www.nobelprize.org/prizes/chemistry/2023/summary/" class="content-item__title-link" target="_self" rel="">
-They added colour to nanotechnology </a>
-</h2>
-</header>
-</div>
-</div>
-<div class="content-item__media-container">
-<figure class="content-media">
-<div class="content-media__wrapper">
-<div class="content-media__inner">
-<picture class="content-media__image"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/fig_ke_23_webb3x2_2100x1400-640x424.png" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/fig_ke_23_webb3x2_2100x1400-992x656.png" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/fig_ke_23_webb3x2_2100x1400-1520x1008.png" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="An illustration of a bucket of paint with coloured balls beneath it, representing quantum dots."><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2023/10/fig_ke_23_webb3x2_2100x1400-760x504.png" alt="An illustration of a bucket of paint with coloured balls beneath it, representing quantum dots." /></noscript></picture> </div>
-</div>
-</figure>
-</div>
-</div>
-<p class="content-item__excerpt hide-on-mobile">
-The Nobel Prize in Chemistry 2023 was awarded to Moungi G. Bawendi, Louis E. Brus and Alexey Yekimov “for the discovery and synthesis of quantum dots.” </p>
-</article>
-</li>
-<li class="grid-item">
-<article class="content-item is-card-style has-link">
-<div class="content-item__content-wrapper">
-<div class="content-item__content-container">
-<div class="content-item__content-body">
-<span class="content-item__tag" title="This item has been tagged as: Nobel Prize in Physiology or Medicine 2023">
-Nobel Prize in Physiology or Medicine 2023 </span>
-<header class="content-item__header">
-<h2 class="content-item__title">
-<a href="https://www.nobelprize.org/prizes/medicine/2023/summary/" class="content-item__title-link" target="_self" rel="">
-Vaccine development </a>
-</h2>
-</header>
-</div>
-</div>
-<div class="content-item__media-container">
-<figure class="content-media">
-<div class="content-media__wrapper">
-<div class="content-media__inner">
-<picture class="content-media__image"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/2023_MED_CARRIER_1200x800-640x424.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/2023_MED_CARRIER_1200x800-992x656.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/2023_MED_CARRIER_1200x800.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="A blue background with COVID-19 virus and a yellow strand of modified mRNA. Also shown is the chemical structure of pseudouridine, an RNA base that was important in the prize-awarded discovery. The graphic represents the 2023 Nobel Prize in Physiology or Medicine awarded to Katalin Karinkó and Drew Weissman who received the Nobel Prize in Physiology or Medicine for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19."><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2023/10/2023_MED_CARRIER_1200x800-760x504.jpg" alt="A blue background with COVID-19 virus and a yellow strand of modified mRNA. Also shown is the chemical structure of pseudouridine, an RNA base that was important in the prize-awarded discovery. The graphic represents the 2023 Nobel Prize in Physiology or Medicine awarded to Katalin Karinkó and Drew Weissman who received the Nobel Prize in Physiology or Medicine for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19." /></noscript></picture> </div>
-</div>
-</figure>
-</div>
-</div>
-<p class="content-item__excerpt hide-on-mobile">
-The Nobel Prize in Physiology or Medicine 2023 was awarded jointly to Katalin Karikó and Drew Weissman “for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19.” </p>
-</article>
-</li>
-<li class="grid-item">
-<article class="content-item is-card-style has-link">
-<div class="content-item__content-wrapper">
-<div class="content-item__content-container">
-<div class="content-item__content-body">
-<span class="content-item__tag" title="This item has been tagged as: Nobel Prize in Literature 2023">
-Nobel Prize in Literature 2023 </span>
-<header class="content-item__header">
-<h2 class="content-item__title">
-<a href="https://www.nobelprize.org/prizes/literature/2023/summary/" class="content-item__title-link" target="_self" rel="">
-Stories depicting strong emotions that many can relate to </a>
-</h2>
-</header>
-</div>
-</div>
-<div class="content-item__media-container">
-<figure class="content-media">
-<div class="content-media__wrapper">
-<div class="content-media__inner">
-<picture class="content-media__image"><source data-srcset="https://www.nobelprize.org/images/154010-landscape-small-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/154010-landscape-medium-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/154010-landscape-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Jon Fosse"><noscript><img decoding="async" src="https://www.nobelprize.org/images/154010-landscape-large.jpg" alt="Jon Fosse" /></noscript></picture> </div>
-</div>
-</figure>
-</div>
-</div>
-<p class="content-item__excerpt hide-on-mobile">
-The Nobel Prize in Literature 2023 was awarded to Jon Fosse, “for his innovative plays and prose which give voice to the unsayable.” </p>
-</article>
-</li>
-<li class="grid-item">
-<article class="content-item is-card-style has-link">
-<div class="content-item__content-wrapper">
-<div class="content-item__content-container">
-<div class="content-item__content-body">
-<span class="content-item__tag" title="This item has been tagged as: Nobel Peace Prize 2023">
-Nobel Peace Prize 2023 </span>
-<header class="content-item__header">
-<h2 class="content-item__title">
-<a href="https://www.nobelprize.org/prizes/peace/2023/summary/" class="content-item__title-link" target="_self" rel="">
-A courageous fight for human rights, freedom, and democracy in Iran </a>
-</h2>
-</header>
-</div>
-</div>
-<div class="content-item__media-container">
-<figure class="content-media">
-<div class="content-media__wrapper">
-<div class="content-media__inner">
-<picture class="content-media__image"><source data-srcset="https://www.nobelprize.org/images/148988-landscape-small-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/148988-landscape-medium-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/148988-landscape-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Portrait of Narges Mohammadi"><noscript><img decoding="async" src="https://www.nobelprize.org/images/148988-landscape-large.jpg" alt="Portrait of Narges Mohammadi" /></noscript></picture> </div>
-</div>
-</figure>
-</div>
-</div>
-<p class="content-item__excerpt hide-on-mobile">
-The Nobel Peace Prize 2023 was awarded to Narges Mohammadi “for her fight against the oppression of women in Iran and her fight to promote human rights and freedom for all.” </p>
-</article>
-</li>
-<li class="grid-item">
-<article class="content-item is-card-style has-link">
-<div class="content-item__content-wrapper">
-<div class="content-item__content-container">
-<div class="content-item__content-body">
-<span class="content-item__tag" title="This item has been tagged as: Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2023">
-Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2023 </span>
-<header class="content-item__header">
-<h2 class="content-item__title">
-<a href="https://www.nobelprize.org/prizes/economic-sciences/2023/summary/" class="content-item__title-link" target="_self" rel="">
-History helps us understand gender differences in the labour market </a>
-</h2>
-</header>
-</div>
-</div>
-<div class="content-item__media-container">
-<figure class="content-media">
-<div class="content-media__wrapper">
-<div class="content-media__inner">
-<picture class="content-media__image"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/eco_carrier_3x2_2100x1400-640x424.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/eco_carrier_3x2_2100x1400-992x656.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2023/10/eco_carrier_3x2_2100x1400-1520x1008.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="A detective investigating a file cabinet, accompanied by a golden retriever."><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2023/10/eco_carrier_3x2_2100x1400-760x504.jpg" alt="A detective investigating a file cabinet, accompanied by a golden retriever." /></noscript></picture> </div>
-</div>
-</figure>
-</div>
-</div>
-<p class="content-item__excerpt hide-on-mobile">
-The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2023 was awarded to Claudia Goldin “for having advanced our understanding of women’s labour market outcomes.”<br> </p>
-</article>
-</li>
-</ul>
-</div>
-</section>
-<section class="most-popular-laureates most-popular-laureates--carousel splide splide--slide splide--ltr splide--draggable is-active is-overflow is-initialized" aria-label="Most Popular Laureates carousel" id="splide01" aria-roledescription="carousel">
-<header class="block-separator most-popular-laureates__header">
-<h2 class="block-separator__title">
-2023 Nobel Prize laureates </h2>
-<div class="block-separator__content splide__arrows splide__arrows--ltr">
-<button type="button" class="block-separator__nav block-separator__nav--prev splide__arrow splide__arrow--prev" aria-label="Previous slide" disabled="" aria-controls="splide01-track">
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40"><path d="M20 14.52 14.52 20 20 25.48l1.148-1.147-3.5-3.5h8.185v-1.666h-8.185l3.5-3.5zM19.994 5q3.112 0 5.85 1.18 2.74 1.181 4.766 3.206a15.2 15.2 0 0 1 3.208 4.76Q35 16.884 35 19.995q0 3.113-1.18 5.85-1.181 2.74-3.206 4.766a15.2 15.2 0 0 1-4.76 3.208q-2.738 1.18-5.849 1.181-3.113 0-5.85-1.18-2.74-1.181-4.766-3.206a15.2 15.2 0 0 1-3.208-4.76Q5.001 23.116 5 20.005q0-3.113 1.18-5.85 1.181-2.74 3.206-4.766a15.2 15.2 0 0 1 4.76-3.208Q16.884 5.001 19.995 5ZM20 6.667q-5.583 0-9.458 3.875T6.667 20t3.875 9.458T20 33.333t9.458-3.875T33.333 20t-3.875-9.458T20 6.667"></path></svg> </button>
-<button type="button" class="block-separator__nav block-separator__nav--next splide__arrow splide__arrow--next" aria-label="Next slide" aria-controls="splide01-track">
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40"><path d="M20 25.48 25.48 20 20 14.52l-1.148 1.147 3.5 3.5h-8.185v1.666h8.185l-3.5 3.5L20 25.481Zm.006 9.52q-3.112 0-5.85-1.18-2.74-1.181-4.766-3.206a15.2 15.2 0 0 1-3.208-4.76Q5 23.116 5 20.005q0-3.113 1.18-5.85 1.181-2.74 3.206-4.766a15.2 15.2 0 0 1 4.76-3.208Q16.884 5.001 19.995 5q3.113 0 5.85 1.18 2.74 1.181 4.766 3.206a15.2 15.2 0 0 1 3.208 4.76q1.18 2.738 1.181 5.849 0 3.113-1.18 5.85-1.181 2.74-3.206 4.766a15.2 15.2 0 0 1-4.76 3.208q-2.738 1.18-5.849 1.181ZM20 33.333q5.583 0 9.458-3.875T33.333 20t-3.875-9.458T20 6.667t-9.458 3.875T6.667 20t3.875 9.458T20 33.333"></path></svg> </button>
-</div>
-</header>
-<div class="splide__track splide__track--slide splide__track--ltr splide__track--draggable" id="splide01-track" style="padding-left: calc(50% - var(--max-width-content) / 2 + var(--gutter)); padding-right: 0px;" aria-live="polite" aria-atomic="true">
-<ul class="splide__list" id="splide01-list" role="presentation" style="transform: translateX(0px);">
-<li class="most-popular-laureates__slide splide__slide is-active is-visible" id="splide01-slide01" role="group" aria-roledescription="slide" aria-label="1 of 11" style="margin-right: 2rem;">
-<article class="laureate" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/physics/2023/agostini/">
-<picture><source data-srcset="https://www.nobelprize.org/images/154015-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/154015-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/154015-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Pierre Agostini"><noscript><img decoding="async" src="https://www.nobelprize.org/images/154015-portrait-medium.jpg" alt="Pierre Agostini" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 class="content-title" itemprop="name">
-<a href="https://www.nobelprize.org/prizes/physics/2023/agostini/" title="Pierre Agostini" itemprop="url">
-Pierre Agostini </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/physics/2023/agostini/" class="content-link">
-The Nobel Prize in Physics 2023 </a>
-</span>
-</div>
-</article>
-</li>
-<li class="most-popular-laureates__slide splide__slide is-visible is-next" id="splide01-slide02" role="group" aria-roledescription="slide" aria-label="2 of 11" style="margin-right: 2rem;">
-<article class="laureate" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/physics/2023/krausz/">
-<picture><source data-srcset="https://www.nobelprize.org/images/154017-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/154017-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/154017-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Ferenc Krausz"><noscript><img decoding="async" src="https://www.nobelprize.org/images/154017-portrait-medium.jpg" alt="Ferenc Krausz" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 class="content-title" itemprop="name">
-<a href="https://www.nobelprize.org/prizes/physics/2023/krausz/" title="Ferenc Krausz" itemprop="url">
-Ferenc Krausz </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/physics/2023/krausz/" class="content-link">
-The Nobel Prize in Physics 2023 </a>
-</span>
-</div>
-</article>
-</li>
-<li class="most-popular-laureates__slide splide__slide is-visible" id="splide01-slide03" role="group" aria-roledescription="slide" aria-label="3 of 11" style="margin-right: 2rem;">
-<article class="laureate" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/physics/2023/lhuillier/">
-<picture><source data-srcset="https://www.nobelprize.org/images/154019-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/154019-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/154019-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Anne L’Huillier"><noscript><img decoding="async" src="https://www.nobelprize.org/images/154019-portrait-medium.jpg" alt="Anne L’Huillier" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 class="content-title" itemprop="name">
-<a href="https://www.nobelprize.org/prizes/physics/2023/lhuillier/" title="Anne L’Huillier" itemprop="url">
-Anne L’Huillier </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/physics/2023/lhuillier/" class="content-link">
-The Nobel Prize in Physics 2023 </a>
-</span>
-</div>
-</article>
-</li>
-<li class="most-popular-laureates__slide splide__slide is-visible" id="splide01-slide04" role="group" aria-roledescription="slide" aria-label="4 of 11" style="margin-right: 2rem;">
-<article class="laureate" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/chemistry/2023/bawendi/">
-<picture><source data-srcset="https://www.nobelprize.org/images/154020-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/154020-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/154020-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Moungi G. Bawendi"><noscript><img decoding="async" src="https://www.nobelprize.org/images/154020-portrait-medium.jpg" alt="Moungi G. Bawendi" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 class="content-title" itemprop="name">
-<a href="https://www.nobelprize.org/prizes/chemistry/2023/bawendi/" title="Moungi Bawendi" itemprop="url">
-Moungi Bawendi </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/chemistry/2023/bawendi/" class="content-link">
-The Nobel Prize in Chemistry 2023 </a>
-</span>
-</div>
-</article>
-</li>
-<li class="most-popular-laureates__slide splide__slide" id="splide01-slide05" role="group" aria-roledescription="slide" aria-label="5 of 11" style="margin-right: 2rem;" aria-hidden="true">
-<article class="laureate" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/chemistry/2023/brus/" tabindex="-1">
-<picture><source data-srcset="https://www.nobelprize.org/images/154026-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/154026-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/154026-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Louis E. Brus"><noscript><img decoding="async" src="https://www.nobelprize.org/images/154026-portrait-medium.jpg" alt="Louis E. Brus" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 class="content-title" itemprop="name">
-<a href="https://www.nobelprize.org/prizes/chemistry/2023/brus/" title="Louis Brus" itemprop="url" tabindex="-1">
-Louis Brus </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/chemistry/2023/brus/" class="content-link" tabindex="-1">
-The Nobel Prize in Chemistry 2023 </a>
-</span>
-</div>
-</article>
-</li>
-<li class="most-popular-laureates__slide splide__slide" id="splide01-slide06" role="group" aria-roledescription="slide" aria-label="6 of 11" style="margin-right: 2rem;" aria-hidden="true">
-<article class="laureate" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/chemistry/2023/yekimov/" tabindex="-1">
-<picture><source data-srcset="https://www.nobelprize.org/images/154024-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/154024-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/154024-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Aleksey Yekimov"><noscript><img decoding="async" src="https://www.nobelprize.org/images/154024-portrait-medium.jpg" alt="Aleksey Yekimov" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 class="content-title" itemprop="name">
-<a href="https://www.nobelprize.org/prizes/chemistry/2023/yekimov/" title="Aleksey Yekimov " itemprop="url" tabindex="-1">
-Aleksey Yekimov </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/chemistry/2023/yekimov/" class="content-link" tabindex="-1">
-The Nobel Prize in Chemistry 2023 </a>
-</span>
-</div>
-</article>
-</li>
-<li class="most-popular-laureates__slide splide__slide" id="splide01-slide07" role="group" aria-roledescription="slide" aria-label="7 of 11" style="margin-right: 2rem;" aria-hidden="true">
-<article class="laureate" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/medicine/2023/kariko/" tabindex="-1">
-<picture><source data-srcset="https://www.nobelprize.org/images/154007-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/154007-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/154007-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Katalin Karikó"><noscript><img decoding="async" src="https://www.nobelprize.org/images/154007-portrait-medium.jpg" alt="Katalin Karikó" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 class="content-title" itemprop="name">
-<a href="https://www.nobelprize.org/prizes/medicine/2023/kariko/" title="Katalin Karikó" itemprop="url" tabindex="-1">
-Katalin Karikó </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/medicine/2023/kariko/" class="content-link" tabindex="-1">
-The Nobel Prize in Physiology or Medicine 2023 </a>
-</span>
-</div>
-</article>
-</li>
-<li class="most-popular-laureates__slide splide__slide" id="splide01-slide08" role="group" aria-roledescription="slide" aria-label="8 of 11" style="margin-right: 2rem;" aria-hidden="true">
-<article class="laureate" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/medicine/2023/weissman/" tabindex="-1">
-<picture><source data-srcset="https://www.nobelprize.org/images/154009-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/154009-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/154009-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Drew Weissman"><noscript><img decoding="async" src="https://www.nobelprize.org/images/154009-portrait-medium.jpg" alt="Drew Weissman" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 class="content-title" itemprop="name">
-<a href="https://www.nobelprize.org/prizes/medicine/2023/weissman/" title="Drew Weissman" itemprop="url" tabindex="-1">
-Drew Weissman </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/medicine/2023/weissman/" class="content-link" tabindex="-1">
-The Nobel Prize in Physiology or Medicine 2023 </a>
-</span>
-</div>
-</article>
-</li>
-<li class="most-popular-laureates__slide splide__slide" id="splide01-slide09" role="group" aria-roledescription="slide" aria-label="9 of 11" style="margin-right: 2rem;" aria-hidden="true">
-<article class="laureate" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/literature/2023/fosse/" tabindex="-1">
-<picture><source data-srcset="https://www.nobelprize.org/images/154010-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/154010-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/154010-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Jon Fosse"><noscript><img decoding="async" src="https://www.nobelprize.org/images/154010-portrait-medium.jpg" alt="Jon Fosse" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 class="content-title" itemprop="name">
-<a href="https://www.nobelprize.org/prizes/literature/2023/fosse/" title="Jon Fosse" itemprop="url" tabindex="-1">
-Jon Fosse </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/literature/2023/fosse/" class="content-link" tabindex="-1">
-The Nobel Prize in Literature 2023 </a>
-</span>
-</div>
-</article>
-</li>
-<li class="most-popular-laureates__slide splide__slide" id="splide01-slide10" role="group" aria-roledescription="slide" aria-label="10 of 11" style="margin-right: 2rem;" aria-hidden="true">
-<article class="laureate" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/peace/2023/mohammadi/" tabindex="-1">
-<picture><source data-srcset="https://www.nobelprize.org/images/148988-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/148988-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/148988-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Portrait of Narges Mohammadi"><noscript><img decoding="async" src="https://www.nobelprize.org/images/148988-portrait-medium.jpg" alt="Portrait of Narges Mohammadi" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 class="content-title" itemprop="name">
-<a href="https://www.nobelprize.org/prizes/peace/2023/mohammadi/" title="Narges Mohammadi" itemprop="url" tabindex="-1">
-Narges Mohammadi </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/peace/2023/mohammadi/" class="content-link" tabindex="-1">
-The Nobel Peace Prize 2023 </a>
-</span>
-</div>
-</article>
-</li>
-<li class="most-popular-laureates__slide splide__slide" id="splide01-slide11" role="group" aria-roledescription="slide" aria-label="11 of 11" style="margin-right: 2rem;" aria-hidden="true">
-<article class="laureate" itemscope="" itemtype="http://schema.org/Person">
-<figure class="content-img">
-<a href="https://www.nobelprize.org/prizes/economic-sciences/2023/goldin/" tabindex="-1">
-<picture><source data-srcset="https://www.nobelprize.org/images/154023-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/154023-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/154023-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Claudia Goldin"><noscript><img decoding="async" src="https://www.nobelprize.org/images/154023-portrait-medium.jpg" alt="Claudia Goldin" /></noscript></picture> </a>
-</figure>
-<div class="content">
-<h4 class="content-title" itemprop="name">
-<a href="https://www.nobelprize.org/prizes/economic-sciences/2023/goldin/" title="Claudia Goldin" itemprop="url" tabindex="-1">
-Claudia Goldin </a>
-</h4>
-<span>
-<a href="https://www.nobelprize.org/prizes/economic-sciences/2023/goldin/" class="content-link" tabindex="-1">
-The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2023 </a>
-</span>
-</div>
-</article>
-</li>
-</ul>
-</div>
-</section>
 <section class="article-grid featured-content featured-content__color--default var-half-width-a  ">
 <header class="section-header border-top">
-<h3 class="section-header-h3">2024 Nobel Prize Concert</h3>
+<h3 class="section-header-h3">Questions and answers</h3>
 </header>
 <article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -halfwidth-a ">
 <div class="content-wrapper">
 <header class="content">
-<div class="title title--small">
+<div class="title">
 <h2 class="headline h1" itemprop="headline">
-<a href="https://www.nobelprize.org/nobel-prize-concert-2024/">
-Malin Byström and Petr Popelka to the Nobel Prize Concert </a>
+<a href="https://www.nobelprize.org/frequently-asked-questions/#posthumously">
+Can you award a Nobel Prize posthumously? </a>
 </h2>
 </div>
 </header>
 <div class="text">
-Swedish soprano Malin Byström and the conductor of the Vienna Symphony Orchestra, Petr Popelka, will perform at this year’s Nobel Prize Concert at Konserthuset Stockholm. The programme includes the final scene from the Richard Strauss opera <em>Salome</em> and will be performed together with the Royal Stockholm Philharmonic Orchestra.<br><br>Tickets for the concert will go on sale on 6 November. </div>
+No, it is not possible to nominate someone for a posthumous Nobel Prize. Find out more in the FAQ. </div>
 </div>
 <figure class="featuredimage">
-<a href="https://www.nobelprize.org/nobel-prize-concert-2024/"><picture><source data-srcset="https://www.nobelprize.org/uploads/2024/09/malin-bystrom-photo-peter-knutson.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2024/09/malin-bystrom-photo-peter-knutson.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2024/09/malin-bystrom-photo-peter-knutson.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Malin Byström."><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2024/09/malin-bystrom-photo-peter-knutson.jpg" alt="Malin Byström." /></noscript></picture></a><figcaption class="figcaption"><p class="figcaption__caption">Malin Byström.</p> <p class="figcaption__attribution">Photo: Peter Knutson</p></figcaption> </figure>
+<a href="https://www.nobelprize.org/frequently-asked-questions/#posthumously"><picture><source data-srcset="https://www.nobelprize.org/images/96785-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/96785-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/96785-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Flower decorations"><noscript><img decoding="async" src="https://www.nobelprize.org/images/96785-landscape-x-large.jpg" alt="Flower decorations" /></noscript></picture></a><figcaption class="figcaption"><p class="figcaption__attribution">© Nobel Media. Photo: Heléne Grynfarb</p></figcaption> </figure>
 </article>
 </section>
-<section class="article-grid featured-content featured-content__color--tertiary var-one-third  featured-content__colored">
+<section class="page-hero -hero-b -left  text-color-black -color-option-">
 <header class="section-header border-top">
-<h3 class="section-header-h3">What’s on</h3>
+<h3 class="section-header-h3">Nobel Prizes and laureates</h3>
+</header>
+<div class="bg hero lazyload" data-bgset="https://www.nobelprize.org/images/5596-hero-tablet-2x.jpg [(min-width: 220px)] | https://www.nobelprize.org/images/5596-hero-tablet-2x.jpg [(min-width: 900px)] | https://www.nobelprize.org/images/5596-hero-desktop-2x.jpg [(min-width: 1400px)]" data-sizes="auto">
+</div>
+<noscript>
+		<div
+				class="bg hero"
+				style="background: url(https://www.nobelprize.org/images/5596-landscape-medium-gallery.jpg)"
+				>
+		</div>
+	</noscript>
+<div class="blurb">
+<div class="sublead">
+<p><a href="https://www.nobelprize.org/prizes/lists/all-nobel-peace-prizes/"><span style="color: #000000">See the full list of prizes and laureates</span></a></p>
+</div>
+<h1 class="title ">
+<a href="https://www.nobelprize.org/prizes/lists/all-nobel-peace-prizes/">All Nobel Peace Prizes</a> </h1>
+</div>
+<div class="figcaption">
+<p class="figcaption__caption">
+The traditional costume Kailash Satyarthi wore when he received the Nobel Peace Prize in Oslo in 2014. </p>
+<p class="figcaption__attribution">
+Photo: Nobel Prize Museum </p>
+</div>
+</section>
+<section class="links">
+<header class="section-header border-top">
+<h3 class="section-header-h3">Articles in peace</h3>
+</header>
+<ul class="linkset">
+<li itemprop="name" class="border-top">
+<p><a href="https://www.nobelprize.org/prizes/themes/the-red-cross-three-time-recipient-of-the-peace-prize">The Red Cross: Three-time recipient of the Peace Prize</a>
+</p> 
+</li>
+<li itemprop="name" class="border-top">
+<p><a href="https://www.nobelprize.org/prizes/themes/mahatma-gandhi-the-missing-laureate">Mahatma Gandhi, the missing Laureate</a>
+</p> 
+</li>
+<li itemprop="name" class="border-top">
+<p><a href="https://www.nobelprize.org/prizes/themes/the-nobel-peace-prize-from-peace-negotiations-to-human-rights">The Nobel Peace Prize: From peace negotiations to human rights</a>
+</p> 
+</li>
+<li itemprop="name" class="border-top">
+<p><a href="https://www.nobelprize.org/prizes/themes/the-nobel-peace-prize-revelations-from-the-soviet-past">The Nobel Peace Prize: Revelations from the Soviet past</a>
+</p> 
+</li>
+<li itemprop="name" class="border-top">
+<p><a href="https://www.nobelprize.org/prizes/themes/norwegian-nobel-committee">The Norwegian Nobel committee</a>
+</p> 
+</li>
+<li itemprop="name" class="border-top">
+<p><a href="https://www.nobelprize.org/prizes/themes/reflections-on-the-nobel-peace-prize">Reflections on the Nobel Peace Prize</a>
+</p> 
+</li>
+<li itemprop="name" class="border-top">
+<p><a href="https://www.nobelprize.org/prizes/themes/controversies-and-criticisms">Controversies and criticisms</a>
+</p> 
+</li>
+<li itemprop="name" class="border-top">
+<p><a href="https://www.nobelprize.org/prizes/themes/liberal-internationalism-peace-war-and-democracy">Liberal internationalism: Peace, war and democracy</a>
+</p> 
+</li>
+<li itemprop="name" class="border-top">
+<p><a href="https://www.nobelprize.org/prizes/themes/the-humanitarian-nobel-peace-prizes">The humanitarian Nobel Peace Prizes 1901-2004</a>
+</p> 
+</li>
+<li itemprop="name" class="border-top">
+<p><a href="https://www.nobelprize.org/prizes/themes/the-nobel-peace-prize-1901-2000">The Nobel Peace Prize, 1901-2000</a>
+</p> 
+</li>
+<li itemprop="name" class="border-top">
+<p><a href="https://www.nobelprize.org/prizes/themes/heroines-of-peace-the-nine-nobel-women">Heroines of Peace – The nine Nobel women, 1901-1992</a>
+</p> 
+</li>
+<li itemprop="name" class="border-top">
+<p><a href="https://www.nobelprize.org/prizes/themes/with-fascism-on-the-doorstep-the-nobel-institution-in-norway-1940-1945">With fascism on the doorstep: The Nobel institution in Norway, 1940-1945</a>
+</p> 
+</li>
+</ul>
+</section>
+<section class="most-popular-laureates">
+<header class="section-header border-top">
+<h3>
+Featured laureates </h3>
+</header>
+<article class="laureate border-top" itemscope="" itemtype="http://schema.org/Person">
+<figure class="content-img">
+<a href="https://www.nobelprize.org/prizes/peace/1964/king/">
+<picture><source data-srcset="https://www.nobelprize.org/images/king-13174-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/king-13174-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/king-13174-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Martin Luther King Jr."><noscript><img decoding="async" src="https://www.nobelprize.org/images/king-13174-portrait-medium.jpg" alt="Martin Luther King Jr." /></noscript></picture> </a>
+</figure>
+<div class="content">
+<h4 itemprop="name">
+<a href="https://www.nobelprize.org/prizes/peace/1964/king/" title="Martin Luther King Jr." itemprop="url">
+Martin Luther King Jr. </a>
+</h4>
+<span>
+<a href="https://www.nobelprize.org/prizes/peace/1964/king/">
+The Nobel Peace Prize 1964 </a>
+</span>
+<q itemscope="" itemtype="http://schema.org/Quotation">for his non-violent struggle for civil rights for the Afro-American population.</q>
+</div>
+</article>
+<article class="laureate border-top" itemscope="" itemtype="http://schema.org/Person">
+<figure class="content-img">
+<a href="https://www.nobelprize.org/prizes/peace/2014/yousafzai/">
+<picture><source data-srcset="https://www.nobelprize.org/images/yousafzai-15198-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/yousafzai-15198-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/yousafzai-15198-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Malala Yousafzai"><noscript><img decoding="async" src="https://www.nobelprize.org/images/yousafzai-15198-portrait-medium.jpg" alt="Malala Yousafzai" /></noscript></picture> </a>
+</figure>
+<div class="content">
+<h4 itemprop="name">
+<a href="https://www.nobelprize.org/prizes/peace/2014/yousafzai/" title="Malala Yousafzai" itemprop="url">
+Malala Yousafzai </a>
+</h4>
+<span>
+<a href="https://www.nobelprize.org/prizes/peace/2014/yousafzai/">
+The Nobel Peace Prize 2014 </a>
+</span>
+<q itemscope="" itemtype="http://schema.org/Quotation">for their struggle against the suppression of children and young people and for the right of all children to education.</q>
+</div>
+</article>
+<article class="laureate border-top" itemscope="" itemtype="http://schema.org/Person">
+<figure class="content-img">
+<a href="https://www.nobelprize.org/prizes/peace/1979/teresa/">
+<picture><source data-srcset="https://www.nobelprize.org/images/teresa-13873-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/teresa-13873-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/teresa-13873-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Mother Teresa "><noscript><img decoding="async" src="https://www.nobelprize.org/images/teresa-13873-portrait-medium.jpg" alt="Mother Teresa " /></noscript></picture> </a>
+</figure>
+<div class="content">
+<h4 itemprop="name">
+<a href="https://www.nobelprize.org/prizes/peace/1979/teresa/" title="Mother Teresa" itemprop="url">
+Mother Teresa </a>
+</h4>
+<span>
+<a href="https://www.nobelprize.org/prizes/peace/1979/teresa/">
+The Nobel Peace Prize 1979 </a>
+</span>
+<q itemscope="" itemtype="http://schema.org/Quotation">for her work for bringing help to suffering humanity.</q>
+</div>
+</article>
+<article class="laureate border-top" itemscope="" itemtype="http://schema.org/Person">
+<figure class="content-img">
+<a href="https://www.nobelprize.org/prizes/peace/1931/addams/">
+<picture><source data-srcset="https://www.nobelprize.org/images/addams-12977-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/addams-12977-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/addams-12977-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Jane Addams"><noscript><img decoding="async" src="https://www.nobelprize.org/images/addams-12977-portrait-medium.jpg" alt="Jane Addams" /></noscript></picture> </a>
+</figure>
+<div class="content">
+<h4 itemprop="name">
+<a href="https://www.nobelprize.org/prizes/peace/1931/addams/" title="Jane Addams" itemprop="url">
+Jane Addams </a>
+</h4>
+<span>
+<a href="https://www.nobelprize.org/prizes/peace/1931/addams/">
+The Nobel Peace Prize 1931 </a>
+</span>
+<q itemscope="" itemtype="http://schema.org/Quotation">for their assiduous effort to revive the ideal of peace and to rekindle the spirit of peace in their own nation and in the whole of mankind.</q>
+</div>
+</article>
+<article class="laureate border-top" itemscope="" itemtype="http://schema.org/Person">
+<figure class="content-img">
+<a href="https://www.nobelprize.org/prizes/peace/1993/mandela/">
+<picture><source data-srcset="https://www.nobelprize.org/images/mandela-13452-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/mandela-13452-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/mandela-13452-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Nelson Mandela"><noscript><img decoding="async" src="https://www.nobelprize.org/images/mandela-13452-portrait-medium.jpg" alt="Nelson Mandela" /></noscript></picture> </a>
+</figure>
+<div class="content">
+<h4 itemprop="name">
+<a href="https://www.nobelprize.org/prizes/peace/1993/mandela/" title="Nelson Rolihlahla Mandela" itemprop="url">
+Nelson Rolihlahla Mandela </a>
+</h4>
+<span>
+<a href="https://www.nobelprize.org/prizes/peace/1993/mandela/">
+The Nobel Peace Prize 1993 </a>
+</span>
+<q itemscope="" itemtype="http://schema.org/Quotation">for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa.</q>
+</div>
+</article>
+<article class="laureate border-top" itemscope="" itemtype="http://schema.org/Person">
+<figure class="content-img">
+<a href="https://www.nobelprize.org/prizes/peace/1992/tum/">
+<picture><source data-srcset="https://www.nobelprize.org/images/tum-13442-portrait-mini-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/tum-13442-portrait-small-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/tum-13442-portrait-medium-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Rigoberta Menchú Tum"><noscript><img decoding="async" src="https://www.nobelprize.org/images/tum-13442-portrait-medium.jpg" alt="Rigoberta Menchú Tum" /></noscript></picture> </a>
+</figure>
+<div class="content">
+<h4 itemprop="name">
+<a href="https://www.nobelprize.org/prizes/peace/1992/tum/" title="Rigoberta Menchú Tum" itemprop="url">
+Rigoberta Menchú Tum </a>
+</h4>
+<span>
+<a href="https://www.nobelprize.org/prizes/peace/1992/tum/">
+The Nobel Peace Prize 1992 </a>
+</span>
+<q itemscope="" itemtype="http://schema.org/Quotation">for her struggle for social justice and ethno-cultural reconciliation based on respect for the rights of indigenous peoples.</q>
+</div>
+</article>
+</section>
+<section class="article-grid featured-content featured-content__color--default var-one-third  " style="margin-bottom: 107px;">
+<header class="section-header border-top">
+<h3 class="section-header-h3">Discover more</h3>
 </header>
 <article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -one-third">
 <div class="content-wrapper">
 <header class="content">
-<div class="subtitle">Nobel Prize Museum, Stockholm</div>
 <div class="title">
 <h2 class="headline h3" itemprop="headline">
-<a href="https://nobelprizemuseum.se/en/now-and-then-a-small-exhibition-about-measuring-and-experiencing-time/" target="_blank">
-Then, Now, Later </a>
+<a href="https://www.nobelprize.org/questions-and-answers-on-the-nobel-peace-prize/">
+Interesting facts about the peace prize </a>
 </h2>
 </div>
 </header>
 <div class="text">
-This exhibition presents a small selection of Nobel Prize laureates in physics and literature, who have explored time in various ways. </div>
+<p>An interview with Olav Njølstad, Director of the Norwegian Nobel Institute, about the Nobel Peace Prize.</p>
+</div>
 </div>
 <figure class="featuredimage">
-<a href="https://nobelprizemuseum.se/en/now-and-then-a-small-exhibition-about-measuring-and-experiencing-time/" target="_blank"><picture><source data-srcset="https://www.nobelprize.org/images/158407-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/158407-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/158407-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="THEN, NOW, LATER (7)"><noscript><img decoding="async" src="https://www.nobelprize.org/images/158407-landscape-x-large.jpg" alt="THEN, NOW, LATER (7)" /></noscript></picture></a> </figure>
+<a href="https://www.nobelprize.org/questions-and-answers-on-the-nobel-peace-prize/"><picture><source data-srcset="https://www.nobelprize.org/images/53460-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/53460-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/53460-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Nobel Peace Prize 2017 047"><noscript><img decoding="async" src="https://www.nobelprize.org/images/53460-landscape-x-large.jpg" alt="Nobel Peace Prize 2017 047" /></noscript></picture></a><figcaption class="figcaption"><p class="figcaption__caption">Director of the Norwegian Nobel Institute and secretary of the Norwegian Nobel Committee Olav Njølstad.</p> <p class="figcaption__attribution">© Nobel Media. Photo: Ken Opprann</p></figcaption> </figure>
 </article>
 <article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -one-third">
 <div class="content-wrapper">
 <header class="content">
-<div class="subtitle">Nobel Prize Museum, Stockholm</div>
 <div class="title">
 <h2 class="headline h3" itemprop="headline">
-<a href="https://nobelprizemuseum.se/en/these-things-changed-the-world/" target="_blank">
-These things changed the world </a>
+<a href="https://www.nobelprize.org/nobel_prizes/themes/peace/libaek/index.html">
+A three-time awardee </a>
 </h2>
 </div>
 </header>
 <div class="text">
-For the first time, the Nobel Prize Museum is displaying a large selection of items from its collection of artefacts from Nobel Prize laureates.&nbsp; </div>
+<p>The Red Cross has been awarded three times – read about the work of the organization.</p>
+</div>
 </div>
 <figure class="featuredimage">
-<a href="https://nobelprizemuseum.se/en/these-things-changed-the-world/" target="_blank"><picture><source data-srcset="https://www.nobelprize.org/uploads/2024/05/Sakerna-som-förändrar-världen-10-992x656.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2024/05/Sakerna-som-förändrar-världen-10-1520x1008.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2024/05/Sakerna-som-förändrar-världen-10-2048x1352.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Museum insides"><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2024/05/Sakerna-som-förändrar-världen-10-1024x676.jpg" alt="Museum insides" /></noscript></picture></a> </figure>
+<a href="https://www.nobelprize.org/nobel_prizes/themes/peace/libaek/index.html"><picture><source data-srcset="https://www.nobelprize.org/images/4821-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/4821-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/4821-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Red Cross - Armband"><noscript><img decoding="async" src="https://www.nobelprize.org/images/4821-landscape-x-large.jpg" alt="Red Cross - Armband" /></noscript></picture></a><figcaption class="figcaption"><p class="figcaption__caption">Armlet for the Red Cross. </p> <p class="figcaption__attribution">Photo: Nobel Prize Museum</p></figcaption> </figure>
 </article>
 <article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -one-third">
 <div class="content-wrapper">
 <header class="content">
-<div class="subtitle">Nobel Peace Center, Oslo</div>
 <div class="title">
 <h2 class="headline h3" itemprop="headline">
-<a href="https://www.nobelpeacecenter.org/en/exhibitions/the-medal-chamber" target="_blank">
-The Medal Chamber </a>
+<a href="https://www.nobelprize.org/prizes/peace/2014/yousafzai/lecture/">
+Fighting for the rights of all children </a>
 </h2>
 </div>
 </header>
 <div class="text">
-The Nobel Peace Prize medal is shown in all its glory in the Medal Chamber. Here, visitors can experience the world’s foremost symbol of peace. </div>
+<p>See Malala Yousafzai’s Nobel lecture about the work done for children’s education.</p>
+</div>
 </div>
 <figure class="featuredimage">
-<a href="https://www.nobelpeacecenter.org/en/exhibitions/the-medal-chamber" target="_blank"><picture><source data-srcset="https://www.nobelprize.org/images/122996-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/122996-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/122996-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="NPC Medalje - presse 28"><noscript><img decoding="async" src="https://www.nobelprize.org/images/122996-landscape-x-large.jpg" alt="NPC Medalje - presse 28" /></noscript></picture></a> </figure>
+<a href="https://www.nobelprize.org/prizes/peace/2014/yousafzai/lecture/"><picture><source data-srcset="https://www.nobelprize.org/uploads/2020/09/Malala_Yousafzai_Foto_Ken_Opprann-1-768x1024-1-768x656.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2020/09/Malala_Yousafzai_Foto_Ken_Opprann-1-768x1024-1-768x1008.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2020/09/Malala_Yousafzai_Foto_Ken_Opprann-1-768x1024-1.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Malala Yousafzai"><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2020/09/Malala_Yousafzai_Foto_Ken_Opprann-1-768x1024-1-768x676.jpg" alt="Malala Yousafzai" /></noscript></picture></a><figcaption class="figcaption"><p class="figcaption__attribution">Photo: Ken Opprann</p></figcaption> </figure>
 </article>
 </section>
 <section class="newsletter-signup">
@@ -1210,273 +961,6 @@ Check this box if you are a robot. </label>
 </label>
 </form>
 </div>
-</section>
-<section class="queried-content-block">
-<div class="container">
-<header class="block-separator queried-content-block__separator">
-<h2 class="block-separator__title">
-Play and learn </h2>
-<div class="block-separator__content">
-</div>
-</header>
-<ul class="is-grid-layout is-grid-layout--4">
-<li class="grid-item">
-<article class="content-item is-card-style has-link">
-<div class="content-item__content-wrapper">
-<div class="content-item__content-container">
-<div class="content-item__content-body">
-<header class="content-item__header">
-<h2 class="content-item__title">
-<a href="https://educationalgames.nobelprize.org/educational/medicine/bloodtypinggame/" class="content-item__title-link" target="_blank" rel="">
-The Blood Typing Game </a>
-</h2>
-</header>
-<p class="content-item__excerpt ">
-How much do you know about blood types? Try out in this game. </p>
-</div>
-</div>
-<div class="content-item__media-container">
-<figure class="content-media">
-<div class="content-media__wrapper">
-<div class="content-media__inner">
-<picture class="content-media__image"><source data-srcset="https://www.nobelprize.org/uploads/2021/06/blood-typing-banner-3_2-640x424.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2021/06/blood-typing-banner-3_2-992x656.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2021/06/blood-typing-banner-3_2-1520x1008.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Blood typing game"><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2021/06/blood-typing-banner-3_2-760x504.jpg" alt="Blood typing game" /></noscript></picture> </div>
-</div>
-</figure>
-</div>
-</div>
-</article>
-</li>
-<li class="grid-item">
-<article class="content-item is-card-style has-link">
-<div class="content-item__content-wrapper">
-<div class="content-item__content-container">
-<div class="content-item__content-body">
-<header class="content-item__header">
-<h2 class="content-item__title">
-<a href="https://educationalgames.nobelprize.org/educational/medicine/pavlov/index.php" class="content-item__title-link" target="_blank" rel="">
-Pavlov’s Dog </a>
-</h2>
-</header>
-<p class="content-item__excerpt ">
-Learn about conditioned reflexes in this interactive game! </p>
-</div>
-</div>
-<div class="content-item__media-container">
-<figure class="content-media">
-<div class="content-media__wrapper">
-<div class="content-media__inner">
-<picture class="content-media__image"><source data-srcset="https://www.nobelprize.org/uploads/2021/06/pavlovs-dog-game.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2021/06/pavlovs-dog-game.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2021/06/pavlovs-dog-game.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Pavlov&#39;s Dog Game"><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2021/06/pavlovs-dog-game.jpg" alt="Pavlov's Dog Game" /></noscript></picture> </div>
-</div>
-</figure>
-</div>
-</div>
-</article>
-</li>
-<li class="grid-item">
-<article class="content-item is-card-style has-link">
-<div class="content-item__content-wrapper">
-<div class="content-item__content-container">
-<div class="content-item__content-body">
-<header class="content-item__header">
-<h2 class="content-item__title">
-<a href="https://educationalgames.nobelprize.org/educational/medicine/vitamin_b1/" class="content-item__title-link" target="_blank" rel="">
-Vitamin B1 </a>
-</h2>
-</header>
-<p class="content-item__excerpt ">
-This fast-paced game relies on a keen knowledge of food containing vitamin B1 </p>
-</div>
-</div>
-<div class="content-item__media-container">
-<figure class="content-media">
-<div class="content-media__wrapper">
-<div class="content-media__inner">
-<picture class="content-media__image"><source data-srcset="https://www.nobelprize.org/uploads/2022/02/vitamin-b1-640x424.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2022/02/vitamin-b1.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2022/02/vitamin-b1.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Vitamin B1 educational game"><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2022/02/vitamin-b1.jpg" alt="Vitamin B1 educational game" /></noscript></picture> </div>
-</div>
-</figure>
-</div>
-</div>
-</article>
-</li>
-<li class="grid-item">
-<article class="content-item is-card-style has-link">
-<div class="content-item__content-wrapper">
-<div class="content-item__content-container">
-<div class="content-item__content-body">
-<header class="content-item__header">
-<h2 class="content-item__title">
-<a href="https://www.nobelpeacecenter.org/en/education/minecraft/peace-builders" class="content-item__title-link" target="_blank" rel="">
-Peace Builders </a>
-</h2>
-</header>
-<p class="content-item__excerpt ">
-Step into the shoes of a Nobel Peace Prize laureate and learn about the legacy of Alfred Nobel </p>
-</div>
-</div>
-<div class="content-item__media-container">
-<figure class="content-media">
-<div class="content-media__wrapper">
-<div class="content-media__inner">
-<picture class="content-media__image"><source data-srcset="https://www.nobelprize.org/uploads/2022/08/minecraft-peacebuilders-640x424.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2022/08/minecraft-peacebuilders.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2022/08/minecraft-peacebuilders.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Minecraft peacebuilders"><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2022/08/minecraft-peacebuilders.jpg" alt="Minecraft peacebuilders" /></noscript></picture> </div>
-</div>
-</figure>
-</div>
-</div>
-</article>
-</li>
-</ul>
-</div>
-</section>
-<section class="search-form" itemscope="" itemtype="http://schema.org/WebSite">
-
-<header class="heading">
-<h3>
-<p style="text-align: center">What are you looking for? Search the website.
-</p> </h3>
-</header>
-<form class="form searchform" name="" method="GET" action="#" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction">
-<meta itemprop="target" content="#">
-<label for="nobel-search-js" class="screen-reader-text">
-Search Nobel </label>
-<div class="inputwrapper">
-<input id="nobel-search-js" itemprop="query-input" class="searchinput" type="search" name="s" placeholder="Search">
-<button class="searchsubmit" type="submit">
-<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="searchform-title searchform-desc">
-<title id="searchform-title">Search</title>
-<desc id="searchform-desc">Search Nobel Button</desc>
-<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-<g transform="translate(-942.000000, -159.000000)">
-<g transform="translate(942.000000, 159.000000)">
-<rect fill="#0182C9" transform="translate(16.000000, 16.000000) rotate(-45.000000) translate(-16.000000, -16.000000) " x="15" y="12" width="2" height="8"></rect>
-<circle stroke="#0182C9" stroke-width="2" cx="8" cy="8" r="7"></circle>
-</g>
-</g>
-</g>
-</svg>
-</button>
-</div>
-</form>
-</section>
-<section class="social-media-block">
-<header class="block-separator">
-<h2 class="block-separator__title">
-More to explore </h2>
-<div class="block-separator__content">
-<a class="block-separator__link" href="https://www.instagram.com/nobelprize_org" target="_blank">
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32"><path fill="#CC9B40" d="M19.63 7.253a6.4 6.4 0 0 1 2.134.41 4.3 4.3 0 0 1 1.56 1.014c.45.438.794.972 1.013 1.56.256.681.392 1.405.41 2.134.041.937.053 1.24.053 3.629s-.012 2.692-.053 3.63a6.4 6.4 0 0 1-.41 2.134 4.3 4.3 0 0 1-1.014 1.56 4.3 4.3 0 0 1-1.56 1.013 6.4 6.4 0 0 1-2.134.41c-.937.041-1.24.053-3.629.053s-2.692-.012-3.63-.053a6.4 6.4 0 0 1-2.134-.41 4.3 4.3 0 0 1-1.56-1.014 4.25 4.25 0 0 1-1.013-1.56 6.4 6.4 0 0 1-.41-2.134C7.212 18.692 7.2 18.39 7.2 16s.012-2.692.053-3.63a6.6 6.6 0 0 1 .41-2.134 4.3 4.3 0 0 1 1.014-1.56 4.25 4.25 0 0 1 1.56-1.013 6.6 6.6 0 0 1 2.134-.41C13.308 7.212 13.61 7.2 16 7.2s2.692.012 3.63.053m-.072 15.91a4.9 4.9 0 0 0 1.637-.302c.38-.142.729-.368 1.014-.658a2.8 2.8 0 0 0 .658-1.014c.196-.522.296-1.08.302-1.637.042-.93.054-1.204.054-3.558s-.012-2.627-.054-3.558a4.9 4.9 0 0 0-.302-1.636 2.8 2.8 0 0 0-.658-1.015 2.75 2.75 0 0 0-1.014-.658 4.8 4.8 0 0 0-1.637-.302c-.931-.042-1.204-.054-3.558-.054s-2.627.006-3.558.054a4.9 4.9 0 0 0-1.637.302 2.8 2.8 0 0 0-1.014.658c-.29.285-.515.63-.658 1.014a4.8 4.8 0 0 0-.302 1.637c-.042.931-.054 1.204-.054 3.558s.006 2.627.054 3.558c.006.558.107 1.109.302 1.637.143.38.368.73.658 1.014.285.29.629.516 1.014.658.522.196 1.08.296 1.637.302.925.042 1.204.054 3.558.054s2.627-.006 3.558-.054M20.364 16A4.373 4.373 0 0 1 16 20.37a4.364 4.364 0 0 1-4.364-4.364A4.373 4.373 0 0 1 16 11.636 4.357 4.357 0 0 1 20.364 16m-1.53 0a2.835 2.835 0 1 0-5.669 0 2.835 2.835 0 0 0 5.67 0Zm-6.416 4.673a1.097 1.097 0 0 1-2.194 0c0-.605.487-1.091 1.091-1.091.611 0 1.103.492 1.103 1.09q0 .01 0 0Z"></path></svg> Follow us on Instagram </a>
-</div>
-</header>
-<ul class="social-media-block__list">
-<li class="social-media-block__list-item">
-<a href="https://www.instagram.com/p/DATV9OLOCj8/" class="social-media-block__link" target="_blank" rel="noreferrer">
-<img class="social-media-block__image" src="./index_files/461311628_403492822526891_3165605466903901013_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
-</li>
-<li class="social-media-block__list-item">
-<a href="https://www.instagram.com/reel/DASnjNNqtKE/" class="social-media-block__link" target="_blank" rel="noreferrer">
-<img class="social-media-block__image" src="./index_files/461090404_1498652124166983_7111286669275313806_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
-</li>
-<li class="social-media-block__list-item">
-<a href="https://www.instagram.com/reel/DAQ4AvItHS4/" class="social-media-block__link" target="_blank" rel="noreferrer">
-<img class="social-media-block__image" src="./index_files/461063109_2236742586710015_7491873715032744969_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
-</li>
-<li class="social-media-block__list-item">
-<a href="https://www.instagram.com/reel/DAQJrSrJeaT/" class="social-media-block__link" target="_blank" rel="noreferrer">
-<img class="social-media-block__image" src="./index_files/461178971_3074556416020444_8537818301965637502_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
-</li>
-<li class="social-media-block__list-item">
-<a href="https://www.instagram.com/reel/DAN1b3uCie0/" class="social-media-block__link" target="_blank" rel="noreferrer">
-<img class="social-media-block__image" src="./index_files/460935463_1709379826561391_8120626289732114742_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
-</li>
-<li class="social-media-block__list-item">
-<a href="https://www.instagram.com/p/DANqIxuOPwX/" class="social-media-block__link" target="_blank" rel="noreferrer">
-<img class="social-media-block__image" src="./index_files/460738061_877175161177266_3467284189588977102_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
-</li>
-<li class="social-media-block__list-item">
-<a href="https://www.instagram.com/p/DALx-SstU7t/" class="social-media-block__link" target="_blank" rel="noreferrer">
-<img class="social-media-block__image" src="./index_files/460830034_1628180621446029_732936151338922309_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
-</li>
-<li class="social-media-block__list-item">
-<a href="https://www.instagram.com/p/DALKahpuxAx/" class="social-media-block__link" target="_blank" rel="noreferrer">
-<img class="social-media-block__image" src="./index_files/460851605_1302755717799771_6162207046540142409_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
-</li>
-</ul>
-</section>
-<section class="article-grid featured-content featured-content__color--default var-one-fourth-a  ">
-<header class="section-header border-top">
-<h3 class="section-header-h3">In memoriam</h3>
-</header>
-<article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -one-fourth">
-<div class="content-wrapper">
-<header class="content">
-<div class="title">
-<h2 class="headline h3" itemprop="headline">
-<a href="https://www.nobelprize.org/prizes/physics/1957/lee/facts/">
-Physicist Tsung-Dao Lee dies </a>
-</h2>
-</div>
-</header>
-<div class="text">
-Tsung Dao Lee passed away on 4 August, age 97. He was awarded the Nobel Prize in Physics 1957 for his “penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles.”<br><br><a href="https://www.nobelprize.org/prizes/physics/1957/lee/biographical/">Biography</a> </div>
-</div>
-<figure class="featuredimage">
-<a href="https://www.nobelprize.org/prizes/physics/1957/lee/facts/"><picture><source data-srcset="https://www.nobelprize.org/images/lee-13121-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/lee-13121-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/lee-13121-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Tsung-Dao (T.D.) Lee"><noscript><img decoding="async" src="https://www.nobelprize.org/images/lee-13121-landscape-x-large.jpg" alt="Tsung-Dao (T.D.) Lee" /></noscript></picture></a> </figure>
-</article>
-<article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -one-fourth">
-<div class="content-wrapper">
-<header class="content">
-<div class="title">
-<h2 class="headline h3" itemprop="headline">
-<a href="https://www.nobelprize.org/prizes/medicine/2005/warren/facts/">
-J. Robin Warren passes away aged 87 </a>
-</h2>
-</div>
-</header>
-<div class="text">
-J. Robin Warren passed away on 23 July 2024. He was awarded the 2005 Nobel Prize in Physiology or Medicine for the discovery of the bacterium&nbsp;<em>Helicobacter pylori</em>&nbsp;and its role in gastritis and peptic ulcer disease<br><br><a href="https://www.nobelprize.org/prizes/medicine/2005/warren/biographical/">Biography</a><br> </div>
-</div>
-<figure class="featuredimage">
-<a href="https://www.nobelprize.org/prizes/medicine/2005/warren/facts/"><picture><source data-srcset="https://www.nobelprize.org/images/warren-13711-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/warren-13711-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/warren-13711-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Robin Warren"><noscript><img decoding="async" src="https://www.nobelprize.org/images/warren-13711-landscape-x-large.jpg" alt="Robin Warren" /></noscript></picture></a> </figure>
-</article>
-<article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -one-fourth">
-<div class="content-wrapper">
-<header class="content">
-<div class="title">
-<h2 class="headline h3" itemprop="headline">
-<a href="https://www.nobelprize.org/prizes/medicine/1982/samuelsson/facts/">
-Bengt Samuelsson 1934‒2024 </a>
-</h2>
-</div>
-</header>
-<div class="text">
-Bengt Samuelsson passed away on 5 July 2024, age 90. He was awarded the 1982 Nobel Prize in Physiology or Medicine for discoveries concerning prostaglandins and related biologically active substances.<br><br><a href="https://www.nobelprize.org/prizes/medicine/1982/samuelsson/biographical/">Biography</a> </div>
-</div>
-<figure class="featuredimage">
-<a href="https://www.nobelprize.org/prizes/medicine/1982/samuelsson/facts/"><picture><source data-srcset="https://www.nobelprize.org/images/samuelsson-13347-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/samuelsson-13347-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/samuelsson-13347-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Bengt I. Samuelsson"><noscript><img decoding="async" src="https://www.nobelprize.org/images/samuelsson-13347-landscape-x-large.jpg" alt="Bengt I. Samuelsson" /></noscript></picture></a> </figure>
-</article>
-<article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -one-fourth">
-<div class="content-wrapper">
-<header class="content">
-<div class="title">
-<h2 class="headline h3" itemprop="headline">
-<a href="https://www.nobelprize.org/prizes/literature/2013/munro/facts/">
-Alice Munro dies aged 92 </a>
-</h2>
-</div>
-</header>
-<div class="text">
-Canadian author Alice Munro passed away on 15 May 2024. She was awarded the Nobel Prize in Literature 2013 with the motivation “master of the contemporary short story”.<br><a href="https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/"><br></a><a href="https://www.nobelprize.org/prizes/literature/2013/munro/biographical/">Biography</a><br> </div>
-</div>
-<figure class="featuredimage">
-<a href="https://www.nobelprize.org/prizes/literature/2013/munro/facts/"><picture><source data-srcset="https://www.nobelprize.org/images/munro-15184-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/munro-15184-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/munro-15184-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Alice Munro"><noscript><img decoding="async" src="https://www.nobelprize.org/images/munro-15184-landscape-x-large.jpg" alt="Alice Munro" /></noscript></picture></a> </figure>
-</article>
 </section>
 </div>
 </main>
@@ -1559,27 +1043,27 @@ Copyright © Nobel Prize Outreach AB 2024 </div>
 					window.lazySizesConfig = window.lazySizesConfig || {};
 					window.lazySizesConfig.pictureRenderer = '1.1';
 					window.lazySizesConfig.customMedia = {"--small":"(min-width: 220px)","--medium":"(min-width: 900px)","--large":"(min-width: 1400px)","mobile":"(min-width: 220px)","tablet":"(min-width: 900px)","desktop":"(min-width: 1400px)"};
-				</script><script type="text/javascript" src="./index_files/frontend.js.tải xuống" id="nobelprize_block_library_frontend-js"></script>
-<script type="text/javascript" src="./index_files/frontend(1).js.tải xuống" id="frontend-js"></script>
-<script type="text/javascript" src="./index_files/ls.bgset.min.js.tải xuống" id="lazy-sizes-bg-set-js"></script>
-<script type="text/javascript" src="./index_files/lazysizes.min.js.tải xuống" id="lazy-sizes-js"></script>
-<script type="text/javascript" src="./index_files/ls.object-fit.min.js.tải xuống" id="lazy-sizes-object-fit-js"></script>
-<script type="text/javascript" src="./index_files/flickity.pkgd.js.tải xuống" id="flickity-js"></script>
-<script type="text/javascript" src="./index_files/clamp.min.js.tải xuống" id="clamp-js"></script>
-<script type="text/javascript" src="./index_files/e-202439.js.tải xuống" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+				</script><script type="text/javascript" src="./peace_files/frontend.js.tải xuống" id="nobelprize_block_library_frontend-js"></script>
+<script type="text/javascript" src="./peace_files/frontend(1).js.tải xuống" id="frontend-js"></script>
+<script type="text/javascript" src="./peace_files/ls.bgset.min.js.tải xuống" id="lazy-sizes-bg-set-js"></script>
+<script type="text/javascript" src="./peace_files/lazysizes.min.js.tải xuống" id="lazy-sizes-js"></script>
+<script type="text/javascript" src="./peace_files/ls.object-fit.min.js.tải xuống" id="lazy-sizes-object-fit-js"></script>
+<script type="text/javascript" src="./peace_files/flickity.pkgd.js.tải xuống" id="flickity-js"></script>
+<script type="text/javascript" src="./peace_files/clamp.min.js.tải xuống" id="clamp-js"></script>
+<script type="text/javascript" src="./peace_files/e-202439.js.tải xuống" id="jetpack-stats-js" data-wp-strategy="defer"></script>
 <script type="text/javascript" id="jetpack-stats-js-after">
 /* <![CDATA[ */
 _stq = window._stq || [];
-_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"197939892\",\"post\":\"219574\",\"tz\":\"2\",\"srv\":\"www.nobelprize.org\",\"j\":\"1:13.6\"}") ]);
-_stq.push([ "clickTrackerInit", "197939892", "219574" ]);
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"197939892\",\"post\":\"0\",\"tz\":\"2\",\"srv\":\"www.nobelprize.org\",\"j\":\"1:13.6\"}") ]);
+_stq.push([ "clickTrackerInit", "197939892", "0" ]);
 /* ]]> */
-</script><img src="./index_files/g.gif" alt="" width="6" height="5" id="wpstats">
-<script type="text/javascript" src="./index_files/jquery.min.js.tải xuống" id="jquery-core-js"></script>
-<script type="text/javascript" src="./index_files/jquery-migrate.min.js.tải xuống" id="jquery-migrate-js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.eu01.nr-data.net","licenseKey":"NRJS-0940f7eaf4cb46e1cfe","applicationID":"212354543","transactionName":"MhBSZQoZXUZZB0UMCwtac0QLDFxYFyJDCgoRVWBQHx0=","queueTime":0,"applicationTime":242,"atts":"HldFE0IDThkaBRNfHxgI","errorBeacon":"bam.eu01.nr-data.net","agent":""}</script>
+</script><img src="./peace_files/g.gif" alt="" width="6" height="5" id="wpstats">
+<script type="text/javascript" src="./peace_files/jquery.min.js.tải xuống" id="jquery-core-js"></script>
+<script type="text/javascript" src="./peace_files/jquery-migrate.min.js.tải xuống" id="jquery-migrate-js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.eu01.nr-data.net","licenseKey":"NRJS-0940f7eaf4cb46e1cfe","applicationID":"212354543","transactionName":"MhBSZQoZXUZZB0UMCwtac0QLDFxYFyZdCgNFJVFWHQ==","queueTime":0,"applicationTime":228,"atts":"HldFE0IDThkaBRNfHxgI","errorBeacon":"bam.eu01.nr-data.net","agent":""}</script>
 
 
-<script type="text/javascript" src="chrome-extension://bcgbghlhkkhcimckjabgomapgommajen/customScript.bundle.js"></script><div id="onetrust-consent-sdk" data-nosnippet="true"><div class="onetrust-pc-dark-filter ot-hide ot-fade-in"></div><div id="onetrust-pc-sdk" class="otPcCenter ot-hide ot-fade-in" lang="en" aria-label="Preference center" role="region"><div role="dialog" aria-modal="true" style="height: 100%;" aria-label="Privacy Preference Center"><!-- Close Button --><div class="ot-pc-header"><!-- Logo Tag --><div class="ot-pc-logo" role="img" aria-label="Company Logo"><img alt="Company Logo" src="./index_files/ot_company_logo.png"></div><button id="close-pc-btn-handler" class="ot-close-icon" aria-label="Close" style="background-image: url(&quot;https://cdn.cookielaw.org/logos/static/ot_close.svg&quot;);"></button></div><!-- Close Button --><div id="ot-pc-content" class="ot-pc-scrollbar"><div class="ot-optout-signal ot-hide"><div class="ot-optout-icon"><svg xmlns="http://www.w3.org/2000/svg"><path class="ot-floating-button__svg-fill" d="M14.588 0l.445.328c1.807 1.303 3.961 2.533 6.461 3.688 2.015.93 4.576 1.746 7.682 2.446 0 14.178-4.73 24.133-14.19 29.864l-.398.236C4.863 30.87 0 20.837 0 6.462c3.107-.7 5.668-1.516 7.682-2.446 2.709-1.251 5.01-2.59 6.906-4.016zm5.87 13.88a.75.75 0 00-.974.159l-5.475 6.625-3.005-2.997-.077-.067a.75.75 0 00-.983 1.13l4.172 4.16 6.525-7.895.06-.083a.75.75 0 00-.16-.973z" fill="#FFF" fill-rule="evenodd"></path></svg></div><span></span></div><h2 id="ot-pc-title">Privacy Preference Center</h2><div id="ot-pc-desc">When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+<script type="text/javascript" src="chrome-extension://bcgbghlhkkhcimckjabgomapgommajen/customScript.bundle.js"></script><div id="onetrust-consent-sdk" data-nosnippet="true"><div class="onetrust-pc-dark-filter ot-hide ot-fade-in"></div><div id="onetrust-pc-sdk" class="otPcCenter ot-hide ot-fade-in" lang="en" aria-label="Preference center" role="region"><div role="dialog" aria-modal="true" style="height: 100%;" aria-label="Privacy Preference Center"><!-- Close Button --><div class="ot-pc-header"><!-- Logo Tag --><div class="ot-pc-logo" role="img" aria-label="Company Logo"><img alt="Company Logo" src="./peace_files/ot_company_logo.png"></div><button id="close-pc-btn-handler" class="ot-close-icon" aria-label="Close" style="background-image: url(&quot;https://cdn.cookielaw.org/logos/static/ot_close.svg&quot;);"></button></div><!-- Close Button --><div id="ot-pc-content" class="ot-pc-scrollbar"><div class="ot-optout-signal ot-hide"><div class="ot-optout-icon"><svg xmlns="http://www.w3.org/2000/svg"><path class="ot-floating-button__svg-fill" d="M14.588 0l.445.328c1.807 1.303 3.961 2.533 6.461 3.688 2.015.93 4.576 1.746 7.682 2.446 0 14.178-4.73 24.133-14.19 29.864l-.398.236C4.863 30.87 0 20.837 0 6.462c3.107-.7 5.668-1.516 7.682-2.446 2.709-1.251 5.01-2.59 6.906-4.016zm5.87 13.88a.75.75 0 00-.974.159l-5.475 6.625-3.005-2.997-.077-.067a.75.75 0 00-.983 1.13l4.172 4.16 6.525-7.895.06-.083a.75.75 0 00-.16-.973z" fill="#FFF" fill-rule="evenodd"></path></svg></div><span></span></div><h2 id="ot-pc-title">Privacy Preference Center</h2><div id="ot-pc-desc">When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
             <br><a href="https://cookiepedia.co.uk/giving-consent-to-cookies" class="privacy-notice-link" rel="noopener" target="_blank" aria-label="More information about your privacy, opens in a new tab">More information</a></div><button id="accept-recommended-btn-handler">Allow All</button><section class="ot-sdk-row ot-cat-grp"><h3 id="ot-category-title"> Manage Consent Preferences</h3><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0004"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-C0004" aria-labelledby="ot-header-id-C0004"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0004">Targeting Cookies</h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-C0004" id="ot-group-id-C0004" role="switch" class="category-switch-handler" data-optanongroupid="C0004" checked="" aria-labelledby="ot-header-id-C0004"> <label class="ot-switch" for="ot-group-id-C0004"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Targeting Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0004">These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0003"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-C0003" aria-labelledby="ot-header-id-C0003"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0003">Functional Cookies</h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-C0003" id="ot-group-id-C0003" role="switch" class="category-switch-handler" data-optanongroupid="C0003" checked="" aria-labelledby="ot-header-id-C0003"> <label class="ot-switch" for="ot-group-id-C0003"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Functional Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0003">These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0002"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-C0002" aria-labelledby="ot-header-id-C0002"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0002">Performance Cookies</h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-C0002" id="ot-group-id-C0002" role="switch" class="category-switch-handler" data-optanongroupid="C0002" checked="" aria-labelledby="ot-header-id-C0002"> <label class="ot-switch" for="ot-group-id-C0002"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Performance Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0002">These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0001"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-C0001" aria-labelledby="ot-header-id-C0001 ot-status-id-C0001"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0001">Strictly Necessary Cookies</h4><div id="ot-status-id-C0001" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0001">These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p></div></div><!-- Groups sections starts --><!-- Group section ends --><!-- Accordion Group section starts --><!-- Accordion Group section ends --></section></div><section id="ot-pc-lst" class="ot-hide ot-hosts-ui ot-pc-scrollbar"><div id="ot-pc-hdr"><div id="ot-lst-title"><button class="ot-link-btn back-btn-handler" aria-label="Back"><svg id="ot-back-arw" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 444.531 444.531" xml:space="preserve"><title>Back Button</title><g><path fill="#656565" d="M213.13,222.409L351.88,83.653c7.05-7.043,10.567-15.657,10.567-25.841c0-10.183-3.518-18.793-10.567-25.835
                     l-21.409-21.416C323.432,3.521,314.817,0,304.637,0s-18.791,3.521-25.841,10.561L92.649,196.425
                     c-7.044,7.043-10.566,15.656-10.566,25.841s3.521,18.791,10.566,25.837l186.146,185.864c7.05,7.043,15.66,10.564,25.841,10.564
@@ -1590,4 +1074,4 @@ _stq.push([ "clickTrackerInit", "197939892", "219574" ]);
             s-17-7.626-17-17S14.61,6,23.984,6z"></path></svg></div><div class="ot-fltr-cntr"><button id="filter-btn-handler" aria-label="Filter" aria-haspopup="true"><svg role="presentation" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 402.577 402.577" xml:space="preserve"><title>Filter Icon</title><g><path fill="#fff" d="M400.858,11.427c-3.241-7.421-8.85-11.132-16.854-11.136H18.564c-7.993,0-13.61,3.715-16.846,11.136
       c-3.234,7.801-1.903,14.467,3.999,19.985l140.757,140.753v138.755c0,4.955,1.809,9.232,5.424,12.854l73.085,73.083
       c3.429,3.614,7.71,5.428,12.851,5.428c2.282,0,4.66-0.479,7.135-1.43c7.426-3.238,11.14-8.851,11.14-16.845V172.166L396.861,31.413
-      C402.765,25.895,404.093,19.231,400.858,11.427z"></path></g></svg></button></div><div id="ot-anchor"></div><section id="ot-fltr-modal"><div id="ot-fltr-cnt"><button id="clear-filters-handler">Clear</button><div class="ot-fltr-scrlcnt ot-pc-scrollbar"><div class="ot-fltr-opts"><div class="ot-fltr-opt"><div class="ot-chkbox"><input id="chkbox-id" type="checkbox" class="category-filter-handler"> <label for="chkbox-id"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div></div></div><div class="ot-fltr-btns"><button id="filter-apply-handler">Apply</button> <button id="filter-cancel-handler">Cancel</button></div></div></div></section></div></div><section id="ot-lst-cnt" class="ot-host-cnt ot-pc-scrollbar"><div id="ot-sel-blk"><div class="ot-sel-all"><div class="ot-sel-all-hdr"><span class="ot-consent-hdr">Consent</span> <span class="ot-li-hdr">Leg.Interest</span></div><div class="ot-sel-all-chkbox"><div class="ot-chkbox" id="ot-selall-hostcntr"><input id="select-all-hosts-groups-handler" type="checkbox"> <label for="select-all-hosts-groups-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div><div class="ot-chkbox" id="ot-selall-vencntr"><input id="select-all-vendor-groups-handler" type="checkbox"> <label for="select-all-vendor-groups-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div><div class="ot-chkbox" id="ot-selall-licntr"><input id="select-all-vendor-leg-handler" type="checkbox"> <label for="select-all-vendor-leg-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div></div></div></div><div class="ot-sdk-row"><div class="ot-sdk-column"></div></div></section></section><div class="ot-pc-footer ot-pc-scrollbar"><div class="ot-btn-container"> <button class="save-preference-btn-handler onetrust-close-btn-handler">Confirm My Choices</button></div><!-- Footer logo --><div class="ot-pc-footer-logo"><a href="https://www.onetrust.com/products/cookie-consent/" target="_blank" rel="noopener noreferrer" aria-label="Powered by OneTrust Opens in a new Tab"><img alt="Powered by Onetrust" src="./index_files/powered_by_logo.svg" title="Powered by OneTrust Opens in a new Tab"></a></div></div><!-- Cookie subgroup container --><!-- Vendor list link --><!-- Cookie lost link --><!-- Toggle HTML element --><!-- Checkbox HTML --><!-- plus minus--><!-- Arrow SVG element --><!-- Accordion basic element --><span class="ot-scrn-rdr" aria-atomic="true" aria-live="polite"></span><!-- Vendor Service container and item template --></div><iframe class="ot-text-resize" sandbox="allow-same-origin" title="onetrust-text-resize" style="position: absolute; top: -50000px; width: 100em;" aria-hidden="true" src="./index_files/saved_resource.html"></iframe></div><div id="ot-sdk-btn-floating" class="ot-floating-button" data-title="Cookies settings"><div class="ot-floating-button__front custom-persistent-icon"><button type="button" class="ot-floating-button__open" aria-label="Open Preferences"></button></div><div class="ot-floating-button__back custom-persistent-icon"><button type="button" class="ot-floating-button__close" aria-label="Close Preferences" aria-hidden="true" style="display: none;"><!--?xml version="1.0" encoding="UTF-8"?--> <svg role="presentation" tabindex="-1" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Banner_02" class="ot-floating-button__svg-fill" transform="translate(-318.000000, -725.000000)" fill="#ffffff" fill-rule="nonzero"><g id="Group-2" transform="translate(305.000000, 712.000000)"><g id="icon/16px/white/close"><polygon id="Line1" points="13.3333333 14.9176256 35.0823744 36.6666667 36.6666667 35.0823744 14.9176256 13.3333333"></polygon><polygon id="Line2" transform="translate(25.000000, 25.000000) scale(-1, 1) translate(-25.000000, -25.000000) " points="13.3333333 14.9176256 35.0823744 36.6666667 36.6666667 35.0823744 14.9176256 13.3333333"></polygon></g></g></g></g></svg></button></div></div></div><iframe id="_hjSafeContext_63086007" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="./index_files/saved_resource(1).html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body></html>
+      C402.765,25.895,404.093,19.231,400.858,11.427z"></path></g></svg></button></div><div id="ot-anchor"></div><section id="ot-fltr-modal"><div id="ot-fltr-cnt"><button id="clear-filters-handler">Clear</button><div class="ot-fltr-scrlcnt ot-pc-scrollbar"><div class="ot-fltr-opts"><div class="ot-fltr-opt"><div class="ot-chkbox"><input id="chkbox-id" type="checkbox" class="category-filter-handler"> <label for="chkbox-id"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div></div></div><div class="ot-fltr-btns"><button id="filter-apply-handler">Apply</button> <button id="filter-cancel-handler">Cancel</button></div></div></div></section></div></div><section id="ot-lst-cnt" class="ot-host-cnt ot-pc-scrollbar"><div id="ot-sel-blk"><div class="ot-sel-all"><div class="ot-sel-all-hdr"><span class="ot-consent-hdr">Consent</span> <span class="ot-li-hdr">Leg.Interest</span></div><div class="ot-sel-all-chkbox"><div class="ot-chkbox" id="ot-selall-hostcntr"><input id="select-all-hosts-groups-handler" type="checkbox"> <label for="select-all-hosts-groups-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div><div class="ot-chkbox" id="ot-selall-vencntr"><input id="select-all-vendor-groups-handler" type="checkbox"> <label for="select-all-vendor-groups-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div><div class="ot-chkbox" id="ot-selall-licntr"><input id="select-all-vendor-leg-handler" type="checkbox"> <label for="select-all-vendor-leg-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div></div></div></div><div class="ot-sdk-row"><div class="ot-sdk-column"></div></div></section></section><div class="ot-pc-footer ot-pc-scrollbar"><div class="ot-btn-container"> <button class="save-preference-btn-handler onetrust-close-btn-handler">Confirm My Choices</button></div><!-- Footer logo --><div class="ot-pc-footer-logo"><a href="https://www.onetrust.com/products/cookie-consent/" target="_blank" rel="noopener noreferrer" aria-label="Powered by OneTrust Opens in a new Tab"><img alt="Powered by Onetrust" src="./peace_files/powered_by_logo.svg" title="Powered by OneTrust Opens in a new Tab"></a></div></div><!-- Cookie subgroup container --><!-- Vendor list link --><!-- Cookie lost link --><!-- Toggle HTML element --><!-- Checkbox HTML --><!-- plus minus--><!-- Arrow SVG element --><!-- Accordion basic element --><span class="ot-scrn-rdr" aria-atomic="true" aria-live="polite"></span><!-- Vendor Service container and item template --></div><iframe class="ot-text-resize" sandbox="allow-same-origin" title="onetrust-text-resize" style="position: absolute; top: -50000px; width: 100em;" aria-hidden="true" src="./peace_files/saved_resource.html"></iframe></div><div id="ot-sdk-btn-floating" class="ot-floating-button" data-title="Cookies settings"><div class="ot-floating-button__front custom-persistent-icon"><button type="button" class="ot-floating-button__open" aria-label="Open Preferences"></button></div><div class="ot-floating-button__back custom-persistent-icon"><button type="button" class="ot-floating-button__close" aria-label="Close Preferences" aria-hidden="true" style="display: none;"><!--?xml version="1.0" encoding="UTF-8"?--> <svg role="presentation" tabindex="-1" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Banner_02" class="ot-floating-button__svg-fill" transform="translate(-318.000000, -725.000000)" fill="#ffffff" fill-rule="nonzero"><g id="Group-2" transform="translate(305.000000, 712.000000)"><g id="icon/16px/white/close"><polygon id="Line1" points="13.3333333 14.9176256 35.0823744 36.6666667 36.6666667 35.0823744 14.9176256 13.3333333"></polygon><polygon id="Line2" transform="translate(25.000000, 25.000000) scale(-1, 1) translate(-25.000000, -25.000000) " points="13.3333333 14.9176256 35.0823744 36.6666667 36.6666667 35.0823744 14.9176256 13.3333333"></polygon></g></g></g></g></svg></button></div></div></div><iframe id="_hjSafeContext_42723253" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="./peace_files/saved_resource(1).html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body></html>
