@@ -214,9 +214,11 @@ main{
 }
 
 .carousel-inner {
-    border-radius: 10px; /* Bo góc cho các ảnh */
+    background-color: #f0f0f0; /* Màu nền phù hợp */
+    border-radius: 10px; /* Bo góc cho phần carousel */
     overflow: hidden;
     margin-top: 5rem;
+    height: 30rem; /* Điều chỉnh chiều cao của background carousel */
 }
 
 .carousel-item img {

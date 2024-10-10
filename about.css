@@ -1,0 +1,114 @@
+.title-about{
+    color: black;
+    text-align: center; 
+    width: 70%; /* Đặt chiều rộng bằng với đường kẻ */
+    margin: 0 auto; /* Căn giữa div */
+    font-size: 3rem;
+}
+.divider50 {
+    height: 1px; /* Độ cao của đường kẻ */
+    background-color: rgb(200, 200, 200); /* Màu xám nhạt */
+    margin: 2rem auto; /* Khoảng cách trên và dưới */
+    width: 50%;
+}
+.title-about-p{
+    color: rgba(3, 0, 0, 0.678);
+    text-align: left;
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.5rem;
+}
+.text-about{
+    color: orange;
+    text-align: left; 
+    width: 50%; /* Đặt chiều rộng bằng với đường kẻ */
+    margin: 0 auto; /* Căn giữa div */
+    font-size: 1.5rem;
+}
+.custom-carousel-container {
+    width: 50%; /* Chiều rộng tổng thể của carousel */
+    margin: 0 auto; /* Căn giữa carousel */
+    background-color: #f0f0f0; /* Màu nền nhạt */
+    padding: 2rem; /* Khoảng cách bên trong */
+    border-radius: 15px; /* Bo tròn góc */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Hiệu ứng đổ bóng */
+}
+
+.custom-carousel-title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: orange;
+}
+
+#customCarousel {
+    width: 100%; /* Chiều rộng carousel */
+}
+
+.carousel-inner {
+    border-radius: 10px; /* Bo góc cho các ảnh */
+    overflow: hidden;
+    height: 30rem; /* Chiều cao cố định cho carousel */
+}
+
+.carousel-item img {
+    height: 25rem; /* Giữ chiều cao của ảnh */
+    object-fit: contain; 
+    width: 100%;
+    background-color: #f0f0f0; /* Thêm màu nền để bù vào khoảng trống (nếu có) */
+}
+
+.custom-carousel-caption {
+    background-color: rgba(0, 0, 0, 0.7); /* Nền đen trong suốt */
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.custom-carousel-caption h5 {
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.custom-carousel-caption p {
+    color: #ddd;
+}
+
+/* Nút điều khiển Carousel */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: orange; /* Đặt nền màu cam cho nút điều khiển */
+    border-radius: 50%; /* Bo góc */
+    padding: 10px; /* Khoảng cách bên trong nút */
+}
+
+.carousel-control-prev-icon::after,
+.carousel-control-next-icon::after {
+    color: rgb(255, 255, 255); /* Màu của mũi tên */
+    font-size: 2rem; /* Kích thước của mũi tên */
+}
+
+.carousel-control-prev:hover .carousel-control-prev-icon,
+.carousel-control-next:hover .carousel-control-next-icon {
+    background-color: darkorange; /* Màu nền khi hover */
+}
+
+/* Điều chỉnh chiều rộng của nút điều khiển */
+.carousel-control-prev,
+.carousel-control-next {
+    width: 5%; /* Chiều rộng của nút điều khiển */
+}
+
+
+/* Điều chỉnh responsive */
+@media (max-width: 768px) {
+    .carousel-item img {
+        height: 20rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .carousel-item img {
+        height: 15rem;
+    }
+}
+

@@ -3,7 +3,7 @@
 $pageTitle = "Trang chủ - Nobel Prize";
 
 
-include 'header.php';
+
 ?>
 
 <html lang="vi">
@@ -33,60 +33,10 @@ include 'header.php';
 
 </head>
 <body>
-
+<?php include 'header.php'; ?>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-<script>
-function animateNumbers() {
-    const numbers = document.querySelectorAll('.number');
-    numbers.forEach(number => {
-        const target = +number.getAttribute('data-target');
-        const speed = 25; // Tốc độ chạy số (càng nhỏ thì càng nhanh)
 
-        const updateNumber = () => {
-            const current = +number.innerText;
-            const increment = target / speed;
-
-            if (current < target) {
-                number.innerText = Math.ceil(current + increment);
-                setTimeout(updateNumber, 50); // Thời gian giữa mỗi lần cập nhật
-            } else {
-                number.innerText = target;
-            }
-        };
-        updateNumber();
-    });
-}
-
-// Gọi hàm khi trang được tải
-window.onload = animateNumbers;
-window.onload = function() {
-    $('.nobel-carousel').slick({
-        infinite: true,            // Vòng lặp
-        slidesToShow: 3,           // Hiển thị 3 người trên một lần
-        slidesToScroll: 1,         // Mỗi lần cuộn 1 người
-        autoplay: true,            // Tự động chạy
-        autoplaySpeed: 1000,       // Thời gian giữa các lần cuộn (2000ms = 2 giây)
-        arrows: true,              // Hiển thị mũi tên điều hướng
-        rtl: true,                 // Cuộn từ phải sang trái
-        responsive: [
-            {
-                breakpoint: 768,   // Trên màn hình nhỏ hơn 768px, chỉ hiển thị 2 người
-                settings: {
-                    slidesToShow: 2
-                }
-            },
-            {
-                breakpoint: 480,   // Trên màn hình nhỏ hơn 480px, chỉ hiển thị 1 người
-                settings: {
-                    slidesToShow: 1
-                }
-            }
-        ]
-    });
-};
-
-</script>
 <banner>
     <div class="background-div">
     <a href="#" class="link-overlay">THE NOBEL PRIZE ANNOUNCEMENTS 7-14 OCTOBER2024</a>
@@ -246,7 +196,60 @@ window.onload = function() {
     <span class="sr-only">Next</span>
   </a>
 </div>
+<?php include 'footer.php'; ?>
 </main>
+
+<script>
+function animateNumbers() {
+    const numbers = document.querySelectorAll('.number');
+    numbers.forEach(number => {
+        const target = +number.getAttribute('data-target');
+        const speed = 25; // Tốc độ chạy số (càng nhỏ thì càng nhanh)
+
+        const updateNumber = () => {
+            const current = +number.innerText;
+            const increment = target / speed;
+
+            if (current < target) {
+                number.innerText = Math.ceil(current + increment);
+                setTimeout(updateNumber, 50); // Thời gian giữa mỗi lần cập nhật
+            } else {
+                number.innerText = target;
+            }
+        };
+        updateNumber();
+    });
+}
+
+// Gọi hàm khi trang được tải
+window.onload = animateNumbers;
+window.onload = function() {
+    $('.nobel-carousel').slick({
+        infinite: true,            // Vòng lặp
+        slidesToShow: 3,           // Hiển thị 3 người trên một lần
+        slidesToScroll: 1,         // Mỗi lần cuộn 1 người
+        autoplay: true,            // Tự động chạy
+        autoplaySpeed: 1000,       // Thời gian giữa các lần cuộn (2000ms = 2 giây)
+        arrows: true,              // Hiển thị mũi tên điều hướng
+        rtl: true,                 // Cuộn từ phải sang trái
+        responsive: [
+            {
+                breakpoint: 768,   // Trên màn hình nhỏ hơn 768px, chỉ hiển thị 2 người
+                settings: {
+                    slidesToShow: 2
+                }
+            },
+            {
+                breakpoint: 480,   // Trên màn hình nhỏ hơn 480px, chỉ hiển thị 1 người
+                settings: {
+                    slidesToShow: 1
+                }
+            }
+        ]
+    });
+};
+
+</script>
 
 </body>
 </html>
