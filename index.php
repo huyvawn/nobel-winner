@@ -383,10 +383,8 @@ Header Search </label>
 		</div>
 	</noscript>
 <div class="blurb">
-<a href="https://www.nobelprize.org/prizes/about/prize-announcement-dates/" class="hero-link">
 <h1 class="title text-uppercase">
 The Nobel Prize <br>Announcements<br>7–14 October 2024 </h1>
-</a>
 </div>
 </section>
 <section class="queried-content-block">
@@ -405,8 +403,7 @@ Six days, six prizes </h2>
 <div class="content-item__content-body">
 <header class="content-item__header">
 <h2 class="content-item__title">
-<a href="https://www.nobelprize.org/prizes/about/prize-announcement-dates/" class="content-item__title-link" target="_self" rel="">
-2024 Nobel Prize announcements </a>
+<p>2024 Nobel Prize announcements </p>
 </h2>
 </header>
 <p class="content-item__excerpt ">
@@ -433,17 +430,17 @@ On 7–14 October, the 2024 Nobel Prizes will be revealed. All of the announceme
 <li class="animated-stats-block__grid-item grid-item">
 <p class="animated-stats-block__value js-animated-stats-block__value">115</p>
 <p class="animated-stats-block__text">chemistry prizes have been awarded</p>
-<a href="https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-chemistry/" class="animated-stats-block__link btn is-style-link-secondary">See all chemistry prizes and laureates</a>
+<p>See all chemistry prizes and laureates</p>
 </li>
 <li class="animated-stats-block__grid-item grid-item">
 <p class="animated-stats-block__value js-animated-stats-block__value">97</p>
 <p class="animated-stats-block__text">years old: the oldest chemistry laureate</p>
-<a href="https://www.nobelprize.org/prizes/chemistry/2019/goodenough/facts/" class="animated-stats-block__link btn is-style-link-secondary">Read about the 2019 laureate John B. Goodenough</a>
+<p>Read about the 2019 laureate John B. Goodenough</p>
 </li>
 <li class="animated-stats-block__grid-item grid-item">
 <p class="animated-stats-block__value js-animated-stats-block__value">35</p>
 <p class="animated-stats-block__text">years old: the youngest chemistry laureate</p>
-<a href="https://www.nobelprize.org/prizes/chemistry/1935/joliot-fred/facts/" class="animated-stats-block__link btn is-style-link-secondary">Read about the 1935 laureate Frédéric Joliot</a>
+<p>Read about the 1935 laureate Frédéric Joliot</p>
 </li>
 </ul>
 </section>
@@ -453,8 +450,7 @@ On 7–14 October, the 2024 Nobel Prizes will be revealed. All of the announceme
 <p class="credit">– Excerpt from the will of Alfred Nobel.</p>
 </blockquote>
 <p class="morelink">
-<a href="https://www.nobelprize.org/prizes/chemistry/" title="Learn more about the Nobel Prize in Chemistry">
-Learn more about the Nobel Prize in Chemistry </a>
+    <p>Learn more about the Nobel Prize in Chemistry</p>
 </p>
 </section>
 <section class="article-grid featured-content featured-content__color--default var-half-width-a  ">
@@ -703,12 +699,11 @@ Explore </button>
 		</div>
 	</noscript>
 <div class="blurb">
-<a href="https://www.nobelprize.org/alfred-nobel" class="hero-link">
 <h1 class="title ">
 Alfred Nobel </h1>
 <div class="lead">
 The Swedish inventor left his fortune to fund the Nobel Prizes. </div>
-</a>
+
 <div class="hero-btn-wrapper">
 <a class="hero-btn" href="https://www.nobelprize.org/alfred-nobel">
 Learn more </a>
@@ -733,8 +728,7 @@ Learn about the 2023 Nobel Prizes </h2>
 Nobel Prize in Physics 2023 </span>
 <header class="content-item__header">
 <h2 class="content-item__title">
-<a href="https://www.nobelprize.org/prizes/physics/2023/summary/" class="content-item__title-link" target="_self" rel="">
-Electrons in pulses of light </a>
+<p>Electrons in pulses of light </p>
 </h2>
 </header>
 </div>
@@ -761,8 +755,7 @@ The Nobel Prize in Physics 2023 was awarded to Pierre Agostini, Ferenc Krausz an
 Nobel Prize in Chemistry 2023 </span>
 <header class="content-item__header">
 <h2 class="content-item__title">
-<a href="https://www.nobelprize.org/prizes/chemistry/2023/summary/" class="content-item__title-link" target="_self" rel="">
-They added colour to nanotechnology </a>
+<p>They added colour to nanotechnology </p>
 </h2>
 </header>
 </div>
@@ -789,8 +782,7 @@ The Nobel Prize in Chemistry 2023 was awarded to Moungi G. Bawendi, Louis E. Bru
 Nobel Prize in Physiology or Medicine 2023 </span>
 <header class="content-item__header">
 <h2 class="content-item__title">
-<a href="https://www.nobelprize.org/prizes/medicine/2023/summary/" class="content-item__title-link" target="_self" rel="">
-Vaccine development </a>
+<p>Vaccine development</p>
 </h2>
 </header>
 </div>
@@ -817,8 +809,7 @@ The Nobel Prize in Physiology or Medicine 2023 was awarded jointly to Katalin Ka
 Nobel Prize in Literature 2023 </span>
 <header class="content-item__header">
 <h2 class="content-item__title">
-<a href="https://www.nobelprize.org/prizes/literature/2023/summary/" class="content-item__title-link" target="_self" rel="">
-Stories depicting strong emotions that many can relate to </a>
+<p>Stories depicting strong emotions that many can relate to</p>
 </h2>
 </header>
 </div>
@@ -845,8 +836,7 @@ The Nobel Prize in Literature 2023 was awarded to Jon Fosse, “for his innovati
 Nobel Peace Prize 2023 </span>
 <header class="content-item__header">
 <h2 class="content-item__title">
-<a href="https://www.nobelprize.org/prizes/peace/2023/summary/" class="content-item__title-link" target="_self" rel="">
-A courageous fight for human rights, freedom, and democracy in Iran </a>
+<p>A courageous fight for human rights, freedom, and democracy in Iran </p>
 </h2>
 </header>
 </div>
@@ -873,8 +863,7 @@ The Nobel Peace Prize 2023 was awarded to Narges Mohammadi “for her fight agai
 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2023 </span>
 <header class="content-item__header">
 <h2 class="content-item__title">
-<a href="https://www.nobelprize.org/prizes/economic-sciences/2023/summary/" class="content-item__title-link" target="_self" rel="">
-History helps us understand gender differences in the labour market </a>
+<p>History helps us understand gender differences in the labour market </p>
 </h2>
 </header>
 </div>
@@ -1118,8 +1107,7 @@ The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2023 
 <header class="content">
 <div class="title title--small">
 <h2 class="headline h1" itemprop="headline">
-<a href="https://www.nobelprize.org/nobel-prize-concert-2024/">
-Malin Byström and Petr Popelka to the Nobel Prize Concert </a>
+<p>Malin Byström and Petr Popelka to the Nobel Prize Concert </p>
 </h2>
 </div>
 </header>
@@ -1140,8 +1128,7 @@ Swedish soprano Malin Byström and the conductor of the Vienna Symphony Orchestr
 <div class="subtitle">Nobel Prize Museum, Stockholm</div>
 <div class="title">
 <h2 class="headline h3" itemprop="headline">
-<a href="https://nobelprizemuseum.se/en/now-and-then-a-small-exhibition-about-measuring-and-experiencing-time/" target="_blank">
-Then, Now, Later </a>
+<p>Then, Now, Later </p>
 </h2>
 </div>
 </header>
@@ -1149,7 +1136,7 @@ Then, Now, Later </a>
 This exhibition presents a small selection of Nobel Prize laureates in physics and literature, who have explored time in various ways. </div>
 </div>
 <figure class="featuredimage">
-<a href="https://nobelprizemuseum.se/en/now-and-then-a-small-exhibition-about-measuring-and-experiencing-time/" target="_blank"><picture><source data-srcset="https://www.nobelprize.org/images/158407-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/158407-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/158407-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="THEN, NOW, LATER (7)"><noscript><img decoding="async" src="https://www.nobelprize.org/images/158407-landscape-x-large.jpg" alt="THEN, NOW, LATER (7)" /></noscript></picture></a> </figure>
+<p><picture><source data-srcset="https://www.nobelprize.org/images/158407-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/158407-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/158407-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="THEN, NOW, LATER (7)"><noscript><img decoding="async" src="https://www.nobelprize.org/images/158407-landscape-x-large.jpg" alt="THEN, NOW, LATER (7)" /></noscript></picture></p> </figure>
 </article>
 <article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -one-third">
 <div class="content-wrapper">
@@ -1157,8 +1144,7 @@ This exhibition presents a small selection of Nobel Prize laureates in physics a
 <div class="subtitle">Nobel Prize Museum, Stockholm</div>
 <div class="title">
 <h2 class="headline h3" itemprop="headline">
-<a href="https://nobelprizemuseum.se/en/these-things-changed-the-world/" target="_blank">
-These things changed the world </a>
+<p>These things changed the world </p>
 </h2>
 </div>
 </header>
@@ -1166,7 +1152,7 @@ These things changed the world </a>
 For the first time, the Nobel Prize Museum is displaying a large selection of items from its collection of artefacts from Nobel Prize laureates.&nbsp; </div>
 </div>
 <figure class="featuredimage">
-<a href="https://nobelprizemuseum.se/en/these-things-changed-the-world/" target="_blank"><picture><source data-srcset="https://www.nobelprize.org/uploads/2024/05/Sakerna-som-förändrar-världen-10-992x656.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2024/05/Sakerna-som-förändrar-världen-10-1520x1008.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2024/05/Sakerna-som-förändrar-världen-10-2048x1352.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Museum insides"><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2024/05/Sakerna-som-förändrar-världen-10-1024x676.jpg" alt="Museum insides" /></noscript></picture></a> </figure>
+<p><picture><source data-srcset="https://www.nobelprize.org/uploads/2024/05/Sakerna-som-förändrar-världen-10-992x656.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/uploads/2024/05/Sakerna-som-förändrar-världen-10-1520x1008.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/uploads/2024/05/Sakerna-som-förändrar-världen-10-2048x1352.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Museum insides"><noscript><img decoding="async" src="https://www.nobelprize.org/uploads/2024/05/Sakerna-som-förändrar-världen-10-1024x676.jpg" alt="Museum insides" /></noscript></picture></p> </figure>
 </article>
 <article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -one-third">
 <div class="content-wrapper">
@@ -1174,8 +1160,7 @@ For the first time, the Nobel Prize Museum is displaying a large selection of it
 <div class="subtitle">Nobel Peace Center, Oslo</div>
 <div class="title">
 <h2 class="headline h3" itemprop="headline">
-<a href="https://www.nobelpeacecenter.org/en/exhibitions/the-medal-chamber" target="_blank">
-The Medal Chamber </a>
+<p>The Medal Chamber </a>
 </h2>
 </div>
 </header>
@@ -1183,12 +1168,12 @@ The Medal Chamber </a>
 The Nobel Peace Prize medal is shown in all its glory in the Medal Chamber. Here, visitors can experience the world’s foremost symbol of peace. </div>
 </div>
 <figure class="featuredimage">
-<a href="https://www.nobelpeacecenter.org/en/exhibitions/the-medal-chamber" target="_blank"><picture><source data-srcset="https://www.nobelprize.org/images/122996-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/122996-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/122996-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="NPC Medalje - presse 28"><noscript><img decoding="async" src="https://www.nobelprize.org/images/122996-landscape-x-large.jpg" alt="NPC Medalje - presse 28" /></noscript></picture></a> </figure>
+<a><picture><source data-srcset="https://www.nobelprize.org/images/122996-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/122996-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/122996-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="NPC Medalje - presse 28"><noscript><img decoding="async" src="https://www.nobelprize.org/images/122996-landscape-x-large.jpg" alt="NPC Medalje - presse 28" /></noscript></picture></p> </figure>
 </article>
 </section>
 <section class="newsletter-signup">
 <div class="wrapper">
-<div class="blurb">
+<div>
 <h3>Sign up for the “Monthly” newsletter</h3>
 <p></p><p>Join thousands of global subscribers enjoying the free monthly Nobel Prize highlights, trivia and up-to-date information.</p>
 <p></p>
@@ -1227,8 +1212,7 @@ Play and learn </h2>
 <div class="content-item__content-body">
 <header class="content-item__header">
 <h2 class="content-item__title">
-<a href="https://educationalgames.nobelprize.org/educational/medicine/bloodtypinggame/" class="content-item__title-link" target="_blank" rel="">
-The Blood Typing Game </a>
+<p>The Blood Typing Game </p>
 </h2>
 </header>
 <p class="content-item__excerpt ">
@@ -1253,8 +1237,7 @@ How much do you know about blood types? Try out in this game. </p>
 <div class="content-item__content-body">
 <header class="content-item__header">
 <h2 class="content-item__title">
-<a href="https://educationalgames.nobelprize.org/educational/medicine/pavlov/index.php" class="content-item__title-link" target="_blank" rel="">
-Pavlov’s Dog </a>
+<p>Pavlov’s Dog </p>
 </h2>
 </header>
 <p class="content-item__excerpt ">
@@ -1279,8 +1262,7 @@ Learn about conditioned reflexes in this interactive game! </p>
 <div class="content-item__content-body">
 <header class="content-item__header">
 <h2 class="content-item__title">
-<a href="https://educationalgames.nobelprize.org/educational/medicine/vitamin_b1/" class="content-item__title-link" target="_blank" rel="">
-Vitamin B1 </a>
+<p>Vitamin B1 </p>
 </h2>
 </header>
 <p class="content-item__excerpt ">
@@ -1305,8 +1287,7 @@ This fast-paced game relies on a keen knowledge of food containing vitamin B1 </
 <div class="content-item__content-body">
 <header class="content-item__header">
 <h2 class="content-item__title">
-<a href="https://www.nobelpeacecenter.org/en/education/minecraft/peace-builders" class="content-item__title-link" target="_blank" rel="">
-Peace Builders </a>
+<p>Peace Builders </p>
 </h2>
 </header>
 <p class="content-item__excerpt ">
@@ -1368,44 +1349,28 @@ More to explore </h2>
 </header>
 <ul class="social-media-block__list">
 <li class="social-media-block__list-item">
-<a href="https://www.instagram.com/p/DATV9OLOCj8/" class="social-media-block__link" target="_blank" rel="noreferrer">
 <img class="social-media-block__image" src="./index_files/461311628_403492822526891_3165605466903901013_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
 </li>
 <li class="social-media-block__list-item">
-<a href="https://www.instagram.com/reel/DASnjNNqtKE/" class="social-media-block__link" target="_blank" rel="noreferrer">
 <img class="social-media-block__image" src="./index_files/461090404_1498652124166983_7111286669275313806_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
 </li>
 <li class="social-media-block__list-item">
-<a href="https://www.instagram.com/reel/DAQ4AvItHS4/" class="social-media-block__link" target="_blank" rel="noreferrer">
 <img class="social-media-block__image" src="./index_files/461063109_2236742586710015_7491873715032744969_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
 </li>
 <li class="social-media-block__list-item">
-<a href="https://www.instagram.com/reel/DAQJrSrJeaT/" class="social-media-block__link" target="_blank" rel="noreferrer">
 <img class="social-media-block__image" src="./index_files/461178971_3074556416020444_8537818301965637502_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
 </li>
 <li class="social-media-block__list-item">
-<a href="https://www.instagram.com/reel/DAN1b3uCie0/" class="social-media-block__link" target="_blank" rel="noreferrer">
 <img class="social-media-block__image" src="./index_files/460935463_1709379826561391_8120626289732114742_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
 </li>
 <li class="social-media-block__list-item">
-<a href="https://www.instagram.com/p/DANqIxuOPwX/" class="social-media-block__link" target="_blank" rel="noreferrer">
 <img class="social-media-block__image" src="./index_files/460738061_877175161177266_3467284189588977102_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
 </li>
 <li class="social-media-block__list-item">
-<a href="https://www.instagram.com/p/DALx-SstU7t/" class="social-media-block__link" target="_blank" rel="noreferrer">
 <img class="social-media-block__image" src="./index_files/460830034_1628180621446029_732936151338922309_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
 </li>
 <li class="social-media-block__list-item">
-<a href="https://www.instagram.com/p/DALKahpuxAx/" class="social-media-block__link" target="_blank" rel="noreferrer">
 <img class="social-media-block__image" src="./index_files/460851605_1302755717799771_6162207046540142409_n.jpg" height="255" width="255" loading="lazy" decoding="async" alt="">
-</a>
 </li>
 </ul>
 </section>
@@ -1418,64 +1383,61 @@ More to explore </h2>
 <header class="content">
 <div class="title">
 <h2 class="headline h3" itemprop="headline">
-<a href="https://www.nobelprize.org/prizes/physics/1957/lee/facts/">
-Physicist Tsung-Dao Lee dies </a>
+<p href="#">
+Physicist Tsung-Dao Lee dies </p>
 </h2>
 </div>
 </header>
 <div class="text">
-Tsung Dao Lee passed away on 4 August, age 97. He was awarded the Nobel Prize in Physics 1957 for his “penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles.”<br><br><a href="https://www.nobelprize.org/prizes/physics/1957/lee/biographical/">Biography</a> </div>
+Tsung Dao Lee passed away on 4 August, age 97. He was awarded the Nobel Prize in Physics 1957 for his “penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles.”<br><br><p>Biography</p> </div>
 </div>
 <figure class="featuredimage">
-<a href="https://www.nobelprize.org/prizes/physics/1957/lee/facts/"><picture><source data-srcset="https://www.nobelprize.org/images/lee-13121-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/lee-13121-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/lee-13121-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Tsung-Dao (T.D.) Lee"><noscript><img decoding="async" src="https://www.nobelprize.org/images/lee-13121-landscape-x-large.jpg" alt="Tsung-Dao (T.D.) Lee" /></noscript></picture></a> </figure>
+<p><img decoding="async" src="https://www.nobelprize.org/images/lee-13121-landscape-x-large.jpg" alt="Tsung-Dao (T.D.) Lee" /></p></figure>
 </article>
 <article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -one-fourth">
 <div class="content-wrapper">
 <header class="content">
 <div class="title">
 <h2 class="headline h3" itemprop="headline">
-<a href="https://www.nobelprize.org/prizes/medicine/2005/warren/facts/">
-J. Robin Warren passes away aged 87 </a>
+<p>J. Robin Warren passes away aged 87 </p>
 </h2>
 </div>
 </header>
 <div class="text">
-J. Robin Warren passed away on 23 July 2024. He was awarded the 2005 Nobel Prize in Physiology or Medicine for the discovery of the bacterium&nbsp;<em>Helicobacter pylori</em>&nbsp;and its role in gastritis and peptic ulcer disease<br><br><a href="https://www.nobelprize.org/prizes/medicine/2005/warren/biographical/">Biography</a><br> </div>
+J. Robin Warren passed away on 23 July 2024. He was awarded the 2005 Nobel Prize in Physiology or Medicine for the discovery of the bacterium&nbsp;<em>Helicobacter pylori</em>&nbsp;and its role in gastritis and peptic ulcer disease<br><br><p>Biography</p><br> </div>
 </div>
 <figure class="featuredimage">
-<a href="https://www.nobelprize.org/prizes/medicine/2005/warren/facts/"><picture><source data-srcset="https://www.nobelprize.org/images/warren-13711-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/warren-13711-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/warren-13711-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Robin Warren"><noscript><img decoding="async" src="https://www.nobelprize.org/images/warren-13711-landscape-x-large.jpg" alt="Robin Warren" /></noscript></picture></a> </figure>
+<img decoding="async" src="https://www.nobelprize.org/images/warren-13711-landscape-x-large.jpg" alt="Robin Warren" /></figure>
 </article>
 <article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -one-fourth">
 <div class="content-wrapper">
 <header class="content">
 <div class="title">
 <h2 class="headline h3" itemprop="headline">
-<a href="https://www.nobelprize.org/prizes/medicine/1982/samuelsson/facts/">
-Bengt Samuelsson 1934‒2024 </a>
+<p>Bengt Samuelsson 1934‒2024 </p>
 </h2>
 </div>
 </header>
 <div class="text">
-Bengt Samuelsson passed away on 5 July 2024, age 90. He was awarded the 1982 Nobel Prize in Physiology or Medicine for discoveries concerning prostaglandins and related biologically active substances.<br><br><a href="https://www.nobelprize.org/prizes/medicine/1982/samuelsson/biographical/">Biography</a> </div>
+Bengt Samuelsson passed away on 5 July 2024, age 90. He was awarded the 1982 Nobel Prize in Physiology or Medicine for discoveries concerning prostaglandins and related biologically active substances.<br><br><p>Biography</p> </div>
 </div>
 <figure class="featuredimage">
-<a href="https://www.nobelprize.org/prizes/medicine/1982/samuelsson/facts/"><picture><source data-srcset="https://www.nobelprize.org/images/samuelsson-13347-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/samuelsson-13347-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/samuelsson-13347-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Bengt I. Samuelsson"><noscript><img decoding="async" src="https://www.nobelprize.org/images/samuelsson-13347-landscape-x-large.jpg" alt="Bengt I. Samuelsson" /></noscript></picture></a> </figure>
+<img decoding="async" src="https://www.nobelprize.org/images/samuelsson-13347-landscape-x-large.jpg" alt="Bengt I. Samuelsson" /></figure>
 </article>
 <article itemscope="" itemtype="http://schema.org/BlogPosting" class="article -one-fourth">
 <div class="content-wrapper">
 <header class="content">
 <div class="title">
 <h2 class="headline h3" itemprop="headline">
-<a href="https://www.nobelprize.org/prizes/literature/2013/munro/facts/">
-Alice Munro dies aged 92 </a>
+<p>Alice Munro dies aged 92 </p>
 </h2>
 </div>
 </header>
 <div class="text">
-Canadian author Alice Munro passed away on 15 May 2024. She was awarded the Nobel Prize in Literature 2013 with the motivation “master of the contemporary short story”.<br><a href="https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/"><br></a><a href="https://www.nobelprize.org/prizes/literature/2013/munro/biographical/">Biography</a><br> </div>
+Canadian author Alice Munro passed away on 15 May 2024. She was awarded the Nobel Prize in Literature 2013 with the motivation “master of the contemporary short story”.<br><a href="https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/"><br></a><p>Biography</p><br> </div>
 </div>
 <figure class="featuredimage">
-<a href="https://www.nobelprize.org/prizes/literature/2013/munro/facts/"><picture><source data-srcset="https://www.nobelprize.org/images/munro-15184-landscape-medium-2x.jpg" media="(min-width: 220px)"><source data-srcset="https://www.nobelprize.org/images/munro-15184-landscape-large-2x.jpg" media="(min-width: 900px)"><source data-srcset="https://www.nobelprize.org/images/munro-15184-landscape-x-large-2x.jpg" media="(min-width: 1400px)"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Alice Munro"><noscript><img decoding="async" src="https://www.nobelprize.org/images/munro-15184-landscape-x-large.jpg" alt="Alice Munro" /></noscript></picture></a> </figure>
+<img decoding="async" src="https://www.nobelprize.org/images/munro-15184-landscape-x-large.jpg" alt="Alice Munro" /></figure>
 </article>
 </section>
 </div>
@@ -1484,21 +1446,21 @@ Canadian author Alice Munro passed away on 15 May 2024. She was awarded the Nobe
 <div class="container">
 <section class="footer-information">
 <h4 class="heading">
-<a href="https://www.nobelprize.org/the-nobel-prize-organisation/">About the Nobel Prize organisation</a> </h4>
+<p>About the Nobel Prize organisation</p> </h4>
 <div class="footer-sections">
 <div class="footer-section">
 <h5>
-<a href="https://www.nobelprize.org/the-nobel-prize-organisation/the-nobel-foundation/">The Nobel Foundation</a> </h5>
+<p>The Nobel Foundation</a> </h5>
 <p>Tasked with a mission to manage Alfred Nobel's fortune and has&nbsp;ultimate responsibility for fulfilling the intentions of Nobel's will.</p>
 </div>
 <div class="footer-section">
 <h5>
-<a href="https://www.nobelprize.org/the-nobel-prize-organisation/prize-awarding-institutions/">The prize-awarding institutions</a> </h5>
+<p>The prize-awarding institutions</p> </h5>
 <p>For more than a century, these academic institutions have worked independently to select Nobel Prize laureates.</p>
 </div>
 <div class="footer-section">
 <h5>
-<a href="https://www.nobelprize.org/the-nobel-prize-organisation/outreach-organisations/">Outreach organisations</a> </h5>
+<p>Outreach organisations</p></h5>
 <p>Several outreach organisations and activities have been developed to inspire generations and disseminate knowledge about the Nobel Prize.</p>
 </div>
 </div>
