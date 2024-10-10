@@ -1,7 +1,6 @@
-.person-img{
-    width: 100%;
-    object-fit: contain;
-}
-.header-h3{
-    color: #cc9b40;
+
+
+p{
+    font-size: 4em;
+    line-height: 1.3333;
 }
