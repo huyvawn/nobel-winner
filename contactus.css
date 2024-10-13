@@ -1,0 +1,81 @@
+/* Container for the form and contact details */
+.contact-container {
+    width: 70%;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Title styling */
+.contact-container h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+/* Paragraph for description */
+.contact-container p {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    color: #666;
+}
+
+/* Form styling */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+form label {
+    font-size: 1.1rem;
+    color: #333;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    width: 100%;
+    padding: 1rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+form button:hover {
+    background-color: #45a049;
+}
+
+/* Contact information section */
+.contact-info {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.contact-info h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.contact-info p {
+    font-size: 1.1rem;
+    color: #555;
+}
+
+.contact-info i {
+    color: #4CAF50;
+    margin-right: 0.5rem;
+}
